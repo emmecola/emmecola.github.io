@@ -6,5 +6,6 @@ I am currently working as an external IT consultant at the [Joint Research Centr
 
 You can find me here:
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colaiacovo/)
 [![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/emmecola.bsky.app)
