@@ -1,10 +1,8 @@
-<img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="180" align="left">
+<img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="160" align="left">
 
 Hi, I am Moreno Colaiacovo.
 
-I am a bioinformatician with expertise in NGS data analysis. I am currently working as a bioinformatics and IT consultant at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra, Italy. Here I provide bioinformatics support to the activities of the European Reference Laboratory for Genetically Modified Food and Feed ([EURL GMFF](https://gmo-crl.jrc.ec.europa.eu/)), performing bioinformatics analyses, maintaining the current website and bioinformatics infrastructure and developing web applications.
-
-I like science and science communication.
+I am a bioinformatician with expertise in NGS data analysis. I am currently working as a bioinformatics and IT consultant at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra, Italy. Here I provide bioinformatics support to the activities of the European Reference Laboratory for Genetically Modified Food and Feed ([EURL GMFF](https://gmo-crl.jrc.ec.europa.eu/)), performing bioinformatics analyses, maintaining the current website and bioinformatics infrastructure and developing web applications. I like science and science communication.
 
 In my projects I have used the following programming languages and tools:
 
