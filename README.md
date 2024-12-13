@@ -1,4 +1,4 @@
-<img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="160" align="left">
+<img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
 
 Hi, I am Moreno Colaiacovo.
 
