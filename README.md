@@ -1,6 +1,9 @@
-<div style="display: flex; flex-wrap: wrap">
-  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
-    <img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
+<div align="left">
+<table>
+<tr>
+<td width="30%">
+
+<img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
 
 Hi, I am Moreno Colaiacovo.
 
@@ -33,11 +36,14 @@ You can find me here:
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.uno/@emmecola)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://mygenomix.wordpress.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
-    
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    Work in progress
-  </div>
 
+</td>
+
+<td>
+Work in progress
+</td>
+
+</tr>
+</table>
 </div>
 
