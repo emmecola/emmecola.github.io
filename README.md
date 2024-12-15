@@ -1,5 +1,5 @@
-<div style="display: flex;">
-  <div style="width: 30%; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap">
+  <div style="width: 30%; padding: 10px; min-width: 300 px">
     <img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
 
 Hi, I am Moreno Colaiacovo.
