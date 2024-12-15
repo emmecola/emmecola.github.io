@@ -1,0 +1,27 @@
+name: Update Time Hourly
+
+on:
+  schedule:
+    - cron: '* * * * 5'  # Run every 10 minutes
+  workflow_dispatch:     # Allow manual triggering
+
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Update HTML with current time
+      run: |
+        current_time=$(date "+%Y-%m-%d %H:%M:%S")
+        sed -i "s|<p id=\"current-time\">.*</p>|<p id=\"current-time\">$current_time</p>|" genomics-weekly/index.html
+    
+    - name: Commit and push changes
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add genomics-weekly/index.html
+        git commit -m "Update time to $current_time"
+        git push
