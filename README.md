@@ -11,6 +11,7 @@ In my projects I have used the following programming languages and tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=fff)
+
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
