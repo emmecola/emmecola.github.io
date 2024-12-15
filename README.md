@@ -27,7 +27,7 @@ In my projects I have used the following programming languages and tools:
 You can find me here:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colaiacovo/)
-[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/emmecola.bsky.app)
+[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/emmecola.github.io)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.uno/@emmecola)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://mygenomix.wordpress.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
