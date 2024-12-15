@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap">
-  <div style="width: 30%; padding: 10px; min-width: 300 px">
+  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
     <img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
 
 Hi, I am Moreno Colaiacovo.
@@ -35,7 +35,7 @@ You can find me here:
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
     
   </div>
-  <div style="padding: 10px;">
+  <div style="flex: 1; min-width: 300px;">
     Work in progress
   </div>
 
