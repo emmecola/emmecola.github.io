@@ -1,5 +1,5 @@
 include: [".well-known"]
-theme: jekyll-theme-minima
+theme: minima
 title: Moreno Colaiacovo
 description: My GitHub page
 header_pages:
