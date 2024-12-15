@@ -35,7 +35,9 @@ You can find me here:
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
     
   </div>
-  <div style="padding: 10px;"></div>
+  <div style="padding: 10px;">
+    Work in progress
+  </div>
 
 </div>
 
