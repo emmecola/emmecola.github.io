@@ -1,8 +1,3 @@
-<div align="left">
-<table>
-<tr>
-<td width="30%">
-
 <img src="https://emmecola.github.io/emmecola.jpg" alt="emmecola" width="150" align="left">
 
 Hi, I am Moreno Colaiacovo.
@@ -36,14 +31,3 @@ You can find me here:
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.uno/@emmecola)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://mygenomix.wordpress.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
-
-</td>
-
-<td>
-Work in progress
-</td>
-
-</tr>
-</table>
-</div>
-
