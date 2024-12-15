@@ -3,3 +3,9 @@ theme: minima
 header_pages:
   - README.md
   - genomics-weekly/index.html
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/emmecola" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/emmecola.github.io" }
+    - { platform: mastodon, user_url: "https://mastodon.uno/@emmecola" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/colaiacovo/" }
