@@ -15,7 +15,6 @@ In my projects I have used the following programming languages and tools:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=fff)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?logo=drupal&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
