@@ -1,7 +1,5 @@
 include: [".well-known"]
 theme: minima
-title: Moreno Colaiacovo
-description: My GitHub page
 header_pages:
   - README.md
   - genomics-weekly/index.html
