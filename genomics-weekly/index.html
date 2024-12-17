@@ -6,3 +6,14 @@ title: Genomics Weekly
 <h1>Welcome to Genomics Weekly</h1>
 <p>Work in progress</p>
 <p id="current-time">**2024-12-17 04:15:42**</p>
+<div id="summary"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    fetch('summary.md')
+    .then(response => response.text())
+    .then(data => {
+        document.getElementById('summary').innerHTML = marked.parse(data);
+    })
+    .catch(error => console.error('Error loading content:', error));
+</script>
