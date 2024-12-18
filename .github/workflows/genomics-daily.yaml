@@ -1,0 +1,51 @@
+name: Genomics Daily run
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-genomics-summary:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout first repository
+      uses: actions/checkout@v3
+      with:
+        path: github-page
+
+    - name: Checkout second repository
+      uses: actions/checkout@v3
+      with:
+        repository: emmecola/genomics-daily
+        path: genomics-daily
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r genomics-daily/requirements.txt
+
+    - name: Run Python script and prepare summary
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      run: |
+        CURRENT_DATE=$(date +"%d/%m/%y")
+        PREVIOUS_DATE=$(date -d "yesterday" +"%y-%m-%d")
+        cp github-page/genomics-daily/summary.md github-page/genomics-daily/archive/summary-$PREVIOUS_DATE.md
+        python genomics-daily/genomics-daily.py > github-page/genomics-daily/summary.md
+        echo "\n*Last update: $CURRENT_DATE *" >> github-page/genomics-daily/summary.md
+
+    - name: Commit and push changes
+      run: |
+        cd github-page
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add --all
+        git commit -m "Update daily genomics summary"
+        git push
