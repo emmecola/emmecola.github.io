@@ -37,6 +37,7 @@ jobs:
       run: |
         CURRENT_DATE=$(date +"%d/%m/%y")
         PREVIOUS_DATE=$(date -d "yesterday" +"%y-%m-%d")
+        cp github-page/genomics-daily/summary.md github-page/genomics-daily/archive/summary-$PREVIOUS_DATE.md
         python genomics-daily/genomics-daily.py genomics-daily/keywords.txt genomics-daily/journals.txt > github-page/genomics-daily/summary.md
         echo "" >> github-page/genomics-daily/summary.md
         echo "*Last update: $CURRENT_DATE*" >> github-page/genomics-daily/summary.md
