@@ -35,6 +35,10 @@ jobs:
     - name: Run Python script and prepare summary
       env:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        BSKY_USER: ${{ secrets.BSKY_USER }}
+        BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
+        MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+        MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
       run: |
         CURRENT_DATE=$(date +"%d/%m/%y")
         PREVIOUS_DATE=$(date -d "yesterday" +"%y-%m-%d")
