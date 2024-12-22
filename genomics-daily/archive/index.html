@@ -65,6 +65,8 @@ button:hover {
 <script>
     const form = document.getElementById('dateForm');
     const result = document.getElementById('result');
+    document.getElementById('documentDate').max = new Date().toISOString().split('T')[0];
+    document.getElementById('documentDate').min = '2024-12-19'
     form.addEventListener('submit', (e) => {
         e.preventDefault();
         const date = document.getElementById('documentDate').value;
