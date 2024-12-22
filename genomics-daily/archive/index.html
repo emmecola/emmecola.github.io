@@ -58,3 +58,25 @@ button:hover {
     </form>
 
 </div>
+
+<div id="result"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    const form = document.getElementById('dateForm');
+    const result = document.getElementById('result');
+
+    form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const date = document.getElementById('documentDate').value;
+        const formattedDate = date.split('-').join('');
+
+        fetch(`${formattedDate}.md`)
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('result').innerHTML = marked.parse(data);
+        })
+        .catch(error => console.error('Error loading content:', error));
+
+    });
+</script>
