@@ -65,17 +65,16 @@ button:hover {
 <script>
     const form = document.getElementById('dateForm');
     const result = document.getElementById('result');
-
     form.addEventListener('submit', (e) => {
         e.preventDefault();
         const date = document.getElementById('documentDate').value;
-
-        fetch(`${date}.md`)
+        const [year, month, day] = date.split('-');
+        const formattedDate = `${year.slice(2)}-${month}-${day}`;
+        fetch(`summary-${formattedDate}.md`)
         .then(response => response.text())
         .then(data => {
             document.getElementById('result').innerHTML = marked.parse(data);
         })
         .catch(error => console.error('Error loading content:', error));
-
     });
 </script>
