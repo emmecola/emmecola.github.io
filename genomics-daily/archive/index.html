@@ -69,9 +69,8 @@ button:hover {
     form.addEventListener('submit', (e) => {
         e.preventDefault();
         const date = document.getElementById('documentDate').value;
-        const formattedDate = date.split('-').join('');
 
-        fetch(`${formattedDate}.md`)
+        fetch(`${date}.md`)
         .then(response => response.text())
         .then(data => {
             document.getElementById('result').innerHTML = marked.parse(data);
