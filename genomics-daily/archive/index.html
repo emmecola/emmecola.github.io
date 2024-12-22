@@ -3,6 +3,45 @@ layout: default
 title: Genomics Daily archive
 ---
 
+<style>
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+input[type="date"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    font-size: 1rem;
+    color: #1a1a1a;
+}
+
+input[type="date"]:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+</style>
+
 <div id="date-select">
 
     <form id="dateForm">
