@@ -3,4 +3,19 @@ layout: default
 title: Genomics Daily archive
 ---
 
-<div id="date-select"></div>
+<div id="date-select">
+
+    <form id="dateForm">
+        <div class="form-group">
+            <label for="documentDate">Select date:</label>
+            <input 
+                type="date" 
+                id="documentDate" 
+                name="documentDate"
+                required
+            >
+        </div>
+        <button type="submit">View genomics summary</button>
+    </form>
+
+</div>
