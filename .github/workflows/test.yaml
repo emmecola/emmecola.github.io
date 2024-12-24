@@ -33,4 +33,4 @@ jobs:
       env:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       run: |
-        python genomics-daily/genomics-daily.py genomics-daily/keywords.txt genomics-daily/journals.txt 7
+        python genomics-daily/genomics-daily.py genomics-daily/keywords.txt genomics-daily/journals.txt 7 advanced
