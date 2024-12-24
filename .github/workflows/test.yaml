@@ -1,0 +1,36 @@
+name: test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-genomics-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout first repository
+      uses: actions/checkout@v3
+      with:
+        path: github-page
+
+    - name: Checkout second repository
+      uses: actions/checkout@v3
+      with:
+        repository: emmecola/genomics-daily
+        path: genomics-daily
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r genomics-daily/requirements.txt
+
+    - name: Run Python script
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      run: |
+        python genomics-daily/genomics-daily.py genomics-daily/keywords.txt genomics-daily/journals.txt 7
