@@ -67,13 +67,27 @@ button:hover {
 
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
+    setTimeout( () => {
+    function firstLoad() {
+        const url = new URL(window.location.href);
+        if (url.searchParams.get("date")) {
+            const queryDate = url.searchParams.get("date")
+            document.getElementById('documentDate').value = queryDate
+            loadSummary(queryDate)
+        }
+    }
+    if (document.readyState === 'complete') {
+        firstLoad();
+    } else {
+        window.onload = firstLoad
+    }
+}, 0)
     const form = document.getElementById('dateForm');
 
     document.getElementById('documentDate').max = new Date().toISOString().split('T')[0];
     document.getElementById('documentDate').min = '2024-12-19'
-    form.addEventListener('submit', (e) => {
-        e.preventDefault();
-        const date = document.getElementById('documentDate').value;
+
+    function loadSummary(date) {
         const [year, month, day] = date.split('-');
         const formattedDate = `${year.slice(2)}-${month}-${day}`;
         fetch(`summary-${formattedDate}.md`)
@@ -82,5 +96,15 @@ button:hover {
             document.getElementById('result').innerHTML = marked.parse(data);
         })
         .catch(error => console.error('Error loading content:', error));
+    }
+    form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const date = document.getElementById('documentDate').value;
+        if (window.history) {
+            const url = new URL(window.location.href);
+            url.searchParams.set('date', date);
+            window.history.pushState(null, '', url.toString());
+        }
+        loadSummary(date)
     });
 </script>
