@@ -31,6 +31,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r genomics-daily/requirements.txt
         pip install -r genomics-daily/requirements_bot.txt
+        pip install markdown
 
     - name: Run Python script and prepare summary
       env:
@@ -45,6 +46,7 @@ jobs:
         echo "*Last update: $(date)*" >> github-page/genomics-daily/summary.md
         cp github-page/genomics-daily/summary.md github-page/genomics-daily/archive/summary-$(date +"%y-%m-%d").md
         python genomics-daily/genomics-daily-bot.py github-page/genomics-daily/summary.md
+        python genomics-daily/rss_feeder.py --input genomics-daily/summary.md --output genomics-daily/feed.xml
 
     - name: Commit and push changes
       run: |
