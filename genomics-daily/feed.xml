@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Apr 2025 06:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 06:32:15 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -108,6 +108,27 @@
 <p><em>Last update: Thu Apr 10 06:32:09 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 10 Apr 2025 06:32:16 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250410063216</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-04-11</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>Recent advances in genomics continue to push the boundaries of our understanding across diverse biological domains. From viral adaptations to human disease mechanisms and plant resilience, cutting-edge research is revealing intricate molecular landscapes that challenge our previous conceptions of genetic interactions and evolutionary processes.</p>
+<h2>🧬 Viral Codon Fitness: A New Window into Pathogen Evolution</h2>
+<p>The study by Su et al. introduces a groundbreaking approach to understanding viral host adaptation through codon usage analysis. By developing a tree-based machine learning method, researchers can now predict viral codon fitness and potential evolutionary paths. Their research specifically examined how viruses might shift their genetic strategies when interacting with human hosts, with particular attention to SARS-CoV-2. This innovative approach provides unprecedented insights into viral genomic adaptability, potentially offering new strategies for monitoring viral evolution and predicting potential transmission risks.</p>
+<h2>🔬 Decoding Genome Complexity in Plant Stress Response</h2>
+<p>Researchers investigating finger millet's genetic mechanisms revealed a sophisticated microRNA regulatory network centered on the miR169-EcNF-YA13 gene interaction. This study demonstrates how specific microRNAs can dynamically control gene expression in response to environmental stressors like dehydration and salinity. By identifying how these molecular regulators work, scientists gain crucial insights into plant resilience mechanisms, which could be instrumental in developing more stress-tolerant crop varieties in an era of increasing climate uncertainty.</p>
+<h2>🧠 Unraveling Genetic Mechanisms in Neurodevelopmental Disorders</h2>
+<p>The groundbreaking research on RNU2-2 gene mutations provides critical insights into the genetic basis of severe neurodevelopmental disorders. By identifying recurrent mutations in this small nuclear RNA gene, researchers have uncovered a novel genetic mechanism underlying complex neurological conditions. The study reveals that these mutations lead to a distinctive syndrome characterized by intellectual disability, epilepsy, and other neurological symptoms, highlighting the intricate role of spliceosomal RNA in brain development and function.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40211017/">Su et al. - Predicting viral host codon fitness</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40210666/">Rani et al. - MicroRNA regulatory network in finger millet</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40210679/">Greene et al. - RNU2-2 mutations in neurodevelopmental disorders</a></li>
+</ol>
+<p><em>Last update: Fri Apr 11 06:32:08 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 11 Apr 2025 06:32:15 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250411063215</guid>
   </item>
 </channel>
 </rss>
