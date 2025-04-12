@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 06:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 06:29:23 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -129,6 +129,27 @@
 <p><em>Last update: Fri Apr 11 06:32:08 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 11 Apr 2025 06:32:15 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250411063215</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-04-12</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life's Domains</h1>
+<p>Recent advances in genomics continue to illuminate the intricate molecular mechanisms underlying biological diversity, from rare earth nanoparticle interactions to human population genetics and evolutionary adaptations. These groundbreaking studies showcase how sophisticated genomic approaches are transforming our understanding of genetic systems across multiple scales and organisms.</p>
+<h2>🧬 Genetic Modulation of Nanomaterial Biotransformation</h2>
+<p>In a pioneering study, researchers used CRISPR-based genome-scale knockout techniques to explore how genetic factors control the biotransformation of rare earth oxide (REO) nanoparticles. By identifying the SMPD1 gene's crucial role in lysosomal transformation, the team demonstrated that genetic manipulation can significantly alter nanomaterial interactions with biological systems. This breakthrough provides unprecedented insights into controlling nanomaterial biological fate, with potential implications for preventing nanoparticle-induced cellular damage and inflammatory responses.</p>
+<h2>🌍 Hispanic/Latino Multi-Omics Reveals Cardiometabolic Insights</h2>
+<p>A comprehensive multi-omics analysis of Hispanic/Latino populations unveiled critical genetic factors influencing type 2 diabetes and lipid traits. By conducting an extensive meta-analysis involving over 63,000 participants, researchers identified 20 genome-wide significant loci for type 2 diabetes and 61 loci associated with lipid/lipoprotein traits. Notably, they discovered novel genes like TMEM205, NEDD9, TREH, and ANXA4 that provide deeper molecular understanding of cardiometabolic processes in this population, highlighting the importance of diverse genetic research.</p>
+<h2>🧠 Mitochondrial Signaling and Metabolic Tissue Identity</h2>
+<p>Investigating the intricate relationship between mitochondrial function and cellular identity, researchers revealed how mitochondrial damage triggers a retrograde signaling program that compromises cellular maturity in metabolic tissues. By examining β cells, hepatocytes, and brown adipocytes, the study demonstrated that disrupted mitochondrial quality control activates an integrated stress response, leading to cellular immaturity rather than cell death. This groundbreaking research suggests potential therapeutic strategies for metabolic disorders by targeting mitochondrial retrograde signaling pathways.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40210885/">Genetic modulation of rare earth nanoparticle biotransformation</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40210677/">Large-scale multi-omics analyses in Hispanic/Latino populations</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39913641/">Retrograde mitochondrial signaling governs tissue identity</a></li>
+</ol>
+<p><em>Last update: Sat Apr 12 06:29:14 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 12 Apr 2025 06:29:23 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250412062923</guid>
   </item>
 </channel>
 </rss>
