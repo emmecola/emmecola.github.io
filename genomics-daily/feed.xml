@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 06:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 06:39:39 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -499,6 +499,33 @@
 <p><em>Last update: Sun Apr 27 06:29:57 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 27 Apr 2025 06:30:04 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250427063004</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-04-28</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Cancer Therapeutics to Precision Agriculture and Neurodegenerative Research</h1>
+<p>The rapidly evolving landscape of genomics continues to unveil complex molecular mechanisms across diverse biological domains. Recent publications demonstrate how advanced genomic approaches are transforming our understanding of disease mechanisms, agricultural breeding strategies, and personalized medical interventions.</p>
+<h2>🧬 Melanoma Molecular Targeting: A Precision Approach to Cancer Therapy</h2>
+<p>The study by Xu Meng and colleagues provides groundbreaking insights into melanoma treatment by exploring the proteasome inhibitor MG132's molecular mechanisms. By meticulously investigating its effects on A375 melanoma cells, researchers discovered a dual-targeting strategy that simultaneously disrupts proliferative signaling and activates apoptotic machinery. The research revealed concentration-dependent effects, with 2 µM treatment inducing early apoptosis in 46.5% of cells and total apoptotic response in 85.5% within 24 hours. Critically, the study highlighted the potential of targeting MDM2 and MAPK pathways, offering a promising avenue for more effective melanoma therapeutic interventions.</p>
+<h2>🌶️ Deep Learning and Genomic Selection in Sweet Pepper Breeding</h2>
+<p>Maleki Hamid Hatami's research exemplifies the power of computational genomics in agricultural improvement. By employing convolutional neural networks (CNN) and genomic best linear unbiased prediction (GBLUP), the team developed an advanced model for predicting sweet pepper fruit yield with remarkable accuracy (R² = 0.879). The study identified specific genotypes (G12 and G13) as promising parents for future breeding programs, demonstrating how machine learning and genomic tools can accelerate crop improvement strategies. This approach provides a sophisticated method for selecting superior plant varieties based on complex trait interactions.</p>
+<h2>🧠 Androgen Deprivation and Neuroinflammation in Alzheimer's Disease</h2>
+<p>Maekawa Kasumi's investigation into androgen deprivation's effects on Alzheimer's disease offers nuanced insights into neuroinflammatory mechanisms. By studying male App NL-G-F/NL-G-F mice, researchers observed significant reductions in androgen receptor expression and modulated microglial inflammatory responses. Although systemic androgen deprivation altered neuroinflammatory markers like Tnf, Il6, and Socs3, the changes were insufficient to modify the disease's core pathology. This research contributes valuable knowledge about hormonal influences on neurodegenerative processes, highlighting the complexity of potential therapeutic interventions.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40289224">Xu Meng et al. - Mechanistic insights into proteasome inhibitor MG132 induced apoptosis in melanoma A375 cells</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40289216">Maleki Hamid Hatami et al. - Sweet pepper yield modeling via deep learning and selection of superior genotypes using GBLUP and MGIDI</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40289160">Maekawa Kasumi et al. - Long-term systemic androgen deprivation partially modulates neuroinflammation in male App NL-G-F/NL-G-F mice</a></p>
+</li>
+</ol>
+<p><em>Last update: Mon Apr 28 06:39:32 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 28 Apr 2025 06:39:39 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250428063939</guid>
   </item>
 </channel>
 </rss>
