@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 May 2025 06:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 06:34:15 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -670,6 +670,27 @@
 <p><em>Last update: Sun May  4 06:30:43 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 04 May 2025 06:30:50 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250504063050</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-05</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Molecular Mechanisms to Adaptive Strategies</h1>
+<p>Recent advances in genomics are unveiling intricate molecular landscapes across diverse biological systems, demonstrating how cutting-edge research is transforming our understanding of genetic complexity and adaptive mechanisms.</p>
+<h2>🧬 Decoding Drug Discovery: Predictive Models for hERG Toxicity</h2>
+<p>The study by Falcón-Cano et al. represents a significant breakthrough in early drug discovery, developing a sophisticated machine learning approach to predict potential cardiac toxicity. By integrating eXtreme Gradient Boosting with Isometric Stratified Ensemble mapping, researchers created a robust predictive model that addresses critical challenges in identifying molecules that might block hERG potassium channels. The model's ability to achieve high sensitivity and specificity while maintaining interpretability could revolutionize pharmaceutical screening processes, potentially preventing drug-induced cardiac complications before clinical trials.</p>
+<h2>🌱 Genomic Plasticity in Plants: Circular DNA Dynamics Under Stress</h2>
+<p>Ni et al.'s research on extrachromosomal circular DNAs (eccDNAs) in rice provides fascinating insights into plant genomic adaptability. By comprehensively analyzing eccDNA landscape changes under nutritional stress, the study reveals how these genetic elements contribute to genomic flexibility. The identification of eccDNAs overlapping with genes, transposable elements, and repeat units demonstrates a sophisticated molecular mechanism through which plants can potentially adapt to challenging environmental conditions, offering crucial perspectives for understanding crop resilience.</p>
+<h2>🧠 Neurological Insights: Molecular Mechanisms of Brain Injury Recovery</h2>
+<p>Zhang et al.'s investigation into irisin's protective role in traumatic brain injury (TBI) uncovers complex molecular pathways governing neurological recovery. By exploring how this muscle-derived peptide modulates autophagy, reduces oxidative stress, and inhibits inflammatory responses, the research provides a multifaceted view of potential therapeutic interventions. The study's demonstration of irisin's capacity to improve learning and spatial memory while reducing neuronal death represents a promising avenue for developing novel neurological treatments.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40320464">Falcón-Cano et al. - hERG toxicity prediction</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40320403">Ni et al. - Adaptive dynamics of extrachromosomal circular DNA</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40320408">Zhang et al. - Irisin and traumatic brain injury</a></li>
+</ol>
+<p><em>Last update: Mon May  5 06:34:09 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 05 May 2025 06:34:15 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250505063415</guid>
   </item>
 </channel>
 </rss>
