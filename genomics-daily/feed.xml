@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 May 2025 06:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 06:33:47 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -737,6 +737,27 @@
 <p><em>Last update: Thu May  8 06:33:54 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 08 May 2025 06:34:00 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250508063400</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-09</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Innovations in Variant Analysis, Tumor Immunity, and Targeted Protein Degradation</h1>
+<p>The rapidly evolving landscape of genomics continues to push the boundaries of scientific understanding, offering innovative computational tools and insights that promise to transform our approach to genetic research, disease understanding, and therapeutic strategies. This editorial highlights three groundbreaking studies that exemplify the cutting-edge methodologies reshaping genomic investigation across diverse domains.</p>
+<h2>🧬 Precision Genome Editing: Variant-Aware Off-Target Detection</h2>
+<p>The Variant-aware Cas-OFFinder represents a significant advancement in CRISPR genome editing technologies. By developing a novel pipeline that accounts for individual genetic variations, researchers have created a more nuanced approach to identifying potential off-target sites during genome editing. This web-based tool is particularly powerful because it can analyze genetic variants at the haplotype level, making it adaptable across different genomic contexts, from human research to agricultural applications like pepper cultivars.</p>
+<h2>🔬 Tumor Immune Microenvironment: Computational Deconvolution Breakthrough</h2>
+<p>TIMER3 emerges as a transformative computational resource for tumor immune analysis, integrating 15 state-of-the-art immune deconvolution algorithms to provide unprecedented insights into the tumor immune microenvironment. By incorporating an expanded collection of immunotherapy-related RNA-seq datasets, this platform enables researchers to perform large-scale analyses of immune dynamics across different treatment conditions, potentially accelerating precision immuno-oncology research and therapeutic development.</p>
+<h2>🧪 Drug Discovery: Computational Platform for Targeted Protein Degradation</h2>
+<p>E3Docker introduces an innovative online computational tool designed to revolutionize drug discovery through targeted protein degradation. By cataloging 1,075 human E3 ligases and providing a user-friendly interface for exploring potential E3 binders, this platform offers researchers a powerful resource for identifying novel molecular interactions that could lead to therapeutic interventions. The tool's ability to generate binding poses and affinity scores across multiple E3 ligases represents a significant step forward in understanding protein-ligase interactions.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40337925">Variant-aware Cas-OFFinder</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40337924">TIMER3: Tumor Immune Analysis Resource</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40337923">E3Docker: E3 Binder Discovery Platform</a></li>
+</ol>
+<p><em>Last update: Fri May  9 06:33:41 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 09 May 2025 06:33:47 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250509063347</guid>
   </item>
 </channel>
 </rss>
