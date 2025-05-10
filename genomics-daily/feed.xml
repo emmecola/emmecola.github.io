@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 06:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 06:29:45 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -758,6 +758,33 @@
 <p><em>Last update: Fri May  9 06:33:41 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 09 May 2025 06:33:47 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250509063347</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-10</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>The field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into biological systems. From exploring the intricate mechanisms of disease to understanding evolutionary adaptations, these recent studies demonstrate the power of advanced genomic technologies in deciphering the molecular foundations of life.</p>
+<h2>🧬 Revealing the Multilayered Architecture of Glioblastoma Ecosystems</h2>
+<p>The study by Nomura et al. provides a groundbreaking comprehensive analysis of glioblastoma (GBM) at the single-nucleus level. By examining 121 primary and recurrent GBM samples, the researchers uncovered three distinct layers of transcriptional heterogeneity: cellular composition, cellular states within each cell type, and baseline gene expression programs. This multilayered approach reveals the complex interactions between malignant and non-malignant cell types, offering a nuanced view of how GBM evolves and potentially suggesting new avenues for targeted therapies.</p>
+<h2>🌿 Decoding Calcium-Dependent Protein Kinases in Lotus Development</h2>
+<p>Cheng et al. conducted the first comprehensive genome-wide investigation of calcium-dependent protein kinases (CPKs) in the lotus plant. By identifying 27 CPK genes and categorizing them into five subfamilies, the researchers illuminated the evolutionary and functional significance of these genes. Their findings revealed that CPKs play crucial roles in lotus growth, development, and stress response, with tissue-specific expression patterns and potential adaptations developed through long-term survival and domestication.</p>
+<h2>🦠 Molecular Mechanisms of Bacterial Trait Inheritance</h2>
+<p>The study by Lu et al. offers a fascinating exploration of metabolic trait inheritance in individual bacterial cells. Using Lactiplantibacillus plantarum as a model, the researchers developed an innovative single-cell manipulation strategy to track the inheritance of extraordinary metabolic activities across bacterial generations. They discovered that daughter bacteria can inherit strong metabolic traits from their parents, though these traits gradually regress over approximately 30 generations, providing critical insights into bacterial genetic and environmental interactions.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40346361/">Nomura et al. - The multilayered transcriptional architecture of glioblastoma ecosystems</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40346471/">Cheng et al. - Genome-wide identification, expression profile and selection analysis of the CPK gene family in Nelumbo nucifera</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40343988/">Lu et al. - Inheritance of extraordinary metabolic activity from parental bacteria individuals</a></p>
+</li>
+</ol>
+<p><em>Last update: Sat May 10 06:29:38 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 10 May 2025 06:29:45 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250510062945</guid>
   </item>
 </channel>
 </rss>
