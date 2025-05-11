@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 06:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 06:30:45 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -785,6 +785,33 @@
 <p><em>Last update: Sat May 10 06:29:38 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 10 May 2025 06:29:45 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250510062945</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-11</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Bacterial Defense to Epigenetic Aging and Antimicrobial Resistance</h1>
+<p>The field of genomics continues to evolve rapidly, offering unprecedented insights into biological systems' intricate mechanisms. Recent publications highlight how advanced computational approaches and experimental techniques are pushing the boundaries of our understanding across diverse research domains, from molecular interactions to systemic biological processes.</p>
+<h2>🦠 Bacterial Antiphage Systems: A Molecular Arms Race</h2>
+<p>The study by Li Huan et al. provides a fascinating exploration of the Menshen antiphage system, revealing the remarkable adaptability of bacterial defense mechanisms. By systematically investigating the system's domain polymorphism, the researchers uncovered how bacteria dynamically reconfigure protein modules to combat phage invasions. The discovery of independent integration of sensor domains and continuous shuffling of effector components demonstrates the evolutionary sophistication of bacterial immune strategies, highlighting the ongoing molecular conflict between bacteria and phages.</p>
+<h2>🧓 Epigenomic Aging: Decoding Methylation Signatures</h2>
+<p>Kang Yong-Kook and colleagues introduced a groundbreaking concept of "blanket methylations" (BMs) as a novel marker of epigenomic aging. By analyzing DNA methylation patterns across different tissues, they identified fully methylated CpG clusters that emerge specifically in aged tissues. The research not only provides insights into age-related methylation changes but also links these transformations to the downregulation of key genes like Tet1 and Tet3, which protect CpG islands from methylation. This work represents a significant step towards understanding the molecular mechanisms underlying aging processes.</p>
+<h2>🔬 Comprehensive Antimicrobial Resistance Profiling</h2>
+<p>The AmrProfiler tool developed by Skoulakis Anargyros et al. addresses a critical challenge in public health by offering a comprehensive platform for identifying antimicrobial resistance (AMR) genes and mutations. By integrating data from nearly 18,000 bacterial species and including a unique module for ribosomal RNA gene mutation analysis, this tool provides researchers and clinicians with an unprecedented capability to detect and understand resistance mechanisms. The validation across multiple bacterial species demonstrates the tool's robust performance and potential to advance both research and clinical applications in combating antimicrobial resistance.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40347139">Li Huan et al. - Unveiling the multifaceted domain polymorphism of the Menshen antiphage system</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40347138">Kang Yong-Kook et al. - Emergence of CpG-cluster blanket methylation in aged tissues</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40347103">Skoulakis Anargyros et al. - AmrProfiler: identifying antimicrobial resistance genes and mutations</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun May 11 06:30:39 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 11 May 2025 06:30:45 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250511063045</guid>
   </item>
 </channel>
 </rss>
