@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 06:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 06:34:10 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -868,6 +868,27 @@
 <p><em>Last update: Wed May 14 06:33:38 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 14 May 2025 06:33:43 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250514063343</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-15</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Species and Diseases</h1>
+<p>The field of genomics continues to evolve, offering unprecedented insights into biological systems, disease mechanisms, and evolutionary processes. Recent research demonstrates how advanced sequencing technologies and sophisticated analytical approaches are transforming our understanding of genetic complexity across diverse domains.</p>
+<h2>🧬 Genome Diversity and Adaptation in Mainland Southeast Asia</h2>
+<p>The SEA3K genome dataset represents a groundbreaking exploration of genetic diversity in a historically underrepresented population. By sequencing 3,023 individuals from 30 populations in Mainland Southeast Asia, researchers identified 79.59 million small variants and 96,384 structural variants, with over 22 million small variants unique to this dataset. The study revealed high genetic heterogeneity and identified 44 genomic regions with strong signatures of Darwinian positive selection, covering genes involved in physical traits and immune responses.</p>
+<h2>🌱 Genomic Insights into Plant Breeding and Conservation</h2>
+<p>Research on Lactuca species provides a sophisticated analysis of runs of homozygosity (ROH) in lettuce varieties, offering critical insights for plant breeding and evolutionary conservation. By utilizing next-generation sequencing, researchers discovered significant variations in ROH length and distribution across cultivated and wild lettuce species. The study identified key genes associated with stress tolerance and disease resistance, highlighting the importance of understanding genetic diversity in agricultural practices and providing a roadmap for sustainable crop improvement.</p>
+<h2>🩺 Molecular Mechanisms of Neurological Disease Progression</h2>
+<p>A compelling study on constitutional mismatch repair deficiency (CMMRD) unveiled complex mutational patterns in tumors associated with this genetic condition. By genomically characterizing 41 tumors from 17 individuals, researchers demonstrated how mutational processes are influenced by factors such as affected MMR genes, tumor types, and treatment history. The research identified diverse mutational signatures, including a prominent indel signature and the impact of treatments like temozolomide, offering crucial insights into the genetic mechanisms underlying cancer development and progression.</p>
+<h3>References:</h3>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40369069/">Genome Diversity in Mainland Southeast Asia</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40369490/">Runs of Homozygosity in Lactuca Species</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40368937/">Mutational Patterns in CMMRD Tumors</a></li>
+</ul>
+<p><em>Last update: Thu May 15 06:34:00 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 15 May 2025 06:34:10 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250515063410</guid>
   </item>
 </channel>
 </rss>
