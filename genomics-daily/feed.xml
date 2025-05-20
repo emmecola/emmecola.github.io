@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 06:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 06:34:16 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -978,6 +978,33 @@
 <p><em>Last update: Mon May 19 06:34:52 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 19 May 2025 06:34:58 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250519063458</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-20</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unraveling Genomic Diversity: Insights from Cutting-Edge Research</h1>
+<p>The field of genomics continues to evolve rapidly, offering unprecedented insights into biological systems across diverse domains. From understanding genetic mechanisms in plants and human diseases to exploring microbial evolution, recent research demonstrates the power of advanced genomic techniques in deciphering complex biological phenomena.</p>
+<h2>🧬 Wheat's Evolutionary Symphony: Decoding ERF Transcription Factors</h2>
+<p>The study by Wang et al. provides a comprehensive exploration of Ethylene Response Factor (ERF) genes across wheat genomes. By analyzing 2,967 ERF genes from diploid, tetraploid, and hexaploid wheat varieties, researchers uncovered fascinating insights into gene family expansion and evolutionary dynamics. The research revealed that tandem duplication was a key mechanism for ERF gene family growth, with notable expansions in specific gene subgroups during wheat's evolutionary history. Particularly intriguing was the identification of stress-tolerant and disease-resistant ERF genes in hexaploid wheat, offering potential strategies for genetic breeding and molecular improvement of wheat species.</p>
+<h2>🦠 Mpox Virus Unveiled: Genomic Insights into Zoonotic Emergence</h2>
+<p>Parker et al. conducted a groundbreaking genomic investigation of Mpox virus (MPXV) in Nigeria and Cameroon, generating 118 viral genomes between 2018-2023. Their research revealed complex zoonotic transmission dynamics, identifying two distinct zoonotic lineages circulating across the Nigeria-Cameroon border. The study estimated that the shared ancestor of the human epidemic lineage circulated in animals in southern Nigeria in late 2013, with human emergence traced to August 2014 in Rivers State. This research provides critical insights into virus emergence, highlighting the intricate interactions between animal populations and viral transmission in cross-border forest ecosystems.</p>
+<h2>🧪 Epigenetic Landscape of Immune Cells: Histone Modifications Revealed</h2>
+<p>Huang et al. conducted a comprehensive investigation of histone post-translational modifications (hPTMs) in different T cell states, revealing fascinating insights into cellular differentiation and immune response. By profiling key histone modifications in naive, memory, and exhausted CD8 T cells, the researchers discovered unique epigenetic signatures that distinguish these cell types. Notably, they found that both activation and repression of poised genes contribute to establishing distinct cell states. An intriguing finding was the atypical role of repressive H3K9me3 modifications, which were associated with increased gene expression in exhausted T cells, challenging previous understanding of histone modification functions.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40389830">Wang et al. - Unveiling the evolutionary and transcriptional landscape of ERF transcription factors in wheat genomes</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40388983">Parker et al. - Genomics reveals zoonotic and sustained human Mpox spread in West Africa</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40389726">Huang et al. - Deciphering the role of histone modifications in memory and exhausted CD8 T cells</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue May 20 06:34:10 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 20 May 2025 06:34:16 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250520063416</guid>
   </item>
 </channel>
 </rss>
