@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 06:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 06:33:52 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1026,6 +1026,27 @@
 <p><em>Last update: Wed May 21 06:34:17 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 21 May 2025 06:34:23 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250521063423</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-22</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life's Domains</h1>
+<p>Recent advances in genomics continue to illuminate the intricate molecular mechanisms underlying biological diversity, from disease progression to evolutionary adaptations. These groundbreaking studies showcase how cutting-edge genomic technologies are transforming our understanding of complex biological systems across different kingdoms of life.</p>
+<h2>🧬 Decoding Long COVID: A Genetic Perspective</h2>
+<p>The genome-wide association study on long COVID reveals critical insights into the genetic underpinnings of this complex post-viral syndrome. By analyzing up to 6,450 long COVID cases across 24 studies, researchers identified a significant association between the FOXP4 gene and long COVID. This discovery highlights the potential role of lung physiology in the pathogenesis of prolonged COVID-19 symptoms, suggesting that genetic variations in FOXP4 might predispose individuals to persistent inflammatory responses.</p>
+<h2>🌱 Plant Resilience: Genomic Strategies in Extreme Environments</h2>
+<p>A comprehensive study on the MADS-box gene family in grass pea (Lathyrus sativus) provides unprecedented insights into plant adaptation mechanisms. By identifying 46 genes and performing detailed genomic and transcriptomic analyses, researchers uncovered how these genes regulate growth and stress responses, particularly under challenging conditions like salt stress. The research not only characterizes the genetic landscape of stress tolerance but also offers potential strategies for developing more resilient crops in arid regions.</p>
+<h2>🦠 Microbial Interactions: Unveiling Pathogen-Host Dynamics</h2>
+<p>Research on the multi-kingdom genetic barcoding system (CloneSelect) represents a breakthrough in understanding complex cellular interactions. This innovative approach enables precise clone isolation across various organisms, from human embryonic stem cells to bacterial populations. By developing a versatile method for tracking and manipulating cell populations, researchers can now explore intricate genetic mechanisms with unprecedented precision, opening new avenues for studying disease progression and cellular behavior.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40399555/">Genome-wide association study of long COVID</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40399794/">MADS-box gene family in grass pea</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40399693/">Multi-kingdom genetic barcoding system</a></li>
+</ol>
+<p><em>Last update: Thu May 22 06:33:46 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 22 May 2025 06:33:52 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250522063352</guid>
   </item>
 </channel>
 </rss>
