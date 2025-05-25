@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 06:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 06:31:01 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1101,6 +1101,33 @@
 <p><em>Last update: Sat May 24 06:30:23 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 24 May 2025 06:30:28 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250524063028</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-25</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Cellular Mechanisms and Therapeutic Strategies</h1>
+<p>Recent advances in genomics continue to push the boundaries of our understanding of biological systems, revealing intricate molecular mechanisms that have profound implications for human health, disease resistance, and environmental interactions. The following research highlights showcase the remarkable progress in deciphering complex cellular processes across different domains of life.</p>
+<h2>🧬 Viral Resistance and Epigenetic Regulation in Wheat</h2>
+<p>The study by Guo et al. reveals a fascinating mechanism of plant immunity involving the m6A methyltransferase TaHAKAI. This multifunctional enzyme not only contributes to viral defense by targeting viral RNA silencing suppressor proteins for degradation but also plays a role in modulating plant development. By functioning as both an m6A methyltransferase and an E3 ligase, TaHAKAI demonstrates the complex interplay between epigenetic modifications, protein ubiquitination, and host resistance mechanisms.</p>
+<h2>🔬 Targeted Therapy in Colorectal Cancer</h2>
+<p>Zhang and colleagues present a promising approach to colorectal cancer treatment using Taletrectinib, a synthetic inhibitor that induces pyroptosis through the SRC/AKT/mTOR signaling pathway. The research provides crucial insights into potential therapeutic strategies for overcoming drug resistance in colorectal carcinoma. By demonstrating the drug's ability to suppress tumor growth through a specific cell death mechanism, the study opens new avenues for targeted cancer interventions that go beyond traditional treatment modalities.</p>
+<h2>🦠 Bacterial Inactivation through Plasma Technology</h2>
+<p>The research by Barkhade et al. explores the potential of microwave plasma as a powerful antibacterial technique. By achieving a remarkable 6-log reduction in bacterial populations, the study highlights the mechanism of plasma-induced cell destruction through reactive oxygen species generation and membrane disruption. This innovative approach shows significant promise for sterilization and infection control, potentially revolutionizing approaches to microbial management in medical, food safety, and industrial applications.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p>Guo, J., et al. (2025). <strong>An m6A methyltransferase confers host resistance by degrading viral proteins through ubiquitination</strong>. <em>Nature Communications</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40410199">Link</a></p>
+</li>
+<li>
+<p>Zhang, T., et al. (2025). <strong>Taletrectinib promotes pyroptosis in colorectal carcinoma via SRC/AKT/mTOR axis inhibition</strong>. <em>Scientific Reports</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40410374">Link</a></p>
+</li>
+<li>
+<p>Barkhade, T., et al. (2025). <strong>Investigating the effects of microwave plasma on bacterial cell structures, viability, and membrane integrity</strong>. <em>Scientific Reports</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40410288">Link</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun May 25 06:30:55 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 25 May 2025 06:31:01 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250525063101</guid>
   </item>
 </channel>
 </rss>
