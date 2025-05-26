@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 06:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 06:35:10 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1128,6 +1128,27 @@
 <p><em>Last update: Sun May 25 06:30:55 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 25 May 2025 06:31:01 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250525063101</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-26</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Cellular Mysteries and Adaptive Mechanisms</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to push the boundaries of our understanding of biological systems. From exploring stress response mechanisms in plants to investigating disease-related genetic variations and innovative disease detection techniques, these studies highlight the power of advanced genomic approaches in deciphering complex biological phenomena.</p>
+<h2>🌱 Universal Stress Proteins: Quinoa's Genetic Resilience</h2>
+<p>The study on Universal Stress Protein (USP) gene family in Chenopodium quinoa reveals the genetic mechanisms behind the crop's remarkable adaptability. By conducting a comprehensive genome-wide analysis, researchers identified 41 USP sequences in the allotetraploid genome, demonstrating the multifunctional nature of these proteins. The research uncovered critical insights into how these genes contribute to plant survival under challenging environmental conditions like drought and high salinity, providing valuable knowledge for developing more resilient agricultural crops.</p>
+<h2>🧬 Decoding Breast Cancer: The IL-33/Wnt Axis and Tumor Progression</h2>
+<p>Researchers investigated the intricate role of the IL-33/ST2 axis in breast cancer progression, utilizing advanced techniques like CRISPR/Cas9 and single-cell RNA sequencing. The study revealed that elevated IL-33 levels correlate with aggressive cancer subtypes and poor prognosis. By demonstrating how IL-33 activates the Wnt/β-catenin signaling pathway to promote cancer stem cell characteristics, the research offers a potential novel therapeutic strategy. The findings suggest that targeting the IL-33-Wnt axis could simultaneously suppress tumor stemness and enhance immune surveillance.</p>
+<h2>🔬 Bio-Inspired Optimization: Revolutionizing Disease Detection</h2>
+<p>This innovative research explores the integration of bio-inspired optimization techniques in deep learning systems for disease diagnostics. By leveraging natural selection and social behavior models, researchers developed algorithms that efficiently navigate complex feature spaces, particularly in scenarios with limited data. The study highlights the potential of techniques like genetic algorithms, particle swarm optimization, and artificial immune systems to improve computational efficiency and model performance in medical image analysis, potentially transforming disease detection and diagnosis.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40415066/">Universal Stress Protein Gene Family in Quinoa</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40414980/">IL-33/Wnt Axis in Breast Cancer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40415068/">Bio-Inspired Optimization for Disease Detection</a></li>
+</ol>
+<p><em>Last update: Mon May 26 06:35:04 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 26 May 2025 06:35:10 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250526063510</guid>
   </item>
 </channel>
 </rss>
