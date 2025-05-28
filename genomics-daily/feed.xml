@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 06:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 06:34:03 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1176,6 +1176,25 @@
 <p><em>Last update: Tue May 27 06:34:02 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 27 May 2025 06:34:07 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250527063407</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-28</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unveiling Complexity in Biological Systems</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of our understanding across diverse biological domains. From unraveling ancient evolutionary patterns to exploring disease mechanisms and developing innovative biotechnological approaches, these groundbreaking studies demonstrate the power of genomic research to illuminate complex biological phenomena.</p>
+<h2>🧬 Decoding Evolutionary Dynamics: Conservation of Regulatory Elements Across Large Distances</h2>
+<p>The study by Phan et al. reveals a fascinating insight into the conservation of regulatory elements across significant evolutionary distances. By profiling regulatory genomes in mouse and chicken embryonic hearts, researchers discovered that most cis-regulatory elements lack sequence conservation. Employing a novel synteny-based algorithm called interspecies point projection, they identified "indirectly conserved" regulatory elements that maintain functional similarities despite substantial genetic divergence. This research challenges traditional understanding of genetic conservation and provides a nuanced perspective on how developmental gene regulation can persist through evolutionary time.</p>
+<h2>🔬 Precision Medicine: Advancing Cancer Detection through Multidimensional Liquid Biopsy</h2>
+<p>Bao and colleagues present a groundbreaking approach to early cancer detection using a multidimensional cell-free DNA fragmentomics test. By analyzing plasma cell-free DNA through genetic and fragmentomics-based features, the researchers developed a method with remarkable diagnostic capabilities. Their multicohort study demonstrated an impressive overall sensitivity of 87.4% and specificity of 97.8%, with a notable ability to predict cancer tissue of origin. This innovative technique represents a significant leap forward in non-invasive cancer screening, offering potential for early intervention and personalized medicine.</p>
+<h2>🧫 Microbial Insights: Exploring Fungal Virulence and Host Interactions</h2>
+<p>The research by Senthil Kumar et al. provides a comprehensive examination of the entomopathogenic fungus Metarhizium pingshaense and its potential as a biological control agent. By investigating the fungus's infectivity against three major pest species, the study revealed high pathogenicity and detailed the molecular mechanisms underlying its virulence. The researchers characterized cuticle-degrading enzyme production and analyzed the temporal expression of critical virulence genes, demonstrating the complex interactions between fungal pathogens and their insect hosts. This work not only advances our understanding of microbial pathogenicity but also highlights potential applications in sustainable agricultural pest management.</p>
+<p><strong>References:</strong>
+1. <a href="https://pubmed.ncbi.nlm.nih.gov/40425826/">Phan et al. - Conservation of Regulatory Elements</a>
+2. <a href="https://pubmed.ncbi.nlm.nih.gov/40425843/">Bao et al. - Multicancer Early Detection</a>
+3. <a href="https://pubmed.ncbi.nlm.nih.gov/40425764/">Senthil Kumar et al. - Fungal Virulence Study</a></p>
+<p><em>Last update: Wed May 28 06:33:58 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 28 May 2025 06:34:03 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250528063403</guid>
   </item>
 </channel>
 </rss>
