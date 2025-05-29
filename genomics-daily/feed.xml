@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 06:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 06:34:41 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1195,6 +1195,25 @@
 <p><em>Last update: Wed May 28 06:33:58 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 28 May 2025 06:34:03 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250528063403</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-29</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Decoding Life's Complexity: Genomic Insights Across Diverse Frontiers</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to unravel the intricate mechanisms that govern biological systems. From understanding disease progression to exploring evolutionary adaptations, these groundbreaking studies illuminate the profound complexity of genetic interactions and their implications for life sciences.</p>
+<h2>🧬 Unmasking Alzheimer's: Nanoimmunomodulation of Microglial Responses</h2>
+<p>The study by Tian et al. presents a revolutionary approach to Alzheimer's disease treatment by targeting the intricate interplay between amyloid-β (Aβ) accumulation and microglial immune responses. Their innovative nanomedicine strategy, termed ASSIST, simultaneously disrupts Aβ plaques and modulates the STING signaling pathway in microglia. By preventing excessive inflammatory feedback and restoring microglial homeostatic functions, this approach offers a promising alternative to traditional immunotherapies, potentially providing a more nuanced and effective intervention for neurodegenerative disease management.</p>
+<h2>🌱 Plant Defense Mechanisms: Histone Modification in Seedling Development</h2>
+<p>Peng and colleagues revealed a fascinating mechanism of plant adaptation by identifying the HOOKLESS1 (HLS1) protein as a critical regulator of cotyledon greening. This histone acetyltransferase plays a crucial role in facilitating the transition from etiolated to photosynthetic growth by acetylating histones and activating genes responsible for chlorophyll biosynthesis. The research demonstrates how epigenetic modifications can fine-tune gene expression during critical developmental stages, providing insights into the sophisticated molecular strategies plants employ to optimize their early growth and survival.</p>
+<h2>🦠 Viral Latency Decoded: Cytomegalovirus Transcriptome Insights</h2>
+<p>The study by Collins-McMillen et al. offers a comprehensive exploration of human cytomegalovirus (HCMV) latency by examining the roles of specific viral genes UL135 and UL138 in regulating viral gene expression. By utilizing advanced transcriptional network analysis, the researchers uncovered intricate mechanisms of viral gene regulation during latency and reactivation. Their findings not only enhance our understanding of viral persistence but also provide potential targets for therapeutic interventions, highlighting the complex interactions between viral genetic elements and host cellular machinery.</p>
+<p><strong>References:</strong>
+1. <a href="https://pubmed.ncbi.nlm.nih.gov/40434641/">Nanoimmunomodulation of Aβ-STING in Alzheimer's</a>
+2. <a href="https://pubmed.ncbi.nlm.nih.gov/40434642/">HOOKLESS1 and Cotyledon Greening</a>
+3. <a href="https://pubmed.ncbi.nlm.nih.gov/40434638/">HCMV Transcriptome in Latency</a></p>
+<p><em>Last update: Thu May 29 06:34:34 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 29 May 2025 06:34:41 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250529063441</guid>
   </item>
 </channel>
 </rss>
