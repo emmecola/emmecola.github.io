@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 06:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 06:31:18 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1241,6 +1241,27 @@
 <p><em>Last update: Fri May 30 06:33:29 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 30 May 2025 06:33:35 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250530063335</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-05-31</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>Recent genomic research continues to push the boundaries of our understanding, revealing intricate molecular mechanisms that shape biological systems from microbes to complex organisms. This collection of studies highlights the power of advanced genomic technologies in deciphering genetic networks, disease processes, and evolutionary adaptations.</p>
+<h2>🧬 Decoding Gastric Cancer Risk in Canine Models</h2>
+<p>Researchers conducted a groundbreaking genomic analysis of gastric cancer in dogs, identifying 15 risk loci that provide unprecedented insights into the genetic architecture of this devastating disease. By studying Belgian Tervuren and Belgian Sheepdog breeds, the team uncovered key genes like HDAC2, SOX2-OT, and IGF2BP2 that contribute to cancer susceptibility. This naturally occurring canine model offers a unique window into understanding genetic predispositions, potentially translating these findings to human gastric cancer research and opening new avenues for targeted interventions.</p>
+<h2>🦠 Horizontal Gene Transfer: Environmental DNA's Hidden Mechanism</h2>
+<p>A fascinating study revealed how environmental DNA adsorption to chitin surfaces can promote horizontal gene transfer through natural transformation in Vibrio cholerae. Using advanced microscopy techniques, researchers demonstrated that bacteria can utilize chitin-bound DNA as a genetic reservoir, with the forceful retraction of competence type IV pili playing a crucial role in this process. This discovery provides critical insights into microbial genetic exchange mechanisms, highlighting the dynamic ways microorganisms adapt and evolve in complex environmental settings.</p>
+<h2>🌱 Precision Genome Editing in Rice: Balancing Immunity and Reproduction</h2>
+<p>Scientists uncovered a sophisticated molecular mechanism in rice where the rhomboid-like protease OsRBL3b selectively cleaves the immune receptor XA21, protecting both grain production and male fertility. By precisely regulating the immune response in specific tissues, the plant can maintain a delicate balance between disease resistance and reproductive success. This research not only illuminates complex plant immune strategies but also offers potential genetic engineering approaches for developing more resilient crop varieties.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40445765/">Genomic Analyses of Canine Gastric Cancer Risk Loci</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40445756/">Environmental DNA Adsorption and Horizontal Gene Transfer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40445755/">Rhomboid-Mediated Cleavage of Immune Receptor in Rice</a></li>
+</ol>
+<p><em>Last update: Sat May 31 06:31:12 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 31 May 2025 06:31:18 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250531063118</guid>
   </item>
 </channel>
 </rss>
