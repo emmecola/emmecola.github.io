@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 06:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 06:32:44 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1262,6 +1262,27 @@
 <p><em>Last update: Sat May 31 06:31:12 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 31 May 2025 06:31:18 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250531063118</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-01</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Microbes to Humans</h1>
+<p>The rapidly evolving landscape of genomics continues to reveal intricate mechanisms underlying biological systems, from microbial interactions to human disease processes. These groundbreaking studies demonstrate how advanced genomic techniques are transforming our understanding of genetic complexity across diverse domains.</p>
+<h2>🦠 Viral Detection Revolution: A New Tool for Pathogen Surveillance</h2>
+<p>The development of varVAMP represents a significant breakthrough in viral genome sequencing and detection. This bioinformatics tool enables the design of degenerate primers for highly variable viral pathogens, addressing a critical challenge in molecular diagnostics. By leveraging multiple sequence alignments, researchers can now create more precise and efficient primer schemes for qPCR and whole genome sequencing across various viruses, including SARS-CoV-2, Hepatitis viruses, and Poliovirus. The tool's ability to minimize primer mismatches makes it a powerful resource for epidemiological surveillance and research.</p>
+<h2>🧬 Decoding Resistance: Multidrug-Resistant Bacterial Genomics</h2>
+<p>The study on Klebsiella pneumoniae provides crucial insights into the emerging challenge of multidrug-resistant bacterial strains. By characterizing a strain simultaneously carrying three resistance genes (bla NDM-1, mcr-1, and bla CTX-M-199), researchers highlighted the complex genetic mechanisms enabling bacterial resistance. Whole-genome sequencing and multilocus sequence typing revealed the strain's genetic composition and plasmid characteristics, demonstrating how different resistance genes can coexist within a single bacterial isolate. This research underscores the importance of comprehensive genomic surveillance in understanding and potentially mitigating the spread of antibiotic-resistant bacteria.</p>
+<h2>🌱 Plant Genomics: Unraveling Potassium Uptake Mechanisms</h2>
+<p>The study exploring symbiosis between arbuscular mycorrhizal fungi and beans offers fascinating insights into plant genetic responses. By investigating how these fungi influence potassium absorption, researchers mapped the genomic landscape of potassium transporter genes (PvAKT and PvHKT) in bean plants. The research revealed that symbiotic interactions significantly enhance potassium concentration in plant tissues and demonstrated tissue-specific gene expression patterns. This work not only advances our understanding of plant-microbe interactions but also provides potential strategies for improving crop nutrition and resilience.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40449995/">varVAMP: Degenerate Primer Design</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40450139/">Multidrug-Resistant Klebsiella pneumoniae</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40450130/">Arbuscular Mycorrhizal Fungi and Bean Potassium Uptake</a></li>
+</ol>
+<p><em>Last update: Sun Jun  1 06:32:38 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 01 Jun 2025 06:32:44 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250601063244</guid>
   </item>
 </channel>
 </rss>
