@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 06:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:35:52 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1283,6 +1283,33 @@
 <p><em>Last update: Sun Jun  1 06:32:38 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 01 Jun 2025 06:32:44 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250601063244</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-02</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unraveling Genomic Complexity: From RNA Folding to Thermotolerance and Population Variation</h1>
+<p>In the rapidly evolving landscape of genomics, researchers continue to push the boundaries of our understanding of biological systems. This editorial highlights three groundbreaking studies that illuminate the intricate mechanisms of RNA structure, genetic adaptation, and population-level genetic variation, demonstrating the power of modern genomic approaches to decode life's fundamental processes.</p>
+<h2>🧬 Decoding Cotranscriptional RNA Folding: A Molecular Microscope</h2>
+<p>The study by Szyjka et al. introduces a revolutionary method called TECprobe-LM, which provides unprecedented insights into RNA folding dynamics during transcription. By sequentially positioning RNA polymerase at multiple points within a DNA template, researchers can now directly observe how RNA structures rearrange as nucleotides are added. This technique was validated across different RNA systems, including riboswitches and bacterial RNA, offering a powerful new tool for understanding the complex process of RNA structure formation and its potential implications for gene regulation and cellular function.</p>
+<h2>🌿 Genetic Basis of Thermotolerance in Grapevines: Adapting to Climate Change</h2>
+<p>Chen and colleagues unveiled a critical genetic mechanism underlying thermotolerance in grapevines, a crucial adaptation in the face of global warming. Their research identified TTC4, a WRKY transcription factor that plays a pivotal role in heat stress response. A single nucleotide polymorphism (SNP) in this gene significantly influences a plant's ability to withstand high temperatures, with different genotypes showing marked differences in thermotolerance. This discovery not only provides insights into plant adaptation mechanisms but also offers a promising genetic resource for breeding more resilient grapevine varieties.</p>
+<h2>🌐 Revealing the Secrets of Human Genetic Variation Through Population Databases</h2>
+<p>Lake's review article highlights the transformative potential of population genetic databases in understanding human genetic variation. These comprehensive resources are becoming increasingly sophisticated, allowing researchers to map genetic diversity with unprecedented resolution. By aggregating genetic information from diverse populations, these databases provide crucial insights into the genetic landscape of human populations, potentially revolutionizing our understanding of genetic disease risk, population history, and personalized medicine.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40450030">Szyjka et al. - Sequential structure probing of cotranscriptional RNA folding intermediates</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40450013">Chen et al. - A naturally occurring SNP modulates thermotolerance divergence among grapevines</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40316690">Lake - Revealing secrets of human genetic variation with population databases</a></p>
+</li>
+</ol>
+<p><em>Last update: Mon Jun  2 06:35:46 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 02 Jun 2025 06:35:52 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250602063552</guid>
   </item>
 </channel>
 </rss>
