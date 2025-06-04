@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 06:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 06:34:38 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1337,6 +1337,33 @@
 <p><em>Last update: Tue Jun  3 06:35:46 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 03 Jun 2025 06:35:53 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250603063553</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-04</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: From Molecular Mechanisms to Evolutionary Insights</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to unravel complex biological processes, explore genetic variations, and shed light on fundamental mechanisms of life. This editorial highlights three groundbreaking studies that demonstrate the power of genomic approaches in understanding diverse biological systems.</p>
+<h2>🧬 Decoding Symbiotic Interactions in Peanut Nitrogen Fixation</h2>
+<p>The study by Tchoutang et al. provides crucial insights into the genetic mechanisms underlying symbiotic nitrogen fixation (SNF) in peanut. By comparing transcriptomes of chromosome segment substitution lines, the researchers identified FEN1 as a key candidate gene responsible for impaired nitrogen fixation. This gene encodes a homocitrate synthase essential for nitrogenase activity, revealing how subtle genetic variations can significantly impact plant-microbe interactions and potentially agricultural productivity.</p>
+<h2>🦠 Unveiling the Genomic Landscape of a Medical Leech</h2>
+<p>The chromosome-level genome assembly of Hirudinaria bpling by Khan et al. represents a significant advancement in understanding the genomic architecture of a medically important species. By utilizing advanced sequencing techniques, the researchers not only provided a comprehensive genomic map but also annotated crucial anticoagulant proteins. This work opens new avenues for research into leech-derived therapeutic compounds and offers insights into the evolutionary adaptations of these fascinating organisms.</p>
+<h2>🧠 Exploring Genetic Foundations of Neurodevelopmental Diversity</h2>
+<p>The research by Capps et al. on zebrafish with autism-risk mutations offers a groundbreaking perspective on neurodevelopmental processes. By generating multiple zebrafish lines with mutations corresponding to human autism-risk alleles, the researchers uncovered complex relationships between genetic variations and brain development. Their findings reveal how specific gene mutations can alter brain activity, neural pathways, and potentially contribute to understanding neurodevelopmental disorders.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40461988">Tchoutang et al. - Transcriptomic analysis of peanut symbiotic nitrogen fixation</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40461966">Khan et al. - Genome assembly of Hirudinaria bpling</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40460132">Capps et al. - Zebrafish mutations and neurodevelopmental diversity</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Jun  4 06:34:32 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 04 Jun 2025 06:34:38 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250604063438</guid>
   </item>
 </channel>
 </rss>
