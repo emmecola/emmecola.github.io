@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 06:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 06:31:46 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1420,6 +1420,33 @@
 <p><em>Last update: Fri Jun  6 06:35:18 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 06 Jun 2025 06:35:25 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250606063525</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-07</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Decoding Genomic Complexity: Innovations in DNA Metabolism, Regulation, and Genome Stability</h1>
+<p>Recent advances in genomics are revealing intricate mechanisms of genetic information processing, from molecular interactions to cellular responses. Three groundbreaking studies demonstrate how sophisticated molecular machinery maintains and interprets genetic information across diverse biological systems.</p>
+<h2>🧬 Precision Protein Engineering: Modulating Single-Stranded DNA Binding Protein Condensation</h2>
+<p>Researchers have developed a novel approach to selectively engineer the condensation properties of single-stranded DNA binding (SSB) proteins by manipulating its intrinsically disordered linker region. By strategically modifying specific glycine-rich regions and residue compositions, they achieved precise control over protein condensation without disrupting core functional capabilities. This breakthrough provides unprecedented insights into protein phase separation and opens new avenues for understanding complex nucleic acid-modifying complexes.</p>
+<h2>🔬 Genomic Guardians: Unraveling DNA Double-Strand Break Repair Mechanisms</h2>
+<p>A sophisticated study revealed how the kinase PKB/AKT1 actively promotes genetic instability by stimulating DNA double-strand break end-joining through multiple phosphorylation of the MRE11 protein. By demonstrating that not only defective but also hyperactive DNA damage response can lead to genomic rearrangements, the research highlights the critical importance of precise regulatory mechanisms in maintaining genome integrity. This work provides crucial insights into potential molecular origins of chromosomal abnormalities and cancer development.</p>
+<h2>🌱 Translational Control in Plant Development: Seed Germination Mechanisms</h2>
+<p>Researchers uncovered a sophisticated translational control mechanism governing seed-to-seedling transition in plants, centered on an upstream open reading frame (uORF) in the ABSCISIC ACID DEFICIENT2 gene. By demonstrating how this uORF represses translation and influences seed dormancy, the study reveals a critical genetic mechanism controlling plant reproduction. The findings have significant implications for understanding crop development and potentially improving agricultural traits like seed germination.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40479713">Ecsédi Péter et al. - Selective engineering of condensation properties of single-stranded DNA binding (SSB) protein</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40479710">Guirouilh-Barbat Josée et al. - Genome rearrangements induced by PKB/AKT1 phosphorylation</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40478869">Wang Zhen et al. - Control of seed-to-seedling transition by an upstream open reading frame</a></p>
+</li>
+</ol>
+<p><em>Last update: Sat Jun  7 06:31:40 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 07 Jun 2025 06:31:46 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250607063146</guid>
   </item>
 </channel>
 </rss>
