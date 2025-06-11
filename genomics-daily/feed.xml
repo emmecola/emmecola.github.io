@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 06:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 06:35:03 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1463,6 +1463,33 @@
 <p><em>Last update: Mon Jun  9 06:36:10 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 09 Jun 2025 06:36:16 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250609063616</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-11</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Cellular Complexity and Adaptive Mechanisms</h1>
+<p>Recent advances in genomics continue to shed light on the intricate molecular mechanisms underlying biological systems, from cellular differentiation to evolutionary adaptations. Three groundbreaking studies showcase the power of modern genomic approaches in understanding complex biological processes across different domains of life.</p>
+<h2>🧬 Microglia Engineering: A Breakthrough in Cell Differentiation</h2>
+<p>The study by Liu et al. presents a revolutionary approach to generating microglia-like cells from human induced pluripotent stem cells (iPSCs). By identifying a precise combination of six transcription factors (SPI1, CEBPA, FLI1, MEF2C, CEBPB, and IRF8), researchers can now efficiently differentiate stem cells into cells that closely resemble primary human microglia within just four days. This breakthrough is particularly significant for neurological research, as it provides a powerful tool for studying microglial function, neuroinflammation, and potential therapeutic interventions for brain-related disorders.</p>
+<h2>🦎 Regeneration Secrets: Decoding Limb Patterning in Axolotls</h2>
+<p>Duerr and colleagues unveiled a fascinating mechanism of positional identity during axolotl limb regeneration, focusing on the role of retinoic acid (RA) breakdown. The research demonstrates that the enzyme CYP26B1 is crucial in controlling RA signaling levels within blastema cells, effectively determining which segment of a limb will regenerate. By showing how RA degradation influences limb patterning and identifying Shox as a key RA-responsive gene, this study provides unprecedented insights into the molecular control of complex regenerative processes, with potential implications for understanding tissue regeneration in various organisms.</p>
+<h2>🧪 Chromosome Dynamics: Unraveling Sex Chromosome Aneuploidies</h2>
+<p>The investigation by Astro et al. into 47,XYY Jacobs syndrome offers a comprehensive molecular characterization of sex chromosome aneuploidies. By creating the first cohort of 47,XYY human induced pluripotent stem cells, researchers uncovered a unique transcriptional feedback mechanism in Y chromosome cells. The study revealed a shared transcriptomic signature between Jacobs and Klinefelter syndromes, with notable enrichment in neurological function-related processes. Importantly, the research showed that a supernumerary Y chromosome minimally impacts DNA methylation at the pluripotent stage, providing crucial insights into the molecular mechanisms underlying sex chromosome variations.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40494892">Liu et al. - Iterative transcription factor screening enables rapid generation of microglia-like cells</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40494878">Duerr et al. - Retinoic acid breakdown is required for proximodistal positional identity during axolotl limb regeneration</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40494628">Astro et al. - An iPSC-based model of 47,XYY Jacobs syndrome reveals a DNA methylation-independent transcriptional dysregulation</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Jun 11 06:34:57 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 11 Jun 2025 06:35:03 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250611063503</guid>
   </item>
 </channel>
 </rss>
