@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 06:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 06:35:16 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1490,6 +1490,33 @@
 <p><em>Last update: Wed Jun 11 06:34:57 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 11 Jun 2025 06:35:03 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250611063503</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-12</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>The field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into the intricate mechanisms of life. From heat stress tolerance in goats to precision medicine approaches and evolutionary adaptations, recent research demonstrates the power of genomic technologies to decode complex biological phenomena across diverse domains.</p>
+<h2>🐐 Heat Stress Resilience in Subtropical Goats: A Genomic Exploration</h2>
+<p>The study on subtropical Egyptian goats reveals a sophisticated genetic landscape of heat tolerance. By conducting a comprehensive genome-wide association study, researchers identified 90 marker SNPs associated with heat stress resistance, distributed across 47 distinct genes. Notably, genes like KDM6A, TRPM3, and USP54 were found to play crucial roles in enhancing thermal resilience. This research is particularly significant in the context of climate change, offering potential strategies for breeding more adaptable livestock that can withstand extreme environmental conditions.</p>
+<h2>🧬 Precision Oncology: Advancing Personalized Cancer Treatment</h2>
+<p>The Darwin OncoTarget and OncoTreat precision medicine testing represents a groundbreaking approach to cancer treatment. By utilizing RNA transcriptome-based testing, researchers can identify master regulator proteins driving tumor progression. This pilot trial focuses on patients with oligometastases, aiming to supplement standard clinical management with personalized treatment strategies. The approach promises to address the limitations of current systemic therapies, potentially improving outcomes for patients with limited metastatic disease that has failed first-line treatments.</p>
+<h2>🧪 Evolutionary Insights: Mycobacteriophage-Mediated Gene Transfer</h2>
+<p>The research on Mycobacterium leprae introduces innovative genetic tools that overcome significant research challenges. By utilizing mycobacteriophage-mediated gene transfer, scientists can now introduce foreign DNA and track bacterial populations with unprecedented precision. The study demonstrates the potential for in vitro drug screening and in vivo tracking of leprosy-causing bacteria, which has previously been impossible due to the organism's inability to be cultured. This breakthrough opens new avenues for understanding and potentially treating challenging infectious diseases.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40500699">Genomic analysis of heat stress tolerance in Egyptian goats</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40498747">Feasibility trial of Darwin OncoTreat and OncoTarget precision medicine testing</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40498449">Mycobacteriophage-mediated gene transfer for Mycobacterium leprae</a></p>
+</li>
+</ol>
+<p><em>Last update: Thu Jun 12 06:35:10 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 12 Jun 2025 06:35:16 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250612063516</guid>
   </item>
 </channel>
 </rss>
