@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 06:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 06:31:40 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1538,6 +1538,27 @@
 <p><em>Last update: Fri Jun 13 06:34:51 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 13 Jun 2025 06:34:58 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250613063458</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-14</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Viruses to Epigenetics</h1>
+<p>The field of genomics continues to evolve rapidly, offering unprecedented insights into biological systems at molecular and evolutionary scales. This editorial highlights three groundbreaking studies that demonstrate the power of genomic approaches in understanding complex biological phenomena across diverse domains.</p>
+<h2>🦠 Viral Genomic Surveillance: Tracking H5N1 in Dairy Cattle</h2>
+<p>The study by Lail et al. presents an innovative approach to viral surveillance using amplicon sequencing of pasteurized retail dairy products. By analyzing viral RNA from dairy samples processed across 20 states, researchers successfully obtained over 90% genome coverage of H5N1 avian influenza viruses. This method represents a crucial advancement in One Health surveillance, enabling rapid detection and tracking of viral spread without requiring direct animal testing. The research underscores the potential of genomic techniques to monitor emerging infectious diseases through unexpected sample sources.</p>
+<h2>🧬 Epigenetic Inheritance: Transgenerational Effects in Termite Caste Determination</h2>
+<p>Takata and colleagues revealed a fascinating mechanism of transgenerational epigenetic inheritance in termites, demonstrating how paternal age influences offspring caste fate through sperm DNA methylation. By conducting a comprehensive methylome analysis, they identified 21,611 CpG sites with significant age-related methylation differences and 13 genes potentially correlated with reproductive pathway differentiation. This groundbreaking research challenges traditional genetic inheritance models and provides insights into phenotypic plasticity in social insect societies.</p>
+<h2>🔬 Molecular Mechanisms: Understanding Protein-Pathway Interactions</h2>
+<p>The research by Jiang et al. exploring the role of RACK1 in alveolar macrophage development offers critical insights into cellular differentiation mechanisms. By investigating how RACK1 directly binds and stabilizes PPARγ, the researchers demonstrated a novel molecular pathway controlling macrophage development. Their findings reveal that RACK1 deficiency can impair alveolar macrophage formation and increase susceptibility to bacterial infections, highlighting the complex interplay between molecular adaptors and cellular differentiation processes.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40513042">Lail et al. - Amplicon sequencing of pasteurized retail dairy</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40512787">Takata et al. - Transgenerational epigenetic effect in termites</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40512793">Jiang et al. - RACK1 and alveolar macrophage development</a></li>
+</ol>
+<p><em>Last update: Sat Jun 14 06:31:31 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 14 Jun 2025 06:31:40 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250614063140</guid>
   </item>
 </channel>
 </rss>
