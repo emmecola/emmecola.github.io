@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 06:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 06:36:43 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1567,6 +1567,27 @@
 <p><em>Last update: Sun Jun 15 06:32:04 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 15 Jun 2025 06:32:11 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250615063211</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-16</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Mosquito Vaccines to Cancer Regulation and Viral Susceptibility</h1>
+<p>The rapidly evolving field of genomics continues to unveil critical insights into complex biological systems, offering promising avenues for medical intervention and understanding human genetic diversity. Recent publications highlight the power of genomic research in addressing challenges across different domains, from infectious disease prevention to cancer therapeutics and pandemic preparedness.</p>
+<h2>🦟 Transmission-Blocking Vaccine Development in Malaria Research</h2>
+<p>The study on fibrinogen-related protein 1 (FREP1) in Anopheles stephensi represents a significant breakthrough in malaria prevention strategies. By meticulously analyzing the genetic structure of this protein in Iranian mosquito isolates, researchers identified seven distinct haplotypes with remarkably conserved genetic characteristics. The discovery of 16 highly immunogenic linear B-cell epitopes and consistent conformational epitopes suggests FREP1 as a promising candidate for transmission-blocking vaccines. The research not only provides insights into the molecular mechanisms of malaria transmission but also demonstrates the potential for developing targeted interventions that could interrupt the parasite's complex life cycle.</p>
+<h2>🧬 MicroRNA Regulation in Cancer Pathogenesis</h2>
+<p>The comprehensive investigation of miR-660 unveils a sophisticated molecular mechanism underlying cancer development and progression. By mapping the intricate regulatory networks involving this microRNA, researchers revealed its involvement in multiple critical signaling pathways, including PI3K/AKT/mTOR and p53. The study's significance lies in its potential to transform cancer research by highlighting miR-660's role in chemotherapy resistance and its interactions with competing endogenous RNAs. These findings open new possibilities for personalized cancer treatments and provide a robust framework for understanding the complex genetic landscape of tumor development.</p>
+<h2>🦠 Genetic Susceptibility to SARS-CoV-2 Infection</h2>
+<p>The genetic analysis of SARS-CoV-2 susceptibility offers unprecedented insights into individual vulnerability to COVID-19. By examining 35 single nucleotide variants across viral infection-associated genes, researchers identified specific genetic markers that correlate with infection risk. Notably, variations in genes like IFITM3, ORMDL1, and IFIH1 emerged as key indicators of susceptibility. This research is crucial for developing targeted prevention strategies and understanding the genetic factors that contribute to differential infection outcomes, potentially guiding future pandemic preparedness efforts.</p>
+<h2><strong>References</strong></h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40122414">Kheirkhah Omolbani et al. - FREP1 in Anopheles stephensi</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40120868">Wang Zehua et al. - miR-660 in Cancer Pathogenesis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40120867">Azcarate Daniel et al. - Genetic Variants in SARS-CoV-2 Susceptibility</a></li>
+</ol>
+<p><em>Last update: Mon Jun 16 06:36:38 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 16 Jun 2025 06:36:43 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250616063643</guid>
   </item>
 </channel>
 </rss>
