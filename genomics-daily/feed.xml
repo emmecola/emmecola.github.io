@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 06:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 06:35:01 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1630,6 +1630,27 @@
 <p><em>Last update: Wed Jun 18 06:35:18 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 18 Jun 2025 06:35:26 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250618063526</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-19</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biology, Disease, and Evolution</h1>
+<p>Recent advances in genomics continue to illuminate the intricate mechanisms underlying biological systems, offering unprecedented insights into disease processes, evolutionary dynamics, and cellular function. Three groundbreaking studies showcase the power of cutting-edge genomic research in transforming our understanding across diverse domains.</p>
+<h2>🧬 Developmental Programming: Maternal Obesity and Liver Disease</h2>
+<p>The study by Huang et al. reveals a critical link between maternal obesity and offspring liver health through developmental programming of Kupffer cells. By demonstrating that maternal obesity can permanently alter liver macrophage functions, the researchers uncovered a mechanism where early-life metabolic reprogramming of immune cells can trigger fatty liver disease in adulthood. This research highlights the profound intergenerational impacts of metabolic conditions and opens new avenues for understanding developmental origins of metabolic disorders.</p>
+<h2>🧠 Neural Complexity: Brain Organoid Morphodynamics</h2>
+<p>Jain and colleagues developed an innovative approach to studying human brain development using long-term live light-sheet microscopy of brain organoids. Their research provides unprecedented insights into tissue morphology, cell behaviors, and subcellular dynamics during brain development. By tracking multiple cellular features and analyzing how extracellular matrix and signaling pathways influence neural tissue formation, they demonstrated the complex self-organizational principles governing early brain development, offering a powerful new tool for understanding neurodevelopmental processes.</p>
+<h2>🦠 Tuberculosis Treatment: Targeting Purine Biosynthesis</h2>
+<p>Lamprecht et al. presented a promising strategy for combating tuberculosis by discovering a novel small-molecule inhibitor targeting the first enzyme in mycobacterial purine biosynthesis. Their lead compound, JNJ-6640, exhibited potent bactericidal activity against Mycobacterium tuberculosis with high selectivity. By demonstrating the compound's efficacy in disrupting bacterial DNA replication and showing its potential to improve treatment regimens for drug-resistant tuberculosis, the researchers provided a significant breakthrough in addressing one of the world's most persistent infectious diseases.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40533564">Huang et al. - Kupffer cell programming by maternal obesity</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40533563">Jain et al. - Morphodynamics of human early brain organoid development</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40533558">Lamprecht et al. - Targeting de novo purine biosynthesis for tuberculosis treatment</a></li>
+</ol>
+<p><em>Last update: Thu Jun 19 06:34:55 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 19 Jun 2025 06:35:01 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250619063501</guid>
   </item>
 </channel>
 </rss>
