@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 06:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 06:32:44 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1693,6 +1693,26 @@
 <p><em>Last update: Sat Jun 21 06:32:02 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 21 Jun 2025 06:32:09 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250621063209</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-22</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Genetic Mysteries Across Diverse Domains</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into genetic mechanisms across multiple disciplines. Recent publications highlight the transformative potential of advanced sequencing technologies in addressing complex biological questions, from clinical diagnostics to evolutionary adaptations.</p>
+<h2>🧬 Precision Diagnostics: Decoding Hearing Loss Genetics</h2>
+<p>The study by Kang et al. represents a significant breakthrough in understanding the genetic underpinnings of hearing loss. By employing whole-exome sequencing (WES) on 768 Chinese patients, researchers identified genetic etiologies in 65.2% of cases, with a striking distinction between severe-profound (95.8%) and mild-moderate hearing loss (9.9%). This research not only expands our comprehension of genetic variants associated with hearing impairment but also demonstrates the clinical utility of comprehensive genetic screening in guiding early interventions and personalized medical approaches.</p>
+<h2>🧫 Microbial Genomics: Evolutionary Adaptations and Resistance</h2>
+<p>[Note: As only one publication was provided in the original prompt, I cannot complete this section without additional research papers. In a real scenario, I would select relevant genomics papers from recent publications.]</p>
+<h2>🌱 Genomic Landscapes: Emerging Research Horizons</h2>
+<p>[Similarly, this section would require additional publications to provide a comprehensive overview.]</p>
+<h2><strong>References</strong></h2>
+<ol>
+<li>Kang, H., et al. (2025). Clinical application of whole exome sequencing (WES) in the genetic diagnosis of 768 Chinese patients with bilateral hearing loss. <em>European Journal of Human Genetics</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40542191">PubMed Link</a></li>
+</ol>
+<p><strong>Disclaimer</strong>: This editorial is based on the limited information provided and would typically include a more comprehensive analysis with multiple research publications.</p>
+<p><em>Last update: Sun Jun 22 06:32:38 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 22 Jun 2025 06:32:44 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250622063244</guid>
   </item>
 </channel>
 </rss>
