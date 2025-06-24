@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 06:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 06:35:58 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1721,6 +1721,25 @@
 <p><em>Last update: Mon Jun 23 06:36:47 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 23 Jun 2025 06:36:54 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250623063654</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-24</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unraveling Genomic Mysteries: Insights into Disease, Evolution, and Cellular Mechanisms</h1>
+<p>The field of genomics continues to push the boundaries of our understanding, revealing intricate details about genetic variations, disease mechanisms, and evolutionary processes. Recent groundbreaking research offers unprecedented insights into the complex world of genetic interactions and their profound implications for human health and biological systems.</p>
+<h2>🧬 Decoding Autism: MECP2 Mutations and Functional Genomics</h2>
+<p>The study by Chen et al. provides a remarkable approach to understanding autism spectrum disorder (ASD) through innovative functional genomic techniques. By utilizing budding yeast and Drosophila models, researchers systematically evaluated nine previously uncharacterized MECP2 variants. Their groundbreaking findings reveal that four of these variants demonstrate loss of function, challenging existing understanding of genetic mechanisms in ASD. Particularly intriguing is the discovery that MECP2's role extends beyond DNA methylation, suggesting complex protein interactions that could revolutionize our comprehension of neurodevelopmental disorders.</p>
+<h2>🔬 Evolutionary Genomics: Adaptive Mechanisms in Changing Environments</h2>
+<p>[Note: This section would typically include details from another relevant genomics publication, but no second publication was provided in the original prompt.]</p>
+<h2>🦠 Microbial Genomics: Unveiling Genetic Adaptability</h2>
+<p>[Note: This section would typically include details from a third relevant genomics publication, but no third publication was provided in the original prompt.]</p>
+<h2>References</h2>
+<ul>
+<li>Chen E, Schmitt J, McIntosh G, et al. <strong>Revealing function-altering MECP2 mutations in individuals with autism spectrum disorder using yeast and Drosophila</strong>. <em>Genetics</em>. 2025. <a href="https://pubmed.ncbi.nlm.nih.gov/40546018">PubMed Link</a></li>
+</ul>
+<p><em>Last update: Tue Jun 24 06:35:52 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 24 Jun 2025 06:35:58 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250624063558</guid>
   </item>
 </channel>
 </rss>
