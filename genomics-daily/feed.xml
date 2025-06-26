@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 06:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 06:36:24 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -1767,6 +1767,33 @@
 <p><em>Last update: Wed Jun 25 06:36:07 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 25 Jun 2025 06:36:12 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250625063612</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-06-26</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity Across Biological Systems</h1>
+<p>Recent advances in genomic research continue to illuminate the intricate mechanisms underlying biological diversity, disease, and adaptation. From neural development to metabolic disorders and plant genetics, cutting-edge technologies are providing unprecedented insights into the molecular foundations of life.</p>
+<h2>🧠 Neuronal Lipid Metabolism and Axon Maintenance</h2>
+<p>In a groundbreaking study published in <em>Genetics</em>, researchers explored the critical role of phospholipid biosynthesis in neuronal integrity. By investigating genes involved in lipid metabolism, the team discovered that enzymes CEPT-2 and EPT-1 are essential for maintaining axon morphology and facilitating regeneration. The research revealed a delicate genetic interaction with DIP-2, a regulator that counterbalances phospholipid synthesis, highlighting the complex molecular mechanisms underlying neuronal resilience during aging and injury.</p>
+<h2>🧬 Metabolic Reprogramming in Drug-Resistant Cancer</h2>
+<p>A computational approach published in <em>PNAS</em> offers a novel strategy for overcoming drug resistance in breast cancer. The researchers developed a sophisticated framework that simulates genome-wide metabolic gene knockouts to identify potential drug sensitization targets. By clustering metabolic flux data and integrating proteome and metabolome information, they successfully pinpointed genes like GOT1, GPI, and SLC1A5 that could potentially restore drug sensitivity in resistant cancer cells, presenting a promising avenue for personalized cancer treatment.</p>
+<h2>🌱 Genomic Challenges in Forest Tree Management</h2>
+<p>A comprehensive study in <em>PNAS</em> examined the complexities of using genomic data for managing forest tree populations. By analyzing whole-genome resequencing and common-garden experiments in black cottonwood, the researchers discovered that population-level phenotypic variations are strongly associated with climate. Surprisingly, they found that climate and geographic variables could predict population phenotypes almost as effectively as genomic data, underscoring the limitations of genomic prediction within populations and providing crucial insights for conservation and assisted migration strategies.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40557979">Phospholipid biogenesis maintains neuronal integrity during aging and axon regeneration</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40560621">Genome-scale knockout simulation and clustering analysis of drug-resistant breast cancer cells reveal drug sensitization targets</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40560610">Population structure limits the use of genomic data for predicting phenotypes and managing genetic resources in forest trees</a></p>
+</li>
+</ol>
+<p><em>Last update: Thu Jun 26 06:36:18 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 26 Jun 2025 06:36:24 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250626063624</guid>
   </item>
 </channel>
 </rss>
