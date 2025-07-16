@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 06:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 06:38:01 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2142,6 +2142,27 @@ None</p>
 <p><em>Last update: Tue Jul 15 06:38:10 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 15 Jul 2025 06:38:17 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250715063817</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-07-16</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of scientific understanding, revealing intricate molecular mechanisms that shape biological systems. From neurodegenerative diseases to plant adaptation and microbial evolution, recent research highlights the power of advanced genomic techniques in deciphering complex biological processes.</p>
+<h2>🧠 Decoding Neurodegeneration: A New Perspective on Alzheimer's Disease</h2>
+<p>The study on retained introns in phototransduction genes of 5xFAD mouse retina suggests that vision impairment could serve as an early diagnostic marker for Alzheimer's disease. By examining alternative splicing events in the retina, researchers discovered significant changes in gene expression, particularly in genes related to rod photoreceptors. This groundbreaking research provides a novel approach to understanding the molecular mechanisms underlying neurodegeneration, potentially offering an early detection method that could revolutionize how we diagnose and monitor Alzheimer's progression.</p>
+<h2>🌱 Plant Adaptation: Molecular Mechanisms of Flowering Regulation</h2>
+<p>The research on florigen translocation in Arabidopsis thaliana reveals how plants modulate flowering time in response to environmental conditions. By investigating the cell-to-cell movement of the FT protein within the shoot apical meristem, scientists uncovered a complex mechanism involving abscisic acid signaling and plasmodesmata permeability. Low ambient temperatures inhibit FT translocation through specific molecular pathways, demonstrating the intricate ways plants regulate their reproductive strategies in response to environmental cues.</p>
+<h2>🦠 Microbial Evolution: Unraveling Parasite Transmission Dynamics</h2>
+<p>A comprehensive study on the nematode Strongyloides stercoralis provides fascinating insights into host-parasite relationships and evolutionary dynamics. Through whole-genome sequence analysis, researchers discovered that human infection is not primarily a zoonosis from dogs, despite historical assumptions. The study revealed genetically distinct nuclear genomes between human and dog-derived parasites, with evidence of rare cross-infection and historical mitochondrial introgression, highlighting the complex evolutionary history of this parasitic organism.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40664927/">Retained introns in phototransduction genes of 5xFAD mouse retina</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40623194/">Cell-to-cell translocation of florigen is inhibited by low ambient temperature</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40663613/">Population genetic analysis of Strongyloides stercoralis</a></li>
+</ol>
+<p><em>Last update: Wed Jul 16 06:37:55 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 16 Jul 2025 06:38:01 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250716063801</guid>
   </item>
 </channel>
 </rss>
