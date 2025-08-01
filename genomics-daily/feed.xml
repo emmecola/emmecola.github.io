@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 06:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 06:41:52 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2423,6 +2423,33 @@ None</p>
 <p><em>Last update: Thu Jul 31 06:38:51 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 31 Jul 2025 06:38:57 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250731063857</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-01</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>The field of genomics continues to push the boundaries of our understanding, revealing intricate mechanisms that govern life at the molecular level. From exploring disease pathways to understanding evolutionary adaptations, recent research demonstrates the power of advanced genomic techniques in deciphering complex biological phenomena across diverse domains.</p>
+<h2>🧬 Mitochondrial Mysteries: Genetic Strategies in Reproductive Medicine</h2>
+<p>The groundbreaking work on mitochondrial donation offers hope for families affected by mitochondrial DNA diseases. Researchers developed a reproductive care pathway using pronuclear transfer, successfully reducing transmission of pathogenic mitochondrial variants. By transplanting nuclear genetic material from an affected woman's fertilized egg into an enucleated donor egg, they achieved live births with significantly reduced mitochondrial disease risk. This approach represents a remarkable intersection of reproductive medicine and genetic engineering, potentially transforming treatment options for inherited mitochondrial disorders.</p>
+<h2>🌿 Plant Genomics: Decoding Evolutionary Adaptations in Tea Species</h2>
+<p>A comprehensive study on Dali tea (Camellia taliensis) in the Lancang River Basin revealed fascinating insights into genetic diversity and evolutionary relationships. Using advanced sequencing techniques, researchers identified significant genetic differentiation among wild tea populations and demonstrated complex patterns of gene flow. The Lincang Daxueshan population showed strong genetic isolation, while the Banna Germplasm Repository exhibited high genetic diversity. These findings not only provide crucial information for tea resource conservation but also offer a molecular framework for understanding plant adaptation and breeding strategies.</p>
+<h2>🦠 Viral Interactions: Molecular Mechanisms of Pathogen Detection</h2>
+<p>The development of a novel proteomics workflow (vPro-MS) represents a significant advancement in viral identification. By creating an in-silico derived peptide library covering the human virome, researchers developed a method for untargeted virus detection with over 99.9% specificity. The approach enables analysis of up to 60 samples daily and demonstrates comparable sensitivity to PCR in detecting viruses like SARS-CoV-2. This technique opens new possibilities for rapid, comprehensive viral screening and has potential implications for understanding emerging infectious diseases.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p>Hyslop et al. (2025). <a href="https://pubmed.ncbi.nlm.nih.gov/40673696/">Mitochondrial Donation and Preimplantation Genetic Testing for mtDNA Disease</a></p>
+</li>
+<li>
+<p>Tao et al. (2025). <a href="https://pubmed.ncbi.nlm.nih.gov/40743217/">Genetic diversity and evolutionary insights of Dali tea</a></p>
+</li>
+<li>
+<p>Grossegesse et al. (2025). <a href="https://pubmed.ncbi.nlm.nih.gov/40744923/">vPro-MS enables identification of human-pathogenic viruses</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Aug  1 06:41:46 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 01 Aug 2025 06:41:52 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250801064152</guid>
   </item>
 </channel>
 </rss>
