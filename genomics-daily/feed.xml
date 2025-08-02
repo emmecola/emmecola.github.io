@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 06:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 06:35:13 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2450,6 +2450,27 @@ None</p>
 <p><em>Last update: Fri Aug  1 06:41:46 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 01 Aug 2025 06:41:52 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250801064152</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-02</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Biological Systems</h1>
+<p>In an era of rapidly advancing genomic technologies, researchers are pushing the boundaries of our understanding across diverse biological domains. These three groundbreaking studies demonstrate how sophisticated computational and molecular approaches are revealing intricate mechanisms underlying disease, bacterial adaptation, and ecological connectivity.</p>
+<h2>🧬 Decoding Diabetic Foot Ulcer Immunopathogenesis</h2>
+<p>Lu et al. employed cutting-edge machine learning and single-cell sequencing to explore the complex immune mechanisms of diabetic foot ulcers (DFU). By analyzing gene expression datasets, they identified seven core genes—CCL20, CXCL13, FGFR2, FGFR3, PI3, PLA2G2A, and S100A8—predominantly expressed in neutrophils and keratinocytes. The study revealed significant immune infiltration dysregulation, characterized by elevated proportions of memory B cells, macrophages, mast cells, and neutrophils. Remarkably, they used the Connectivity Map database to identify potential therapeutic compounds, highlighting selegiline, L-BSO, flunisolide, PP-30, and fluocinolone as promising interventions for DFU treatment.</p>
+<h2>🦠 Bacterial Panimmunity: A Genetic Defense Strategy</h2>
+<p>Cui et al. developed an innovative model exploring how bacteria maintain genetic diversity through horizontal gene transfer (HGT) in their ongoing evolutionary arms race with phages. Using a Lotka-Volterra type model, they demonstrated that HGT enables stable maintenance of diverse defense/counterdefense genes within microbial communities. Their research suggests that even when individual microbial strains become extinct, the collective "pan-immune" system ensures genetic survival. This mechanism resembles an "island migration" model, where genes move between genomes, maintaining ecological diversity and adaptability.</p>
+<h2>🌿 Landscape Connectivity and Grassland Conservation</h2>
+<p>Abdel Moniem et al. investigated the critical role of grasslands in maintaining structural landscape connectivity across Alberta, Canada. Through sophisticated simulation scenarios, they quantified how grassland conversion impacts ecological flow and biodiversity. Their findings revealed that structural landscape connectivity could decrease by up to 43% in certain regions, with conversion scenarios introducing new constraints on ecological movement. The study underscores the importance of local land management decisions in preserving landscape permeability and supporting gene flow among species.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40749079">Lu et al. - Machine learning in diabetic foot ulcer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40748957">Cui et al. - Bacterial panimmunity through horizontal gene transfer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40749001">Abdel Moniem et al. - Grassland conversion and landscape connectivity</a></li>
+</ol>
+<p><em>Last update: Sat Aug  2 06:35:07 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 02 Aug 2025 06:35:13 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250802063513</guid>
   </item>
 </channel>
 </rss>
