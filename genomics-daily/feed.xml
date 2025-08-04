@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Aug 2025 06:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 06:45:40 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2471,6 +2471,33 @@ None</p>
 <p><em>Last update: Sat Aug  2 06:35:07 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 02 Aug 2025 06:35:13 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250802063513</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-04</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Cave Dwellers to Cancer Biomarkers</h1>
+<p>Recent advances in genomics continue to unravel complex biological mechanisms across diverse research domains, offering unprecedented insights into evolutionary adaptation, disease progression, and cellular regulation. The following studies demonstrate the power of genomic approaches in understanding intricate biological systems and developing potential clinical interventions.</p>
+<h2>🧬 Transcriptome of the Olm: Unlocking Longevity Secrets</h2>
+<p>The comprehensive transcriptome analysis of the olm (Proteus anguinus), an extraordinary cave-dwelling amphibian with an extraordinary lifespan, reveals fascinating molecular signatures of adaptation and longevity. By examining gene expression across six organs, researchers discovered significant organ-specific expression patterns, with the brain showing the highest number of unique genes. Notably, the study found more genes under negative selection than positive selection, suggesting a sophisticated molecular mechanism for maintaining genomic stability. This research not only provides insights into the olm's remarkable adaptations but also offers a comparative framework for understanding longevity in complex biological systems.</p>
+<h2>🔬 Colorectal Cancer: Unraveling Transcriptomic and Epigenetic Landscapes</h2>
+<p>A groundbreaking study on colorectal cancer (CRC) and metastatic CRC has unveiled critical differences in gene expression and immune characteristics. By analyzing transcriptomic data, researchers identified four distinct patient subgroups with varying immune infiltration levels and overall survival outcomes. The investigation highlighted the SALL1 gene's methylation, particularly at the cg13755795 site, as a potential independent prognostic biomarker. This research represents a significant step towards personalized medicine, offering novel strategies for prognosis prediction and targeted therapeutic approaches in cancer treatment.</p>
+<h2>🧪 Hepatic Metabolism: HCF-1 and O-GlcNAcylation Regulation</h2>
+<p>The investigation into Host Cell Factor-1 (HCF-1) and O-linked N-acetylglucosamine transferase (OGT) provides critical insights into hepatic metabolic regulation. Using a transgenic mouse model, researchers demonstrated that HCF-1 plays a crucial role in maintaining OGT stability, activity, and cellular localization. Hepatocyte-specific HCF-1 deletion led to decreased OGT levels and global O-GlcNAcylation, highlighting the intricate relationship between these molecular players in nutrient sensing and metabolic processes. This study offers a mechanistic understanding of how cellular factors coordinate metabolic responses.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40754627">The transcriptome of the olm provides insights into its evolution and gene expression</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40754617">Immune characteristics and SALL1 methylation as prognostic biomarkers in primary and metastasis colorectal cancer</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40754593">HCF-1 as a key modulator of OGT function and O-GlcNAcylation in the liver</a></p>
+</li>
+</ol>
+<p><em>Last update: Mon Aug  4 06:45:33 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 04 Aug 2025 06:45:40 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250804064540</guid>
   </item>
 </channel>
 </rss>
