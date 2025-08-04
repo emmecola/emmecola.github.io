@@ -32,3 +32,6 @@ You can find me here:
 
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://mygenomix.wordpress.com)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/emmecola/)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](https://codeberg.org/emmecola/)
