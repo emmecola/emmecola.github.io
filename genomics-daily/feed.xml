@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Aug 2025 06:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 06:40:32 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2498,6 +2498,33 @@ None</p>
 <p><em>Last update: Mon Aug  4 06:45:33 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 04 Aug 2025 06:45:40 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250804064540</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-05</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Microbial Evolution to Human Disease and Cellular Mechanisms</h1>
+<p>The field of genomics continues to unveil fascinating insights into the complexity of biological systems, offering unprecedented understanding of life at the molecular level. Recent research highlights the intricate ways genetic variations, molecular interactions, and environmental factors shape biological processes across different organisms and contexts.</p>
+<h2>🦠 Yersinia pestis: Unraveling Genome Dynamics in a Notorious Pathogen</h2>
+<p>The study on Yersinia pestis genome rearrangements provides a groundbreaking perspective on bacterial evolution. By analyzing 242 complete genomes, researchers discovered 459 rearrangements mediated by insertion sequences, revealing how genetic modifications can influence bacterial adaptation. The findings demonstrate that specific rearrangements, particularly in the rpsO-pnp operon, can alter gene expressions and temperature stress responses, offering critical insights into the pathogen's evolutionary mechanisms.</p>
+<h2>🧬 Decoding Alzheimer's: The Crucial Role of Fasting in Calorie Restriction</h2>
+<p>Research on the 3xTg mouse model of Alzheimer's disease reveals a nuanced understanding of how dietary interventions impact neurological health. The study found that while calorie reduction alone improves metabolic parameters, prolonged fasting between meals is essential for many beneficial effects, including improved insulin sensitivity, reduced Alzheimer's pathology, and enhanced cognitive function. This research underscores the complex interplay between diet, metabolism, and neurological processes.</p>
+<h2>🧫 Navigating Cellular Complexity: Mitochondrial Regulation and Immune Response</h2>
+<p>The investigation into Immune-responsive gene 1 (Irg1) provides remarkable insights into the molecular mechanisms of CNS autoimmunity. By studying experimental autoimmune encephalomyelitis, researchers discovered that Irg1 plays a crucial role in shaping pathogenic Th17 cells. The study revealed that Irg1 knockout leads to increased inflammatory cell infiltration and highlights the gene's protective function in autoimmune diseases, particularly multiple sclerosis.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40759755/">Insights into Yersinia pestis evolution through rearrangement analysis of 242 complete genomes</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40759886/">Fasting is required for many of the benefits of calorie restriction in the 3xTg mouse model of Alzheimer's disease</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40758870/">Immune-responsive gene 1: The mitochondrial key to Th17 cell pathogenicity in CNS autoimmunity</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Aug  5 06:40:25 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 05 Aug 2025 06:40:32 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250805064032</guid>
   </item>
 </channel>
 </rss>
