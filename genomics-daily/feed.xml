@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Aug 2025 06:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 06:37:21 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2689,6 +2689,33 @@ None</p>
 <p><em>Last update: Tue Aug 12 06:36:56 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 12 Aug 2025 06:37:01 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250812063701</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-13</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>In the ever-evolving landscape of genomics research, scientists continue to push the boundaries of our understanding across diverse biological domains. This month's publications reveal remarkable insights into genetic mechanisms, from the intricate world of cellular regulation to the complex interactions between organisms and their environments.</p>
+<h2>🧬 Decoding Genome Editing Precision: A Leap Forward in CRISPR Technology</h2>
+<p>The study by Naert et al. presents a groundbreaking approach to genome editing using deep learning-assisted design of microhomology-based templates. By developing a strategy that promotes precise DNA integration, the researchers demonstrated frame-retentive cassette integration with reduced deletions across multiple cell types and organisms. Their innovative tool, Pythia, enables precise genomic modifications in both early embryonic and differentiated cells, potentially revolutionizing therapeutic genome editing strategies.</p>
+<h2>🌿 Evolutionary Insights: The Genetic Symphony of Plant Diversity</h2>
+<p>In a fascinating exploration of plant genomics, Wang et al. conducted comparative genomic analyses of the Maloideae subfamily, revealing the genetic basis of fruit development. By identifying two long non-coding RNAs (EIF1 and EIF2) that suppress ethylene biosynthesis, the researchers uncovered a mechanism explaining the divergence between ethylene-dependent and ethylene-independent fruit types. This research provides crucial insights into the molecular mechanisms driving fruit evolution and diversity.</p>
+<h2>🧠 Unraveling Neurological Complexity: Endocannabinoids and Memory Processing</h2>
+<p>Ge et al. made significant strides in understanding memory generalization by investigating the role of endocannabinoids in hippocampal neural circuits. Their research revealed that endocannabinoid signaling through CB1 receptors in GABAergic neurons plays a critical role in modulating fear memory discrimination. By demonstrating how these molecular mechanisms influence synaptic plasticity, the study offers potential insights into understanding and potentially treating memory-related disorders.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40796977">Precise, predictable genome integrations by deep-learning-assisted design of microhomology-based templates</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40796913">Comparative genomic analyses reveal different genetic basis of two types of fruit in Maloideae</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40763027">Endocannabinoids inhibit contextual fear memory generalization via hippocampal GABAergic synaptic transmission</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Aug 13 06:37:15 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 13 Aug 2025 06:37:21 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250813063721</guid>
   </item>
 </channel>
 </rss>
