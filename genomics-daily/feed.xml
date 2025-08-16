@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Aug 2025 06:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 06:33:51 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2737,6 +2737,33 @@ None</p>
 <p><em>Last update: Thu Aug 14 06:37:33 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 14 Aug 2025 06:37:39 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250814063739</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-16</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Cellular Mechanisms and Adaptive Strategies</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to push the boundaries of our understanding of biological systems. From immune cell memory to viral genome processing and metabolic adaptations, these groundbreaking studies offer profound insights into the complex molecular mechanisms that govern life at the genetic level.</p>
+<h2>🧬 Memory T Cells and Epigenetic Priming</h2>
+<p>The study by Wei et al. reveals a fascinating mechanism of how histone variant H2A.Z plays a crucial role in memory CD8+ T cell recall responses. By depositing H2A.Z at promoters and enhancers of genes involved in immune response, these cells maintain a poised epigenetic landscape that enables rapid transcriptional activation. This discovery not only illuminates the molecular basis of immune memory but also provides potential strategies for understanding and potentially manipulating T cell responses in immunological interventions.</p>
+<h2>🦠 Redox Regulation in SARS-CoV-2 RNA Processing</h2>
+<p>Nunziata and colleagues uncovered a remarkable mechanism of viral RNA processing in SARS-CoV-2, demonstrating how iron-sulfur clusters modulate the enzymatic functions of viral proteins. These clusters, found in key viral replication-transcription complex proteins, can change their oxidation state and consequently influence RNA methyltransferase activities. This finding offers unprecedented insights into the molecular machinery of coronavirus genome maintenance and could potentially inform antiviral strategies by targeting these redox-sensitive enzymatic complexes.</p>
+<h2>🌱 Metabolic Reprogramming in Polycystic Ovary Syndrome</h2>
+<p>Wang et al. explored the metabolic underpinnings of polycystic ovary syndrome (PCOS), identifying how androgens drive metabolic changes through the glutamine transporter SLC1A5. By demonstrating that androgen excess activates SLC1A5, leading to altered glutamine metabolism and epigenetic modifications, this research provides a novel perspective on the molecular mechanisms of PCOS. The potential for pharmacological intervention by targeting SLC1A5 represents a promising avenue for future therapeutic approaches.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40817373">Wei et al. - H2A.Z primes an epigenetic landscape for memory CD8+ T cell recall response</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40817372">Nunziata et al. - Iron-sulfur clusters in SARS-CoV-2 exoribonuclease and methyltransferase complexes</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40817119">Wang et al. - Androgens drive SLC1A5-dependent metabolic reprogramming in polycystic ovary syndrome</a></p>
+</li>
+</ol>
+<p><em>Last update: Sat Aug 16 06:33:46 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 16 Aug 2025 06:33:51 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250816063351</guid>
   </item>
 </channel>
 </rss>
