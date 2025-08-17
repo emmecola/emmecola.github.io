@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 06:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 06:34:45 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2764,6 +2764,33 @@ None</p>
 <p><em>Last update: Sat Aug 16 06:33:46 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 16 Aug 2025 06:33:51 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250816063351</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-17</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Transposable Elements to Maternal Influences</h1>
+<p>In the rapidly evolving landscape of genomics, researchers continue to push the boundaries of our understanding, revealing intricate mechanisms that shape biological systems. This editorial highlights groundbreaking studies that demonstrate how genetic elements, environmental factors, and molecular interactions profoundly influence biological processes across diverse domains.</p>
+<h2>🧬 Transposable Elements: Unlocking Cold Tolerance in Rice</h2>
+<p>The pangenome analysis by Qian et al. provides remarkable insights into how transposable element insertion polymorphisms (TIPs) contribute to cold tolerance in rice. By examining 165 rice accessions, the researchers identified 30,316 TIP sites and discovered that these polymorphic elements exhibit increased H3K27me3 enrichment, suggesting a critical role in epigenetic differentiation under cold stress. The study not only revealed two key cold tolerance genes, OsCACT and OsPTR, but also created a valuable web tool for researchers, potentially revolutionizing crop breeding strategies for climate resilience.</p>
+<h2>🔬 Sponge Microbiomes: A Window into Marine Ecosystem Diversity</h2>
+<p>Shin and colleagues' comprehensive analysis of sponge-associated microbiomes from Korean marine environments offers unprecedented insights into host-symbiont relationships. By employing full-length 16S rRNA sequencing, they uncovered highly structured microbial communities with remarkable specificity. Notably, the study revealed that each sponge species harbors unique microbial partners, with some fascinating discoveries like the near-exclusive presence of an uncharacterized Gammaproteobacterial lineage in Cliona celata. This research not only establishes a new baseline for understanding marine microbiome diversity but also provides a genetic resource for future marine natural product discovery.</p>
+<h2>🤰 Maternal Diet and Embryonic Development: Molecular Inheritance Mechanisms</h2>
+<p>The groundbreaking study by Pan et al. illuminates how maternal diet can fundamentally alter embryonic development through small non-coding RNA modifications. Using PANDORA-seq, researchers identified a diverse repertoire of small RNAs in female mouse reproductive fluids, demonstrating that maternal high-fat diet significantly disrupts tRNA and rRNA expression. These alterations can impair mid-gestation embryonic growth, reduce birth weight, and potentially induce long-term metabolic disorders in offspring. This research provides critical insights into how dietary information might be transmitted molecularly, highlighting the profound intergenerational impacts of maternal nutrition.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p>Qian, Y., et al. (2025). <strong>Pangenome analysis of transposable element insertion polymorphisms reveals features underlying cold tolerance in rice</strong>. <em>Nature Communications</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40819063">Link</a></p>
+</li>
+<li>
+<p>Shin, M.-S., et al. (2025). <strong>Diversity and composition of sponge-associated microbiomes from Korean sponges revealed by full-length 16S rRNA analysis</strong>. <em>Scientific Reports</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40819100">Link</a></p>
+</li>
+<li>
+<p>Pan, S., et al. (2025). <strong>Maternal diet-induced alterations in uterine fluid sncRNAs compromise preimplantation embryo development and offspring metabolic health</strong>. <em>Nature Communications</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/40818970">Link</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Aug 17 06:34:38 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 17 Aug 2025 06:34:45 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250817063445</guid>
   </item>
 </channel>
 </rss>
