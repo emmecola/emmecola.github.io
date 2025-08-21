@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 06:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 06:44:24 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2866,6 +2866,27 @@ None</p>
 <p><em>Last update: Wed Aug 20 06:35:51 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 20 Aug 2025 06:35:58 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250820063558</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-21</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: From Cellular Mechanisms to Ecological Insights</h1>
+<p>In the rapidly evolving landscape of genomics, researchers continue to unravel complex biological mysteries across diverse domains. The following three studies showcase groundbreaking research that illuminates critical processes in cellular function, bacterial communication, and environmental adaptation, demonstrating the power of genomic approaches to understand life's intricate mechanisms.</p>
+<h2>🧬 Decoding Cellular Stress: Thymic Epithelial Cells and Epigenetic Noise</h2>
+<p>The study by Gamble et al. reveals a fascinating mechanism of cellular plasticity in thymic epithelial cells. By demonstrating how these cells amplify epigenetic noise to promote immune tolerance, the researchers uncovered a novel strategy of chromatin destabilization. This process allows for the ectopic expression of genes from other specialized cell types, which is critical for selecting a self-discriminating T cell repertoire. The research highlights how controlled genetic variability can be a functional feature of cellular systems, challenging traditional views of cell fate stability.</p>
+<h2>🌿 Bacterial Chemical Signaling: A New Frontier in Microbiome Communication</h2>
+<p>Linares-Otoya and colleagues discovered a widespread chemical signaling pathway in the Bacteroidota phylum, identifying the N-acyl-cyclolysine (ACL) system. This cell-density-dependent mechanism regulates the expression of secreted molecules and demonstrates a sophisticated communication strategy among bacterial species. The study not only expands our understanding of bacterial interactions but also provides insights into how microorganisms in the human gut and oral microbiome coordinate their behaviors, potentially opening new avenues for understanding microbial ecology and host-microbe interactions.</p>
+<h2>🌊 Coral Adaptation: Genomic Responses to Ocean Acidification</h2>
+<p>The research by Guo et al. on the reef-building coral Acropora gemmifera offers crucial insights into marine organism adaptation to climate change. By examining how coral juveniles respond to ocean acidification at the genomic level, the study revealed complex acclimation mechanisms. The corals activated DNA repair, autophagy, and other cellular maintenance processes to survive under high CO2 conditions. This research is particularly significant as it provides molecular-level evidence of how marine organisms might cope with rapidly changing environmental conditions, offering hope for coral reef conservation and understanding evolutionary resilience.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40836089/">Thymic Epithelial Cells Study</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40836091/">Bacteroidota Chemical Signaling</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40835991/">Coral Adaptation to Ocean Acidification</a></li>
+</ol>
+<p><em>Last update: Thu Aug 21 06:44:19 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 21 Aug 2025 06:44:24 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250821064424</guid>
   </item>
 </channel>
 </rss>
