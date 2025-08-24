@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Aug 2025 06:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 06:33:01 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2914,6 +2914,33 @@ None</p>
 <p><em>Last update: Fri Aug 22 06:35:25 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 22 Aug 2025 06:35:32 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250822063532</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-24</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>Recent advances in genomics continue to push the boundaries of our understanding across diverse biological domains, revealing intricate molecular mechanisms and offering innovative approaches to addressing complex scientific challenges.</p>
+<h2>🧬 Decoding Placental Genetic Complexity</h2>
+<p>The study by Miceikaite et al. provides unprecedented insights into the genetic landscape of early human placentas through deep genome sequencing. By mapping mutational patterns across placental development, the researchers discovered extensive genetic heterogeneity, revealing widespread postzygotic mutations and distinct clonal evolution patterns. This groundbreaking research highlights the remarkable genetic complexity of placental tissue, challenging previous assumptions about genetic uniformity and emphasizing the need for cautious interpretation of placental genetic data in prenatal diagnostics.</p>
+<h2>🔬 CRISPR Innovation: Discovering New Protein Clades</h2>
+<p>Feng and colleagues leveraged a large language model to revolutionize CRISPR-Cas12a research, demonstrating the power of computational approaches in exploring unknown biological systems. By training an evolutionary scale language model with CRISPR-Cas data, they successfully identified seven previously undocumented Cas12a subtypes, revealing unique structural characteristics and diverse DNA cleavage preferences. This innovative approach not only expands our understanding of CRISPR systems but also showcases how machine learning can accelerate biological discovery by transcending traditional sequence alignment methods.</p>
+<h2>🧫 Unraveling Cellular Mechanisms in Reproductive Biology</h2>
+<p>The research by Zhi et al. provides fascinating insights into mitochondrial function in sperm, identifying a critical molecular axis regulating fatty acid oxidation and mitochondrial sheath assembly. By investigating the TEX44-CPT1B interaction, the researchers uncovered a sophisticated mechanism that balances energy metabolism and reactive oxygen species generation in sperm. Their work not only advances our understanding of male fertility at the molecular level but also offers potential therapeutic insights for addressing sperm motility disorders, demonstrating the intricate regulatory networks underlying cellular processes.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40849439">Miceikaite et al. - Deep genome sequencing reveals extensive genetic heterogeneity in early human placentas</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40849498">Feng et al. - Discovery of CRISPR-Cas12a clades using a large language model</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40849303">Zhi et al. - The TEX44-CPT1B axis regulates mitochondrial sheath assembly and fatty acid oxidation in sperm</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Aug 24 06:32:55 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 24 Aug 2025 06:33:01 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250824063301</guid>
   </item>
 </channel>
 </rss>
