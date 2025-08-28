@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Aug 2025 06:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 06:34:51 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -2989,6 +2989,27 @@ None</p>
 <p><em>Last update: Wed Aug 27 06:33:32 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 27 Aug 2025 06:33:37 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250827063337</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-08-28</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity Across Biological Systems</h1>
+<p>In the ever-evolving landscape of genomics research, scientists continue to push the boundaries of our understanding, revealing intricate mechanisms that govern life at molecular levels. This editorial highlights three groundbreaking studies that demonstrate the power of genomic approaches in exploring diverse biological phenomena, from immune function to evolutionary adaptations and disease mechanisms.</p>
+<h2>🧬 Immune Differentiation in Cattle: A Genomic Perspective</h2>
+<p>Researchers from Chen et al. conducted a comprehensive study comparing the immune characteristics of taurine and indicine ancestry cattle. By integrating genome and transcriptome data, they identified 184 core immune genes and 1,255 allele-specific expression variants. The study revealed that taurine ancestry cattle exhibit lower immune scores and higher disease susceptibility compared to indicine ancestry cattle. This research provides crucial insights into cattle immunity and offers potential markers for genomic selection to enhance disease resistance in dairy herds.</p>
+<h2>🦠 Microbial Iron Metabolism: A New Ecological Frontier</h2>
+<p>Chen et al. unveiled a fascinating mechanism of microbial sulfur and iron cycling, demonstrating how bacteria can oxidize sulfide using extracellular solid-phase iron(III). Through extensive genomic analysis across prokaryotic phyla, they discovered that certain bacteria can grow autotrophically by converting sulfide to sulfate while using ferrihydrite as an electron acceptor. This groundbreaking research expands our understanding of element cycling in anoxic environments and highlights the fundamental role of microorganisms in global biogeochemical processes.</p>
+<h2>🧠 Epigenetic Regulation in Immune Cell Development</h2>
+<p>Zhao et al. explored the critical role of CFP1, a component of the histone methyltransferase complex, in germinal center B cell responses. Their study revealed that CFP1 is essential for proper B cell development, affinity maturation, and preventing premature memory cell differentiation. By modulating H3K4me3 marks and regulating key transcription factors, CFP1 ensures the dynamic progression of germinal center B cells. This research provides important insights into the epigenetic mechanisms governing immune cell differentiation and potential implications for understanding immune system disorders.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40866863">Chen et al. - BMC Genomics</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40866705">Chen et al. - Nature</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40866336">Zhao et al. - Nature Communications</a></li>
+</ol>
+<p><em>Last update: Thu Aug 28 06:34:45 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 28 Aug 2025 06:34:51 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250828063451</guid>
   </item>
 </channel>
 </rss>
