@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Aug 2025 06:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 06:35:30 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3078,6 +3078,33 @@ None</p>
 <p><em>Last update: Sun Aug 31 06:31:24 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 31 Aug 2025 06:31:30 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250831063130</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-09-02</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>In the rapidly evolving landscape of genomics, researchers continue to push the boundaries of our understanding, exploring intricate molecular mechanisms across diverse biological systems. From plant resilience to human disease mechanisms and evolutionary adaptations, these cutting-edge studies demonstrate the power of advanced genomic technologies in deciphering life's fundamental processes.</p>
+<h2>🌱 Plant Resilience: Decoding Resistance Mechanisms in Cruciferous Crops</h2>
+<p>The study on <em>Inactivation of β-1,3-glucan synthase-like 5 confers broad-spectrum resistance to Plasmodiophora brassicae pathotypes in cruciferous plants</em> reveals a groundbreaking approach to crop protection. By identifying and inactivating the GSL5 gene through genome editing in multiple Brassica species, researchers discovered a mechanism that provides high-level, broad-spectrum resistance to clubroot disease. The research not only demonstrates the potential for developing more resilient crops but also provides insights into plant-pathogen interactions, showing how precise genetic modifications can enhance agricultural sustainability.</p>
+<h2>🧬 Mitochondrial Dynamics: Evolutionary Insights in Nematode Parasites</h2>
+<p>The comparative mitogenomics study of Strongyloidea nematodes offers a fascinating glimpse into the evolutionary adaptations of gastrointestinal parasites. By analyzing mitochondrial genomes across different habitat-specific lineages, researchers uncovered niche-associated evolutionary trajectories that reveal how these parasites adapt to specific intestinal environments. The study's comprehensive approach, combining phylogenetic reconstruction, synteny analysis, and selection dynamics, provides a nuanced understanding of how molecular mechanisms drive parasite evolution and potentially inform veterinary and agricultural strategies.</p>
+<h2>🧠 Neurological Complexity: Chromatin Regulation in Locusts</h2>
+<p>The research on <em>Chromatin dynamics of a large-sized genome provides insights into polyphenism and X0 dosage compensation of locusts</em> offers a remarkable exploration of genome organization and gene regulation. By generating chromosome-level genomes and comprehensive chromatin maps, scientists discovered how expanded intronic and intergenic regions shape a unique chromatin regulation landscape. The study's insights into how distance-dependent histone modifications maintain balanced X-linked expression and influence dosage compensation provide a sophisticated understanding of genetic plasticity in complex organisms.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40890362/">Inactivation of β-1,3-glucan synthase-like 5 confers broad-spectrum resistance to Plasmodiophora brassicae pathotypes in cruciferous plants</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40890580/">Comparative mitogenomics reveals evolutionary drivers of Strongyloidea nematodes dwelling in gastrointestinal tract</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40890361/">Chromatin dynamics of a large-sized genome provides insights into polyphenism and X0 dosage compensation of locusts</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Sep  2 06:35:25 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 02 Sep 2025 06:35:30 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250902063530</guid>
   </item>
 </channel>
 </rss>
