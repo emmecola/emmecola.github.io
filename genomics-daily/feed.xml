@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Sep 2025 06:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 06:29:43 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3153,6 +3153,27 @@ None</p>
 <p><em>Last update: Fri Sep  5 06:33:30 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 05 Sep 2025 06:33:36 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250905063336</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-09-06</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>Recent advances in genomics continue to illuminate the intricate molecular mechanisms underlying biological systems, revealing unprecedented insights into genetic regulation, disease processes, and evolutionary dynamics across diverse domains of life.</p>
+<h2>🧬 Cattle Cell Atlas: A Comprehensive Molecular Landscape</h2>
+<p>The groundbreaking multi-tissue single-cell expression atlas in cattle provides an unprecedented comprehensive reference map of cellular heterogeneity across 59 bovine tissues. By integrating 1,793,854 cells from both calves and adult cattle, researchers have unveiled intricate patterns of gene expression, transcription factor regulation, and intercellular communication. This landmark study not only offers profound insights into bovine genetics but also enables comparative analyses with human cellular systems, potentially accelerating our understanding of complex physiological traits and disease mechanisms.</p>
+<h2>🔬 Decoding RNA Stability: A New Dimension of Genetic Variation</h2>
+<p>A sophisticated computational approach has revealed over 5,000 allele-specific RNA stability variants across 665 genes, demonstrating that genetic variation influences not just transcription but also messenger RNA stability. By leveraging innovative techniques like Bru/BruChase-seq and a novel computational pipeline called RNAtracker, researchers uncovered that these variants predominantly overlap microRNA target regions and RNA-binding protein sites. Significantly, these RNA stability genes were enriched in immune-related pathways, suggesting a critical link between genetic variation and immune system disease risk.</p>
+<h2>🧊 Genomic Newborn Screening: Expanding Diagnostic Horizons</h2>
+<p>The Early Check program's initial results showcase the transformative potential of expanded genomic newborn screening, analyzing 169 high-actionability genes using dried blood spot sequencing. In just eight months, the study screened 1,979 newborns, identifying 50 screen-positive cases with 55% confirmed as true positives. This pioneering research demonstrates the technical feasibility of comprehensive genomic screening and highlights the critical importance of developing standardized protocols for interpreting and managing genomic findings in pediatric populations.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40913183/">A multi-tissue single-cell expression atlas in cattle</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40913182/">Genetic variants affecting RNA stability influence complex traits and disease risk</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40913169/">Feasibility and clinical utility of expanded genomic newborn screening in the Early Check program</a></li>
+</ol>
+<p><em>Last update: Sat Sep  6 06:29:38 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 06 Sep 2025 06:29:43 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250906062943</guid>
   </item>
 </channel>
 </rss>
