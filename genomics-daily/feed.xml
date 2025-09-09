@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 06:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 06:35:03 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3209,6 +3209,33 @@ None</p>
 <p><em>Last update: Mon Sep  8 06:34:58 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 08 Sep 2025 06:35:03 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250908063503</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-09-09</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Cells to Populations</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into biological systems. From deciphering genetic mechanisms in disease to exploring population dynamics and cellular processes, these groundbreaking studies demonstrate the power of advanced genomic technologies in addressing complex biological questions.</p>
+<h2>🧬 Ancestral Recombination Graphs: A New Window into Evolutionary History</h2>
+<p>Deng, Nielsen, and Song's work introduces SINGER, a revolutionary method for reconstructing Ancestral Recombination Graphs (ARGs) with remarkable accuracy and scalability. By enabling the sampling of genealogical histories for hundreds of whole-genome sequences, this approach provides a more nuanced understanding of population genetic processes. The researchers demonstrated SINGER's capabilities by analyzing individuals from the 1000 Genomes Project, revealing intricate signals of population differentiation, archaic introgression, and ancient polymorphisms in the human leukocyte antigen region.</p>
+<h2>🔬 Protein Dynamics in Neurological Conditions: A Multiancestry Perspective</h2>
+<p>Wingo et al. conducted a groundbreaking multiancestry study mapping protein quantitative trait loci (pQTLs) across 1,362 brain proteomes from diverse populations. By employing advanced fine-mapping techniques, they identified 858 multiancestry causal pQTLs, with a significant proportion being coding variants. The research is particularly noteworthy for its potential to create more inclusive molecular models of neurologic and psychiatric conditions, highlighting the importance of genetic diversity in understanding complex diseases.</p>
+<h2>🧫 Unraveling Cellular Mechanisms of Genome Duplication</h2>
+<p>The study by Matsuhashi et al. reveals a fascinating mechanism by which the DNA replication machinery regulates centrosome duplication. By discovering how the microcephaly protein DONSON couples DNA replication initiation with critical cellular checkpoints, the researchers shed light on fundamental processes controlling genetic inheritance. Their findings demonstrate that DNA replication is not merely about duplicating genetic material but also involves sophisticated control systems preventing chromosomal mis-segregation.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40921789">Deng et al. - Robust and accurate Bayesian inference of genome-wide genealogies</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40921788">Wingo et al. - Multiancestry brain pQTL fine-mapping</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40921755">Matsuhashi et al. - DNA replication machinery and centrosome duplication</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Sep  9 06:34:58 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 09 Sep 2025 06:35:03 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250909063503</guid>
   </item>
 </channel>
 </rss>
