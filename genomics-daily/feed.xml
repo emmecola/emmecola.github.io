@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2025 06:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 06:33:29 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3284,6 +3284,27 @@ None</p>
 <p><em>Last update: Thu Sep 11 06:33:52 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 11 Sep 2025 06:33:58 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250911063358</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-09-12</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>The field of genomics continues to evolve rapidly, offering unprecedented insights into the intricate mechanisms that govern life at the molecular level. From understanding species barriers to exploring non-canonical DNA modifications and innovative genetic technologies, researchers are pushing the boundaries of our comprehension of biological systems.</p>
+<h2>🧬 Species Barriers Emerge Faster in Plants Than Previously Thought</h2>
+<p>The study by Monnet et al. challenges the long-held belief about genetic exchange between species. By examining gene flow across different levels of genetic divergence, researchers discovered that plants establish reproductive isolation more rapidly than animals. This finding fundamentally reshapes our understanding of speciation dynamics, suggesting that plants have more robust mechanisms for preventing genetic introgression than previously recognized. The research provides crucial insights into evolutionary processes and highlights the complex strategies organisms employ to maintain genetic distinctiveness.</p>
+<h2>🔬 Non-CG DNA Methylation: A Neural Regulation Frontier</h2>
+<p>Brethouwer and colleagues shed light on the enigmatic realm of non-CG DNA methylation (mCH), revealing its significant role in vertebrate neural systems. While traditional research focused on CG methylation, this study demonstrates that mCH, though low in abundance, plays a critical part in neural tissue regulation, embryogenesis, and potentially neurodevelopmental disorders. The research unveils mCH as an emerging mechanism of gene regulation, particularly important in neural stem cells, oocytes, and embryonic development, opening new avenues for understanding cellular identity and neural function.</p>
+<h2>🧪 Photoswitchable Protein Manipulation: A Technological Breakthrough</h2>
+<p>Baloban et al. introduce a groundbreaking photoswitchable intein (PS Intein) technology that enables precise light-controlled protein binding and cleavage in mammalian cells. This innovative tool offers unprecedented control over protein networks, allowing researchers to manipulate cellular processes with high specificity. The PS Intein system demonstrates remarkable versatility, tolerating various protein fusions and enabling intersectional cell targeting. This technology represents a significant advancement in optogenetics, providing researchers with a powerful method to study and potentially modulate complex cellular interactions.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40934327/">Monnet et al. - Rapid establishment of species barriers in plants</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40935851/">Brethouwer et al. - Non-CG DNA methylation in animal genomes</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40935816/">Baloban et al. - Photoswitchable intein for protein manipulation</a></li>
+</ol>
+<p><em>Last update: Fri Sep 12 06:33:24 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 12 Sep 2025 06:33:29 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250912063329</guid>
   </item>
 </channel>
 </rss>
