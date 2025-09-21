@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Sep 2025 06:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 06:32:28 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3457,6 +3457,25 @@ None</p>
 <p><em>Last update: Sat Sep 20 06:30:51 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 20 Sep 2025 06:30:56 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250920063056</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-09-21</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Biological Systems</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of scientific understanding, revealing intricate molecular mechanisms that govern biological processes across diverse organisms and systems. The following studies showcase the power of advanced genomic technologies in deciphering complex genetic interactions, disease mechanisms, and evolutionary adaptations.</p>
+<h2>🧬 Bovine Genome Editing: Precision and Potential</h2>
+<p>Du et al. made significant strides in optimizing CRISPR/Cas9 delivery techniques for bovine embryo genome editing. By systematically comparing lipofection and electroporation methods, the researchers demonstrated that CRISPRMAX lipofection and NEPA21 electroporation could achieve up to 50% gene editing efficiency in the prolactin receptor (PRLR) gene. This breakthrough provides a crucial workflow for precise genetic modifications in livestock, potentially revolutionizing breeding strategies and agricultural biotechnology.</p>
+<h2>🦠 Mycoplasma Gene Regulation: Unmasking Pathogenic Strategies</h2>
+<p>Paes and Ferreira's comprehensive review shed light on the complex molecular mechanisms governing gene expression in Mycoplasma species. By exploring the intricate regulatory processes beyond traditional transcription factor binding, the study revealed that these genome-reduced bacteria rely on alternative mechanisms such as chromosome topology and post-transcriptional regulation. This research is pivotal in understanding how these pathogenic bacteria develop species-specific virulence strategies, offering insights that could inform future therapeutic approaches.</p>
+<h2>🧠 Genetic Variants and Neurological Disorders: A Molecular Perspective</h2>
+<p>Vinci et al. uncovered a novel hemizygous variant in the FAAH2 gene associated with a unique neurodevelopmental phenotype. By employing whole-exome sequencing and structural modeling, the researchers identified a mutation that potentially links endocannabinoid system disruption with neurological and metabolic disorders. This groundbreaking study not only contributes to our understanding of genetic variations but also highlights the complex interplay between genetic mutations and clinical manifestations.</p>
+<p><strong>References:</strong>
+1. <a href="https://pubmed.ncbi.nlm.nih.gov/40780629">Du et al. - CRISPR/Cas9 in Bovine Embryos</a>
+2. <a href="https://pubmed.ncbi.nlm.nih.gov/40752744">Paes &amp; Ferreira - Mycoplasma Gene Expression</a>
+3. <a href="https://pubmed.ncbi.nlm.nih.gov/40744325">Vinci et al. - FAAH2 Variant Study</a></p>
+<p><em>Last update: Sun Sep 21 06:32:23 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 21 Sep 2025 06:32:28 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250921063228</guid>
   </item>
 </channel>
 </rss>
