@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2025 06:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 06:34:42 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3651,6 +3651,33 @@ None</p>
 <p><em>Last update: Tue Sep 30 06:35:03 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 30 Sep 2025 06:35:09 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20250930063509</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-01</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity from Molecular to Ecosystem Levels</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of our understanding across diverse biological systems. These three groundbreaking studies showcase how advanced genomic techniques can illuminate intricate biological processes, from molecular interactions to ecosystem dynamics, revealing the profound complexity underlying life's fundamental mechanisms.</p>
+<h2>🧬 Decoding Protein Evolution: Language Models Reveal Adaptive Convergence</h2>
+<p>In a remarkable study, researchers used protein language models to explore how proteins with similar functions evolve convergently. By deriving numerical embeddings from protein sequences, they discovered that functionally convergent proteins can have similar molecular features even without identical amino acid sequences. This approach allowed them to detect adaptive convergence across different protein families, providing unprecedented insights into how protein functions emerge through evolutionary processes.</p>
+<h2>🌿 Plant Genome Dynamics: Revealing Thorn Development Mechanisms</h2>
+<p>Scientists investigating plant morphology uncovered a critical transcriptional regulatory mechanism controlling thorn formation in plants. By identifying the SST1 gene, a MYB family transcription factor, they demonstrated how specific genetic controls determine the hardness and development of protective plant structures. This research not only provides fundamental insights into plant development but also offers potential strategies for optimizing crop cultivation by modulating protective plant features.</p>
+<h2>🦠 Viral Emergence and Human Genetics: Understanding Pandemic Potential</h2>
+<p>A thought-provoking perspective paper explored how human genetic variations might influence viral emergence and transmission. The researchers proposed that individual genetic traits could play crucial roles in viral spread, potentially serving as "patient zeros" or enabling viral mutation. This work highlights the complex interplay between human genetics and viral evolution, suggesting that genomic sequencing could become a powerful tool in predicting and preventing future pandemic risks.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40986350/">Language Models Reveal Adaptive Convergent Evolution of Protein Functions</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40986360/">Transcriptional Regulation of Thorn Tip Sclerification in Plants</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40971407/">The Potential Impacts of Human Genetics on Virus Emergence</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Oct  1 06:34:36 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 01 Oct 2025 06:34:42 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251001063442</guid>
   </item>
 </channel>
 </rss>
