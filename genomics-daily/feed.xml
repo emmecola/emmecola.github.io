@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Oct 2025 06:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 06:33:04 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3678,6 +3678,27 @@ None</p>
 <p><em>Last update: Wed Oct  1 06:34:36 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 01 Oct 2025 06:34:42 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251001063442</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-03</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Life's Complexity Across Domains</h1>
+<p>The rapidly evolving field of genomics continues to unveil intricate molecular mechanisms that shape biological systems. From understanding disease processes to exploring evolutionary adaptations, these groundbreaking studies demonstrate how advanced genomic technologies are revolutionizing our comprehension of genetic complexity across diverse organisms and research domains.</p>
+<h2>🧬 Unraveling Genetic Mechanisms of Hybrid Sterility in Mice</h2>
+<p>The study on mouse X-linked microRNA clusters reveals a fascinating mechanism of reproductive isolation between closely related subspecies. By investigating the Mir465 microRNA gene cluster, researchers discovered a critical genetic factor that regulates meiotic checkpoints and hybrid sterility. The findings show that copy number variations in these microRNA genes can disrupt chromosomal synapsis and spermatogenesis, providing a molecular explanation for reproductive barriers between Mus musculus subspecies.</p>
+<h2>🔬 Pioneering Techniques in Genomic Research: Protein Interactions and DNA Repair</h2>
+<p>A groundbreaking chemical epigenetic tool called SCOPE (Site-specific noncanonical amino acid-mediated capture of protein) offers unprecedented insights into site-specific DNA-protein interactions. By incorporating a photo-crosslinking amino acid into a modified CRISPR-Cas9 system, researchers can now capture protein complexes at specific genomic locations with remarkable precision. This innovative approach not only advances our understanding of gene regulation networks but also provides a powerful method for studying complex cellular processes in human pluripotent stem cells.</p>
+<h2>🌿 Ancient Alleles Driving Climate Adaptation in Alpine Plants</h2>
+<p>The research on an Alpine carnation species demonstrates how ancient genetic variations enable contemporary climate adaptation. By integrating genomics with ecological and functional analyses, scientists uncovered how divergent haplotypes of the CENTRORADIALIS gene originated during the plant's radiation and survived in glacial refugia. These "warm" and "cold" alleles have played a crucial role in the species' range expansion and are predicted to continue facilitating adaptation under future climate change scenarios.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41037637/">Mouse X-linked microRNA cluster regulates meiotic checkpoint</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41037631/">A chemical epigenetic tool to probe site-specific DNA-binding protein complexes</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41037598/">Ancient alleles drive contemporary climate adaptation in an alpine plant</a></li>
+</ol>
+<p><em>Last update: Fri Oct  3 06:32:57 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 03 Oct 2025 06:33:04 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251003063304</guid>
   </item>
 </channel>
 </rss>
