@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Oct 2025 06:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 06:34:12 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3771,6 +3771,33 @@ None</p>
 <p><em>Last update: Mon Oct  6 06:34:51 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 06 Oct 2025 06:34:59 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251006063459</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-07</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>Genomics research continues to push the boundaries of our understanding, revealing intricate molecular mechanisms that shape biological systems. From cancer progression to evolutionary dynamics and crop improvement, these studies demonstrate the power of advanced genomic technologies in deciphering complex biological questions.</p>
+<h2>🧬 Transcriptional Regulation in Melanoma: Vitamin C's Potential Therapeutic Role</h2>
+<p>The study on vitamin C's effect on melanoma cells reveals a promising avenue for potential cancer treatment. Researchers found that high concentrations of vitamin C significantly increased the expression of cytochrome c and TNF-α, key proteins involved in apoptotic pathways. By activating both intrinsic and extrinsic cell death mechanisms, vitamin C showed the ability to induce programmed cell death in B16-F10 melanoma cells, particularly at concentrations between 3,000 and 5,000 µM. This research not only provides insights into the molecular mechanisms of vitamin C's anti-cancer properties but also suggests a potential complementary approach to existing cancer therapies.</p>
+<h2>🌱 Natural Genetic Variation Enhancing Rice Yield Potential</h2>
+<p>A groundbreaking study in rice genetics identified two key genes, GNP2 and GNP5, that significantly impact grain number per panicle. The researchers discovered that a specific combination of alleles in these genes can increase rice yield by approximately 10%. By understanding how GNP2, a GSK3-like kinase, interacts with other regulatory proteins to modulate panicle development, scientists can potentially develop more productive rice varieties. This research is particularly crucial in the context of global food security, offering a molecular approach to crop improvement through precise genetic manipulation.</p>
+<h2>🦠 Evolutionary Insights: Redefining Mosquito Phylogenomics</h2>
+<p>A comprehensive phylogenomic analysis has dramatically reshaped our understanding of mosquito evolution. By using genome-wide markers and accounting for systematic biases in previous studies, researchers dated the origin of mosquitoes to the mid-Cretaceous period, approximately 106 million years ago. Surprisingly, most extant genera emerged after the Cretaceous-Paleogene boundary, coinciding with the origin of Plasmodium parasites. This study not only provides a more accurate evolutionary timeline but also highlights the importance of sophisticated computational methods in resolving complex phylogenetic relationships.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41053334/">Sutedja et al. - Vitamin C in Melanoma Cell Death</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41053156/">Hu et al. - Natural Variation Enhancing Rice Yield</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41052354/">Pierce et al. - Mosquito Evolutionary History</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Oct  7 06:34:06 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 07 Oct 2025 06:34:12 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251007063412</guid>
   </item>
 </channel>
 </rss>
