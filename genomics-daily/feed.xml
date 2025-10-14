@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 06:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 06:34:17 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -3907,6 +3907,33 @@ None</p>
 <p><em>Last update: Mon Oct 13 06:35:59 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 13 Oct 2025 06:36:05 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251013063605</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-14</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Cellular to Ecosystem Levels</h1>
+<p>The rapid advancement of genomic technologies continues to unveil intricate biological mechanisms across diverse domains. The following research highlights demonstrate how sophisticated molecular techniques are transforming our understanding of genetic interactions, disease processes, and ecological relationships.</p>
+<h2>🧬 Decoding Neurodevelopmental Complexity: CTNNB1 Syndrome Insights</h2>
+<p>The study on CTNNB1 syndrome provides a nuanced exploration of how genetic variants impact protein function. Researchers meticulously characterized different β-catenin truncation variants, revealing complex patterns of protein stability and transcriptional activity that correlate with clinical manifestations. By demonstrating potential strategies for functional reconstitution, such as translational readthrough and proteasome inhibition, the research offers promising avenues for therapeutic intervention in this challenging neurodevelopmental disorder.</p>
+<h2>🌿 Microbial Symbiosis: Honeybee Gut Microbiota Evolution</h2>
+<p>A groundbreaking comparative metagenomic study of honeybee species unveils the dynamic nature of gut microbiota evolution. By analyzing 200 worker bees across five species, researchers discovered that microbial communities are highly fluid, with frequent bacterial gains, losses, and replacements. This research challenges previous assumptions about symbiotic co-evolution, highlighting how functional adaptations—like pectin degradation capabilities—emerge through complex microbial interactions and host-specific evolutionary pressures.</p>
+<h2>🔬 Precision Medicine: Targeting Lamin A Mutations in Cardiac Disease</h2>
+<p>The precise gene editing study targeting pathogenic Lamin A mutations represents a significant breakthrough in treating genetic cardiac disorders. By developing advanced base editing strategies for two specific mutations causing congenital muscular dystrophy and dilated cardiomyopathy, researchers successfully corrected cellular abnormalities in patient-derived cardiomyocytes. Importantly, viral delivery of base editing components prevented pathological phenotypes and extended longevity in mouse models, offering a promising therapeutic approach for devastating laminopathies.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41082542/">CTNNB1 Syndrome Genotype-Phenotype Characterization</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41083440/">Honeybee Gut Microbiota Comparative Metagenomics</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41082656/">Precise Gene Editing of Lamin A Mutations</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Oct 14 06:34:11 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 14 Oct 2025 06:34:17 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251014063417</guid>
   </item>
 </channel>
 </rss>
