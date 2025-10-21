@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Oct 2025 06:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 06:34:53 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4062,6 +4062,25 @@ None</p>
 <p><em>Last update: Mon Oct 20 06:35:28 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 20 Oct 2025 06:35:42 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251020063542</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-21</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Complexity in Health, Disease, and Adaptation</h1>
+<p>Recent advances in genomics are revealing intricate mechanisms underlying biological systems, from cellular processes to complex diseases. This editorial highlights groundbreaking research that demonstrates the power of cutting-edge genomic technologies in understanding genetic variations, disease mechanisms, and evolutionary adaptations.</p>
+<h2>🧬 Nanopore Sequencing: Revolutionizing Rapid Genetic Diagnostics</h2>
+<p>The study by Smits et al. showcases the transformative potential of nanopore long-read genome sequencing (LR-GS) in critically ill pediatric patients. By reducing turnaround time from weeks to just days, this approach enables unprecedented rapid genetic diagnosis. In their cohort of 26 patients, LR-GS successfully diagnosed 11 cases, with 7 cases leading to immediate adjustments in patient care. The technique's ability to perform DNA methylation analysis further expedited diagnostics, highlighting the method's comprehensive diagnostic capabilities.</p>
+<h2>🔬 Unraveling Cancer's Molecular Machinery: SWI/SNF Complexes and Therapeutic Opportunities</h2>
+<p>St Laurent and colleagues provide crucial insights into the mammalian SWI/SNF chromatin remodeling complexes, specifically in dedifferentiated endometrial carcinomas. Their research reveals how loss of canonical BAF complex subunits (ARID1A/B) leads to shifts in complex stoichiometry, maintaining an oncogenic state. Importantly, they demonstrate that targeting specific ATPases with small molecule inhibitors can markedly attenuate cancer cell proliferation and potentially synergize with existing chemotherapies, opening new avenues for precision oncology.</p>
+<h2>🧾 Single-Cell Perturbation: Enhancing Our Understanding of Genetic Responses</h2>
+<p>Valencia et al. introduce a sophisticated approach to studying response expression quantitative trait loci (reQTLs) by modeling per-cell perturbation states. Their method, which accounts for single-cell heterogeneity, detected 36.9% more reQTLs compared to standard discrete models. By analyzing responses to various pathogen infections, they revealed that approximately 25% of reQTLs have cell-type-specific effects, providing a more nuanced understanding of how genetic variations influence cellular responses.</p>
+<p><strong>References:</strong>
+1. <a href="https://pubmed.ncbi.nlm.nih.gov/41116046">Nanopore Long-Read Sequencing Study</a>
+2. <a href="https://pubmed.ncbi.nlm.nih.gov/41116019">SWI/SNF Complexes in Cancer</a>
+3. <a href="https://pubmed.ncbi.nlm.nih.gov/41116018">Single-Cell Perturbation reQTL Analysis</a></p>
+<p><em>Last update: Tue Oct 21 06:34:46 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 21 Oct 2025 06:34:53 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251021063453</guid>
   </item>
 </channel>
 </rss>
