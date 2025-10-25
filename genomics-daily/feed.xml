@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 06:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 06:31:20 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4150,6 +4150,27 @@ None</p>
 <p><em>Last update: Fri Oct 24 06:34:28 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 24 Oct 2025 06:34:35 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251024063435</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-25</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>Recent advances in genomics continue to illuminate the intricate mechanisms underlying biological complexity, from cellular processes to evolutionary adaptations. Three groundbreaking studies showcase how cutting-edge technologies and computational approaches are revolutionizing our understanding of genetic systems across diverse domains.</p>
+<h2>🧬 Decoding Circular RNA's Role in Viral Pathogenesis</h2>
+<p>The study by Ma Yingcai and colleagues provides crucial insights into how circular RNAs (circRNAs) mediate mitochondrial damage during infectious bovine rhinotracheitis virus (IBRV) infection. By employing high-throughput sequencing and sophisticated bioinformatics analyses, researchers identified 144 differentially expressed circRNAs that play a regulatory role in mitochondrial dysfunction. The research revealed that specific circRNAs, such as circ_002584 and circ_004326, directly influence reactive oxygen species accumulation and mitochondrial membrane potential, offering potential diagnostic and therapeutic strategies for viral-induced mitochondrial damage.</p>
+<h2>🌱 Terpene Synthase Complexity in Peanut Genome</h2>
+<p>Li and colleagues' comprehensive genome-wide analysis of terpene synthase (TPS) family in peanuts illuminates the intricate mechanisms of terpenoid biosynthesis. By identifying 77 AhTPS genes and classifying them into five subfamilies, the researchers uncovered complex cross-talk between different terpenoid pathways. Notably, their findings demonstrate how specific genes like AhCPS3 respond to hormonal signals and how different terpene-related genes interact during seed development, providing unprecedented insights into plant metabolic networks and potential agricultural applications.</p>
+<h2>🧠 Machine Learning Revolutionizes Rare Variant Association Testing</h2>
+<p>The development of BayesRVAT by Nappi and colleagues represents a significant leap in genomic research methodologies. This innovative Bayesian rare variant association test integrates multiple annotations to improve the identification of disease-related genetic variations. By flexibly modeling diverse rare-variant architectures, the method demonstrated improved power in detecting genetic associations, particularly in blood-related traits. The research not only enhances our understanding of genetic contributions to diseases but also provides a sophisticated computational framework for future genomic investigations.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41136945">Ma et al. - Circular RNAs in IBRV-induced mitochondrial damage</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41136901">Li et al. - Terpene synthase family in peanut genome</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41136342">Nappi et al. - BayesRVAT for rare variant association testing</a></li>
+</ol>
+<p><em>Last update: Sat Oct 25 06:31:14 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 25 Oct 2025 06:31:20 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251025063120</guid>
   </item>
 </channel>
 </rss>
