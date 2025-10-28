@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 06:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 06:36:30 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4187,6 +4187,33 @@ None</p>
 <p><em>Last update: Mon Oct 27 06:38:17 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 27 Oct 2025 06:38:23 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251027063823</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-28</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>In the rapidly evolving landscape of genomics, researchers continue to push the boundaries of our understanding across diverse biological domains. Recent publications reveal intricate mechanisms of cellular function, environmental adaptation, and disease progression, highlighting the power of advanced genomic technologies to decode complex biological phenomena.</p>
+<h2>🧬 Single-Cell Transcriptomics: A Window into Cellular Diversity</h2>
+<p>The study by Krishnan et al. on Daphnia magna represents a groundbreaking application of single-cell RNA sequencing, revealing unprecedented insights into cellular heterogeneity. By meticulously mapping transcriptional profiles across more than 25 distinct cell types, the researchers not only characterized ovarian, testicular, and neural populations but also discovered potential non-circulating hemocyte subpopulations. This work significantly expands our understanding of cellular complexity in a model organism and provides a robust framework for future ecological and evolutionary research.</p>
+<h2>🌍 Mitochondrial Dynamics and Genome Interactions in Yeast Evolution</h2>
+<p>Wang et al.'s research on Saccharomyces species illuminates the intricate interplay between mitochondrial DNA and nuclear genomes in driving species-specific adaptations. By demonstrating how mitochondrial alleles from Saccharomyces cerevisiae can enhance thermotolerance in S. paradoxus through positive epistasis, the study reveals a nuanced mechanism of evolutionary adaptation. This work underscores the importance of considering mitochondrial contributions beyond traditional perspectives, offering insights into how genomic interactions shape physiological traits.</p>
+<h2>🦠 Real-Time Metagenomics: Transforming Pathogen Detection</h2>
+<p>The development of MARTi by Peel et al. represents a significant technological breakthrough in metagenomic analysis. This open-source software enables real-time, dynamic exploration of microbial communities using nanopore sequencing technology. By providing a user-friendly, adaptable platform for taxonomic classification and antimicrobial resistance analysis, MARTi has profound implications for point-of-care diagnostics, biosurveillance, and rapid pathogen identification. The tool's flexibility and accessibility mark a substantial step towards democratizing advanced genomic research.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41145233">Krishnan et al. - Single Cell Transcriptome Defines Cell Type Repertoire of Adult Daphnia magna</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41145224">Wang et al. - The role of mitotype variation and positive epistasis in trait differences between Saccharomyces species</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41145216">Peel et al. - Real-time analysis and visualization of nanopore metagenomic samples with MARTi</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Oct 28 06:36:24 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 28 Oct 2025 06:36:30 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251028063630</guid>
   </item>
 </channel>
 </rss>
