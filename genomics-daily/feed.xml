@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 06:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 06:36:51 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4214,6 +4214,27 @@ None</p>
 <p><em>Last update: Tue Oct 28 06:36:24 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 28 Oct 2025 06:36:30 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251028063630</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-29</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Cells to Ecosystems</h1>
+<p>Recent advances in genomics are revealing unprecedented insights into biological systems, from molecular mechanisms to evolutionary dynamics. This editorial highlights groundbreaking research that demonstrates the power of genomic approaches to understand complex biological phenomena across different scales and domains.</p>
+<h2>🧬 Precise Gene Editing Offers Hope for Cardiac Genetic Diseases</h2>
+<p>The study by Caravia et al. presents a transformative approach to treating devastating genetic cardiac conditions caused by Lamin A mutations. Using advanced base editing techniques, researchers successfully corrected pathogenic mutations in both induced pluripotent stem cell-derived cardiomyocytes and mouse models. This breakthrough not only rescued cellular abnormalities but also prevented disease progression and extended longevity, offering a promising therapeutic strategy for laminopathies that currently lack effective treatments.</p>
+<h2>🔬 Uncovering the Genetic Basis of Bacterial Horizontal Gene Transfer</h2>
+<p>Zhao and colleagues explored the mechanisms of mobile genetic element transfer in bacteria, revealing a sophisticated system of genetic exchange. Their research on Pseudomonas fluorescens discovered novel mobile elements transferred by jumbo phages, which can integrate into bacterial genomes and potentially confer fitness advantages. This work significantly enhances our understanding of bacterial genome plasticity and horizontal gene transfer, critical processes in microbial evolution and adaptation.</p>
+<h2>🌿 Museum Genomics Illuminates Pollinator Decline Dynamics</h2>
+<p>The study by Schweizer et al. on the potentially extinct Franklin's bumble bee demonstrates the power of museum genomics in understanding species conservation. By analyzing whole-genome sequences from historical specimens, researchers revealed a long-term population decline driven by genetic factors and environmental stressors. This research provides crucial insights into the genetic vulnerabilities of endangered species and highlights the importance of historical genetic data in understanding contemporary biodiversity challenges.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41082656">Precise gene editing of pathogenic Lamin A mutations corrects cardiac disease</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41150720">Jumbo phage-mediated transduction of genomic islands</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41115198">Museum genomics suggests long-term population decline in a putatively extinct bumble bee</a></li>
+</ol>
+<p><em>Last update: Wed Oct 29 06:36:45 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 29 Oct 2025 06:36:51 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251029063651</guid>
   </item>
 </channel>
 </rss>
