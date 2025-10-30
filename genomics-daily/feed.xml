@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 06:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 06:35:10 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4235,6 +4235,27 @@ None</p>
 <p><em>Last update: Wed Oct 29 06:36:45 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 29 Oct 2025 06:36:51 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251029063651</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-30</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>Genomics continues to push the boundaries of our understanding across diverse biological domains. This editorial highlights three groundbreaking studies that showcase the power of advanced genomic technologies in deciphering complex biological mechanisms, from molecular interactions to disease insights.</p>
+<h2>🧬 Decoding RNA-Binding Protein Dynamics: A Multi-Omics Breakthrough</h2>
+<p>The KnockRBP database represents a significant leap in understanding RNA-binding proteins (RBPs). By integrating 1,453 datasets across RNA-seq, Ribo-seq, and other molecular techniques, researchers have created a comprehensive resource that systematically catalogs regulatory changes resulting from RBP genetic perturbations. The database covers 639 RBPs across 182 cell lines and 61 diseases, providing unprecedented insights into post-transcriptional regulation mechanisms. This resource is particularly powerful because it standardizes analytical pipelines and annotates events with potential clinical relevance, enabling researchers to explore how RBPs influence gene expression, splicing, and disease progression.</p>
+<h2>🔬 Epigenetic Insights into Breast Cancer Progression</h2>
+<p>The study on p53 and histone modifiers in breast cancer reveals a sophisticated mechanism of gene regulation. Researchers discovered that p53 and estrogen receptor (ER) cooperatively regulate chromatin modifiers, leading to global changes in histone modifications. Specifically, the interaction results in increased H3K4me3 and decreased H3K9me3 chromatin marks, which are associated with more open chromatin structures. This epigenetic landscape promotes the transcription of luminal cell identity genes and enhances tamoxifen sensitivity. The findings are crucial for understanding how genetic mutations can influence cancer progression and potentially develop more targeted therapeutic strategies.</p>
+<h2>🦠 Microbiome Connections to Neurodegeneration</h2>
+<p>A fascinating cross-sectional study in Japan explored the relationship between gut microbiota composition and brain amyloid-β accumulation in older adults. By analyzing fecal samples and conducting positron emission tomography (PET) imaging, researchers found a significant association between lower Firmicutes abundance and increased amyloid-β positivity. This groundbreaking research suggests that gut microbiota composition might play a role in Alzheimer's disease development, potentially through inflammation or metabolic pathways. The study opens new avenues for understanding the complex interactions between the microbiome and neurological health.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41160874/">KnockRBP Database</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41160600/">p53 and Histone Modifiers in Breast Cancer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41160510/">Gut Microbiota and Amyloid-β in Older Adults</a></li>
+</ol>
+<p><em>Last update: Thu Oct 30 06:35:04 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 30 Oct 2025 06:35:10 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251030063510</guid>
   </item>
 </channel>
 </rss>
