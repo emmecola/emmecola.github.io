@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2025 06:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 06:35:30 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4256,6 +4256,33 @@ None</p>
 <p><em>Last update: Thu Oct 30 06:35:04 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 30 Oct 2025 06:35:10 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251030063510</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-10-31</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity in Disease, Evolution, and Cellular Processes</h1>
+<p>Recent advances in genomics continue to illuminate the intricate mechanisms underlying biological systems, revealing new perspectives on disease development, evolutionary adaptation, and cellular regulation. Three groundbreaking studies showcase the power of genomic research in deciphering complex biological phenomena across diverse domains.</p>
+<h2>🧬 RNA Modifications: A New Frontier in Cancer Research</h2>
+<p>The study by Mitsutomi Shuhei and colleagues provides critical insights into RNA modifications, specifically focusing on 3-methylcytidine (m3C) in poly(A) RNA. By investigating the role of METTL2A in pancreatic cancer, researchers discovered that this enzyme is upregulated in tumors and plays a crucial role in cancer cell proliferation. Using nanopore direct RNA sequencing, they mapped m3C sites across messenger and mitochondrial RNA, revealing a potential mechanism for gene expression regulation that could open new avenues for cancer therapeutic interventions.</p>
+<h2>🦋 Evolutionary Adaptation in Cuckoo Egg Mimicry</h2>
+<p>Merondun Justin and colleagues explored the fascinating genomic architecture of egg mimicry in parasitic cuckoos, demonstrating how host-parasite interactions drive rapid evolutionary changes. By analyzing genomes of common and oriental cuckoos across 15 egg morphs, the researchers uncovered that eggshell background coloration is predominantly influenced by matrilineal genetic variation. Their findings reveal a complex interplay between autosomal components and non-recombining maternal genome, highlighting the intricate mechanisms of adaptive evolution in response to selective pressures.</p>
+<h2>🧪 Telomere Maintenance: Insights into Cellular Aging and Disease</h2>
+<p>The research by Agrawal Sourav and colleagues illuminates the critical role of the Replication Protein A (RPA) in telomerase processivity and telomere maintenance. By identifying RPA as an essential telomerase processivity factor, the study provides molecular insights into how cells preserve chromosome ends. Their work not only reveals a new mechanism of telomere elongation but also establishes a potential link between impaired telomerase function and telomere-related diseases, offering promising directions for understanding cellular aging and genetic disorders.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41167818">Mitsutomi et al. - Nanopore direct RNA sequencing reveals METTL2A-mediated m3C sites</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41166466">Merondun et al. - Genomic architecture of egg mimicry in parasitic cuckoos</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41166495">Agrawal et al. - Human RPA as a telomerase processivity factor</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Oct 31 06:35:23 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 31 Oct 2025 06:35:30 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251031063530</guid>
   </item>
 </channel>
 </rss>
