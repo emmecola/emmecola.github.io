@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 06:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 06:35:56 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4387,6 +4387,33 @@ None</p>
 <p><em>Last update: Thu Nov  6 06:36:06 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 06 Nov 2025 06:36:12 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251106063612</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-07</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From RNA Editing to Seed Development and Cancer Therapy</h1>
+<p>The field of genomics continues to unveil fascinating mechanisms that underlie biological processes, from molecular editing techniques to complex regulatory networks. This month's research highlights groundbreaking advances in RNA manipulation, plant hormone signaling, and targeted cancer treatments, demonstrating the power of genomic research to transform our understanding of life at the molecular level.</p>
+<h2>🧬 AMBER: A Breakthrough in RNA Base Editing</h2>
+<p>The development of an ADAR2-mimic base editor called AMBER represents a significant leap forward in RNA editing technology. Researchers created a novel approach to convert cytosine to uridine in RNA with improved safety and efficiency. By introducing strategic mutations to the ADAR2 enzyme, they developed a tool that can correct pathogenic transcript mutations with minimal off-target effects. In mouse models, AMBER achieved up to 21% editing efficiency, offering promising potential for treating genetic diseases by directly modifying RNA without permanent DNA changes.</p>
+<h2>🌱 Abscisic Acid's Role in Plant Iron Regulation</h2>
+<p>A fascinating study revealed a complex molecular module that regulates iron accumulation in plant seeds through abscisic acid (ABA) signaling. The research uncovered a sophisticated PYLs-bHLH IVc-YSLs module that allows plants to dynamically balance iron levels during seed development. ABA receptors interact with transcription factors to suppress iron transport during seed maturation, while iron deficiency triggers a feedback mechanism that increases iron transport. This mechanism not only prevents iron toxicity but also enables adaptive iron storage, presenting exciting possibilities for bioengineering crops with enhanced nutritional content.</p>
+<h2>🔬 Precision Targeting in HER2-Mutant Lung Cancer</h2>
+<p>A clinical trial of sevabertinib, an oral tyrosine kinase inhibitor, demonstrated remarkable efficacy in treating HER2-mutant non-small-cell lung cancer. The study showed impressive response rates across different patient groups, with objective response rates ranging from 38% to 71% depending on previous treatments. Particularly noteworthy was the performance in treatment-naive patients, where the response rate reached 71%. While diarrhea was the most common side effect, the overall safety profile and significant antitumor activity suggest sevabertinib as a promising targeted therapy for this specific cancer subtype.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41196347">An ADAR2-mimic base editor for efficient C-to-U RNA editing in vivo</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41196345">Abscisic acid regulates iron accumulation in plant seeds via the PYLs-bHLH IVc-YSLs module</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41104928">Sevabertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Nov  7 06:35:50 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 07 Nov 2025 06:35:56 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251107063556</guid>
   </item>
 </channel>
 </rss>
