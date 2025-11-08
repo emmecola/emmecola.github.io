@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 06:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 06:32:40 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4414,6 +4414,33 @@ None</p>
 <p><em>Last update: Fri Nov  7 06:35:50 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 07 Nov 2025 06:35:56 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251107063556</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-08</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Decoding Genomic Complexity: From Viral Interactions to Population Genetics and Metabolic Regulation</h1>
+<p>The rapid advancement of genomic technologies continues to unveil intricate biological mechanisms across diverse domains. This editorial highlights three groundbreaking studies that demonstrate the power of genomic research in understanding complex biological systems, from viral interactions in bat immune responses to population genetic dynamics and metabolic disease mechanisms.</p>
+<h2>🦇 Bat Immune System: A Masterclass in Viral Coexistence</h2>
+<p>The single-cell analysis of the intermediate horseshoe bat (Rhinolophus affinis) provides unprecedented insights into how these animals harbor diverse viruses without manifesting disease symptoms. By creating a comprehensive single-cell atlas, researchers discovered that viral infections trigger unique immune responses characterized by balanced activation and suppression pathways. The study revealed that bat pulmonary macrophages exhibit sophisticated molecular mechanisms that enable them to manage viral challenges while preventing excessive immune damage, highlighting a remarkable evolutionary adaptation in viral tolerance.</p>
+<h2>🧬 Genetic Diversity in the Spanish Roma: Unraveling Demographic Histories</h2>
+<p>A comprehensive study of paternal genetic diversity in the Spanish Roma population offers a nuanced understanding of their genetic landscape. By analyzing Y-chromosome markers, researchers uncovered complex patterns of migration, admixture, and population structure. The findings revealed significant genetic contributions from South Asian origins and subsequent interactions with Iberian populations, alongside a notable sex-biased admixture pattern. This research not only provides insights into the genetic history of the Roma people but also demonstrates the power of genetic archaeology in reconstructing population narratives.</p>
+<h2>🧪 Metabolic Syndrome and Hepatocellular Carcinoma: Molecular Mechanisms Unveiled</h2>
+<p>The investigation into metabolic syndrome-related genes in hepatocellular carcinoma represents a sophisticated approach to understanding disease progression. By employing advanced bioinformatics techniques, researchers identified distinct patient clusters with varying survival outcomes and immune microenvironment characteristics. The study highlighted the critical roles of specific genes like KIAA1841 and TUBA1B in modulating cancer progression, offering potential new avenues for prognostic assessment and targeted therapeutic interventions in hepatocellular carcinoma.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41204114/">Lv et al. - Single-cell analysis of intermediate horseshoe bat</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41204068/">Ena et al. - Demographic insights into paternal genetic diversity in Spanish Roma</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41203799/">Chen et al. - Metabolic syndrome-related gene signature in hepatocellular carcinoma</a></p>
+</li>
+</ol>
+<p><em>Last update: Sat Nov  8 06:32:34 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 08 Nov 2025 06:32:40 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251108063240</guid>
   </item>
 </channel>
 </rss>
