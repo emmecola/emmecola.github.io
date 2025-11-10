@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 06:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 06:38:21 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4441,6 +4441,26 @@ None</p>
 <p><em>Last update: Sat Nov  8 06:32:34 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 08 Nov 2025 06:32:40 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251108063240</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-10</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Precision Health, Structural Insights, and Computational Advances</h1>
+<p>The rapidly evolving landscape of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into human health, genetic architecture, and computational methodologies. Recent publications highlight the intricate interplay between genetic screening, structural genome organization, and advanced computational platforms that are transforming our approach to genetic research and personalized medicine.</p>
+<h2>🧬 Precision Screening: Unraveling Familial Hypercholesterolemia</h2>
+<p>The groundbreaking study by Bellows et al. provides a comprehensive cost-effectiveness analysis of familial hypercholesterolemia (FH) screening in childhood and early adulthood. While the research revealed that current screening strategies are not cost-effective, it illuminates critical pathways for future genetic interventions. The study's nuanced approach demonstrates that sequential screening could become economically viable if combined with enhanced lifetime lipid monitoring and lifestyle interventions, underscoring the potential for personalized preventive healthcare strategies.</p>
+<h2>🔬 Structural Genomics: A Revolutionary Visualization Platform</h2>
+<p>The 3D Genome Browser 2.0 represents a quantum leap in genomic data visualization and analysis. By integrating over 700 bulk and single-cell 3D genome datasets, this platform offers researchers an unprecedented toolkit for exploring chromatin architecture. The browser's novel structural variation analysis module enables sophisticated visualization of genomic rearrangements, facilitating complex research into enhancer-hijacking events and chromosomal interactions with remarkable computational efficiency.</p>
+<h2>💻 Computational Genomics: Bridging Technological Frontiers</h2>
+<p>These publications collectively demonstrate the transformative power of interdisciplinary genomic research. By combining advanced computational tools, precise screening methodologies, and comprehensive data repositories, researchers are creating more sophisticated approaches to understanding genetic complexity. The integration of machine learning, structural analysis, and clinical screening represents a promising trajectory for future genomic investigations, potentially revolutionizing personalized medicine and genetic research.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41206967">Familial Hypercholesterolemia Screening Study</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41206958">3D Genome Browser 2.0 Publication</a></li>
+</ol>
+<p><em>Last update: Mon Nov 10 06:38:15 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 10 Nov 2025 06:38:21 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251110063821</guid>
   </item>
 </channel>
 </rss>
