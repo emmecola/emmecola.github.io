@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 06:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 06:36:32 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4461,6 +4461,27 @@ None</p>
 <p><em>Last update: Mon Nov 10 06:38:15 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 10 Nov 2025 06:38:21 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251110063821</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-11</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>Recent genomic research continues to reveal the intricate mechanisms underlying biological diversity, disease progression, and evolutionary adaptation. These three groundbreaking studies showcase how advanced genomic techniques are transforming our understanding of complex biological systems across different domains of life.</p>
+<h2>🧬 Decoding Neurodevelopmental Disorders: The SMARCA1 Genetic Puzzle</h2>
+<p>The study on SMARCA1 pathogenic variants provides crucial insights into the genetic mechanisms of neurodevelopmental disorders (NDDs). By examining 35 individuals with variants in the X-linked SMARCA1 gene, researchers uncovered a spectrum of developmental impacts, including intellectual disability, speech delays, and autism spectrum features. The research goes beyond clinical description by using mouse models to demonstrate how variations in the NURF complex composition can dramatically influence forebrain development, highlighting the complex interplay between genetic mutations and neurological outcomes.</p>
+<h2>🦠 Cryptococcus Genus: A Genomic Exploration of Pathogenic Potential</h2>
+<p>This comprehensive study dramatically expands our understanding of the Cryptococcus genus, revealing the genomic landscape that distinguishes pathogenic from non-pathogenic species. By characterizing six new species through phylogenomic analyses, mating assays, and chromosomal comparisons, the researchers uncovered extensive structural variations and metabolic differences. Notably, they identified that thermotolerance is restricted to clinically relevant taxa, providing critical insights into how some Cryptococcus lineages evolved to become human pathogens.</p>
+<h2>🌱 Terpene Biosynthesis: Unveiling Genetic Complexity in Astilbe chinensis</h2>
+<p>The chromosome-level genome assembly of Astilbe chinensis offers a fascinating glimpse into plant genomic evolution. The study revealed a whole-genome triplication event predating the Saxifragaceae family diversification and identified a complex terpene synthase gene cluster. By analyzing the synteny and functional variations of these genes across plant species, the researchers demonstrated how gene neo-functionalization occurs, providing valuable insights into the genetic mechanisms driving plant metabolic diversity.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41213919">Pathogenic variants in SMARCA1 cause an X-linked neurodevelopmental disorder</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41212923">Genomic and phenotypic insights into the expanding phylogenetic landscape of the Cryptococcus genus</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41213911">A chromosome-level genome of Astilbe chinensis unveils the evolution of a terpene biosynthetic gene cluster</a></li>
+</ol>
+<p><em>Last update: Tue Nov 11 06:36:26 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 11 Nov 2025 06:36:32 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251111063632</guid>
   </item>
 </channel>
 </rss>
