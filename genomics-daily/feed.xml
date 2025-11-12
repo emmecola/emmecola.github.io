@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Nov 2025 06:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 06:36:54 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4482,6 +4482,27 @@ None</p>
 <p><em>Last update: Tue Nov 11 06:36:26 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 11 Nov 2025 06:36:32 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251111063632</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-12</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life's Domains</h1>
+<p>The rapidly evolving field of genomics continues to reveal intricate molecular mechanisms that shape biological systems. From understanding disease processes to exploring evolutionary adaptations, recent research highlights the power of advanced sequencing and computational techniques in deciphering the complex language of genomes across diverse organisms.</p>
+<h2>🧬 Decoding Melanism: The Genetic Story of Indian Leopards</h2>
+<p>Researchers investigating the Indian leopard (Panthera pardus fusca) have uncovered a fascinating molecular mechanism behind melanism. By integrating whole-genome sequencing with evolutionary analyses, they identified a single-point mutation (p.C117F) in the agouti signaling protein (ASIP) gene. Structural modeling revealed that this mutation significantly disrupts protein stability and receptor-binding affinity, effectively diminishing the protein's ability to regulate melanin production. This groundbreaking study not only provides insights into the genetic basis of coat color variation but also demonstrates how a single mutation can dramatically alter a complex phenotypic trait.</p>
+<h2>🌱 Plant Adaptation: ABA's Role in Iron Regulation</h2>
+<p>A remarkable study in plant biology revealed how abscisic acid (ABA) regulates iron accumulation in seeds through a sophisticated genetic module. Researchers discovered a PYLs-bHLH IVc-YSLs pathway where ABA receptors interact with transcription factors to control iron transport. This intricate mechanism allows plants to balance iron levels, preventing toxicity during seed maturation while enabling adaptive iron storage under deficiency. The findings not only illuminate the complex interactions between plant hormones and nutrient metabolism but also offer promising avenues for bioengineering crops with enhanced nutritional content.</p>
+<h2>🦠 Microbial Dynamics: Persistent Viral Infection in Marine Protists</h2>
+<p>An intriguing investigation into mirusvirus infection in the marine protist Aurantiochytrium limacinum unveiled fascinating insights into viral-host interactions. The research demonstrated a persistent viral infection where two mirusvirus-like genomic elements coexist - one as a circular episome and another as a chromosomal integrant. Notably, viral particles were detected in various cellular locations, and proteomics revealed that many viral proteins become enriched under starvation conditions. This study provides a crucial model for understanding complex virus-host relationships in microbial eukaryotes and highlights the intricate strategies microorganisms employ for survival.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41219726/">Genomic insights into melanism in Indian leopards</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41196345/">Abscisic acid regulates iron accumulation in plant seeds</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41219190/">Persistent mirusvirus infection in marine protist</a></li>
+</ol>
+<p><em>Last update: Wed Nov 12 06:36:48 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 12 Nov 2025 06:36:54 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251112063654</guid>
   </item>
 </channel>
 </rss>
