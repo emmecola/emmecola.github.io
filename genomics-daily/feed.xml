@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Nov 2025 06:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 06:36:08 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4524,6 +4524,33 @@ None</p>
 <p><em>Last update: Thu Nov 13 06:36:29 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 13 Nov 2025 06:36:36 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251113063636</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-14</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unraveling Genomic Complexity: From Cellular Mechanisms to Evolutionary Insights</h1>
+<p>The field of genomics continues to reveal the intricate mechanisms underlying biological systems, from molecular interactions to large-scale evolutionary patterns. Recent research highlights the dynamic nature of genetic information, demonstrating how organisms adapt, respond to environmental challenges, and maintain genetic stability across generations.</p>
+<h2>🧬 Decoding Cellular Stress Responses in Crustaceans</h2>
+<p>The study by Zhang Xin et al. in <em>BMC Genomics</em> provides fascinating insights into how the red swamp crayfish (Procambarus clarkii) responds to environmental stress. By investigating the COMMD gene family, researchers discovered that the COMMD8 gene plays a crucial role in modulating immune responses during heat shock. The protein acts as a key regulator of the TLR/MyD88/NF-κB signaling pathway, enhancing the organism's pathogen resistance. This research not only advances our understanding of crustacean immune mechanisms but also offers broader implications for how organisms develop stress-induced immune responses.</p>
+<h2>🌿 Plant Genome Editing: A Revolutionary Approach to Directed Evolution</h2>
+<p>Zhu et al.'s work in <em>Science</em> introduces a groundbreaking method called GRAPE (geminivirus replicon-assisted in planta directed evolution), which enables rapid genetic variation screening directly in plant cells. By leveraging geminivirus rolling circle replication, researchers can now evaluate up to 100,000 genetic variants on a single leaf within just four days. The method successfully demonstrated its potential by evolving immune receptors in plants, broadening their recognition of pathogen effectors. This technique represents a significant advancement in plant biotechnology, offering unprecedented speed and scalability in genetic engineering.</p>
+<h2>🧠 Transposable Elements: Vectors of Epigenetic Inheritance</h2>
+<p>Baduel et al.'s research in <em>Science</em> reveals the critical role of transposable elements (TEs) in transgenerational epigenetic inheritance in Arabidopsis thaliana. By analyzing over 700 plant strains, the researchers discovered that DNA methylation changes at TE loci can be stably inherited across generations without altering DNA sequences. These epigenetic variations often cause gene expression changes and may be subject to natural selection, providing a novel mechanism for heritable phenotypic variation. This study challenges traditional views of genetic inheritance and highlights the complexity of epigenetic information transmission.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41233790">Zhang Xin et al. - Non-Lethal heat shock induces COMMD gene activation</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41037587">Zhu et al. - Engineered geminivirus replicons enable rapid in planta directed evolution</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40966307">Baduel et al. - Transposable elements are vectors of recurrent transgenerational epigenetic inheritance</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Nov 14 06:36:01 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 14 Nov 2025 06:36:08 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251114063608</guid>
   </item>
 </channel>
 </rss>
