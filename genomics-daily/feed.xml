@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 06:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 06:33:12 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4551,6 +4551,33 @@ None</p>
 <p><em>Last update: Fri Nov 14 06:36:01 UTC 2025</em></p>]]></description>
     <pubDate>Fri, 14 Nov 2025 06:36:08 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251114063608</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-15</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Species and Scales</h1>
+<p>The rapidly evolving field of genomics continues to push the boundaries of our understanding, revealing intricate mechanisms that shape life at molecular, cellular, and organismal levels. From deciphering sexual reproduction dynamics in marine organisms to exploring genetic markers of disease, and developing innovative computational approaches for genome analysis, these studies demonstrate the power of genomic research to illuminate biological complexity.</p>
+<h2>🌊 Diatoms Reveal the Hidden World of Marine Sexual Reproduction</h2>
+<p>The study by Bilcke et al. provides a groundbreaking insight into sexual reproduction among diatoms, a crucial group of marine phytoplankton. By developing a robust method to monitor sexual reproduction events using conserved genetic markers, the researchers discovered that sexual reproduction is far more widespread in the global ocean than previously thought. This research not only spans multiple diatom genera but also reveals coordinated sexual reproduction across diverse marine environments, challenging existing assumptions about microbial reproductive strategies.</p>
+<h2>🧬 Genetic Markers Unveil the Landscape of Hypothyroidism Risk</h2>
+<p>Rand et al. conducted an extensive genome-wide meta-analysis of hypothyroidism, identifying 350 genetic loci associated with the condition, including 179 previously unreported variants. The study's significance lies in its comprehensive approach, linking genetic variations to immune-related functions and developing a polygenic risk score that could revolutionize diagnostic practices. By integrating multiple gene-mapping strategies and prioritizing 259 potential causal genes, the research offers a nuanced understanding of hypothyroidism's genetic architecture and potential for personalized medical interventions.</p>
+<h2>🖥️ Innovative Computational Approach Transforms Genome Inference</h2>
+<p>The research by Chandra et al. presents a cutting-edge computational method for genome inference using pangenome-based integer programming. By developing an alignment-free genotyping approach that navigates complex genomic landscapes, the researchers address critical limitations in current genotyping methods. Their algorithm can accurately estimate haplotype sequences, even at extremely low sequencing coverage, with particular success in challenging genomic regions like the major histocompatibility complex. This breakthrough promises to enhance our ability to decode genetic information with unprecedented precision.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41238538">Conserved genetic markers reveal widespread diatom sexual reproduction in the global ocean</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41238958">Genome-wide association study and polygenic risk prediction of hypothyroidism</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40841174">Pangenome-based genome inference using integer programming</a></p>
+</li>
+</ol>
+<p><em>Last update: Sat Nov 15 06:33:07 UTC 2025</em></p>]]></description>
+    <pubDate>Sat, 15 Nov 2025 06:33:12 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251115063312</guid>
   </item>
 </channel>
 </rss>
