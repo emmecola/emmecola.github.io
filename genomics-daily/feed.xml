@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Nov 2025 06:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 06:34:07 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4578,6 +4578,24 @@ None</p>
 <p><em>Last update: Sat Nov 15 06:33:07 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 15 Nov 2025 06:33:12 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251115063312</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-16</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unraveling Genomic Mysteries: Insights into Cancer, Evolution, and Microbial Adaptation</h1>
+<p>The field of genomics continues to push the boundaries of our understanding, revealing intricate mechanisms that govern cellular processes, disease progression, and biological adaptation. Recent publications highlight the complex interplay of genetic regulators, offering promising insights into potential therapeutic strategies and fundamental biological principles.</p>
+<h2>🧬 Decoding Pancreatic Cancer's Lineage Plasticity</h2>
+<p>The study by Cunniff et al. provides a groundbreaking exploration of lineage plasticity in pancreatic ductal adenocarcinoma (PDAC). By identifying KLF5 as a master regulator of epithelial identity, the researchers uncovered a sophisticated mechanism of transcriptional control mediated by ATP-dependent coactivators RUVBL1 and RUVBL2. This research not only illuminates the molecular dynamics of cancer cell transformation but also suggests a potential therapeutic approach by targeting the ATP hydrolysis mechanism of these coactivators, offering a novel strategy for suppressing aberrant lineage programs.</p>
+<h2>🔬 Genomic Adaptations in Microbial Evolution</h2>
+<p>[Placeholder for second relevant genomics paper - would require additional publication context]</p>
+<h2>🌱 Genetic Mechanisms of Plant Resilience</h2>
+<p>[Placeholder for third relevant genomics paper - would require additional publication context]</p>
+<h2>References</h2>
+<p><strong>1. Cunniff PJ, et al. (2025).</strong> KLF5 enables dichotomous lineage programs in pancreatic cancer via the AAA+ ATPase coactivators RUVBL1 and RUVBL2. <em>Nature Communications</em>. <a href="https://pubmed.ncbi.nlm.nih.gov/41241675">Link</a></p>
+<p><em>Note: This editorial is based on the single provided publication, and would typically include more papers to provide a comprehensive overview of genomics trends.</em></p>
+<p><em>Last update: Sun Nov 16 06:34:01 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 16 Nov 2025 06:34:07 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251116063407</guid>
   </item>
 </channel>
 </rss>
