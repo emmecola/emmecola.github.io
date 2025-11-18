@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Nov 2025 06:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 06:36:03 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4604,6 +4604,33 @@ None</p>
 <p><em>Last update: Mon Nov 17 06:36:56 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 17 Nov 2025 06:37:02 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251117063702</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-18</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Complexity Across Biological Systems</h1>
+<p>Recent advances in genomics continue to unravel the intricate mechanisms underlying biological complexity, from neural circuits to disease progression and evolutionary adaptations. These groundbreaking studies demonstrate how cutting-edge technologies and computational approaches are transforming our understanding of genetic systems.</p>
+<h2>🧠 Neural Circuit Evolution and Development</h2>
+<p>In a remarkable study of Drosophila neural circuits, researchers used single-cell transcriptomics to reveal the evolutionary constraints and potential of sexual behavior circuits. By analyzing 84 molecularly distinct cell types across four Drosophila species, the study discovered a largely conserved cellular architecture with fascinating nuanced variations. Particularly intriguing was the observation of pervasive heterogeneity in transcriptomic divergence, with core cell type identities remaining highly conserved while neuropeptide signaling pathways showed cell-type-specific evolutionary turnover.</p>
+<h2>🧬 Precision Medicine and Genetic Risk Prediction</h2>
+<p>Machine learning models incorporating genotype and ancestry data have demonstrated significant potential in improving severe asthma risk prediction. By developing a novel stacking technique that integrates Single Nucleotide Polymorphisms (SNPs) and inferred local ancestry, researchers achieved a notable improvement in predictive performance. The study's most compelling finding was how combining genetic data types could boost predictive accuracy, with the integrated model showing an Area Under the Curve of 0.729, highlighting the promise of holistic approaches in personalized medicine.</p>
+<h2>🌱 Mitochondrial Inheritance and Metabolic Adaptation</h2>
+<p>A fascinating study in Saccharomyces cerevisiae unveiled how caloric restriction can enhance the inheritance of wild-type mitochondrial DNA. By investigating mitochondrial transmission dynamics, researchers discovered a mechanism called ρ+ mtDNA-mitochondrial preselection and transmission (ρ+ mtDNA-MPT). Caloric restriction was found to increase the rate of wild-type mtDNA inheritance through an Mhr1p-dependent mechanism, providing insights into how metabolic conditions can influence genetic inheritance and potentially cellular fitness.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41248285">High-resolution single-cell analyses reveal evolutionary constraints and evolvability of sexual circuits in Drosophila</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41249357">Machine learning models incorporating genotype and ancestry improve severe asthma risk prediction</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41249289">Caloric restriction enhances inheritance of wild-type mitochondrial DNA in Saccharomyces cerevisiae</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Nov 18 06:35:57 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 18 Nov 2025 06:36:03 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251118063603</guid>
   </item>
 </channel>
 </rss>
