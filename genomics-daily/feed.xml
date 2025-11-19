@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 06:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:36:13 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4631,6 +4631,33 @@ None</p>
 <p><em>Last update: Tue Nov 18 06:35:57 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 18 Nov 2025 06:36:03 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251118063603</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-19</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Decoding Life's Blueprint: Innovations in Genomic Research Across Diverse Frontiers</h1>
+<p>The rapidly evolving field of genomics continues to unveil remarkable insights into the complexity of biological systems. From understanding genetic diversity to exploring novel computational approaches and unraveling intricate cellular mechanisms, researchers are pushing the boundaries of our knowledge about life's fundamental processes.</p>
+<h2>🧬 Mapping Genetic Diversity in Marine Ecosystems</h2>
+<p>The study by Clark et al. provides a sobering perspective on genetic diversity loss in marine tropical environments. By comparing genomic data from museum collections and modern samples of two fish species in the Philippines, the researchers discovered significant reductions in genetic diversity over a century. This work highlights the profound impact of anthropogenic activities on marine biodiversity, revealing substantial genomic erosion that could have far-reaching consequences for ecosystem resilience and adaptation.</p>
+<h2>🧠 Advancing Computational Genomics with Innovative Machine Learning</h2>
+<p>Wang et al. introduced a groundbreaking framework for identifying cell-type-specific spatially variable genes (SVGs) in spatial transcriptomic studies. Their Mixture of Mixed Models (MMM) approach offers a comprehensive method to analyze RNA count data while accounting for cell type composition and platform effects. The research not only provides a robust tool for understanding complex biological systems but also demonstrates the potential of integrating machine learning with genomic analysis, opening new avenues for interpreting genetic variations across different tissues and conditions.</p>
+<h2>🔬 Unraveling Epigenetic Regulation in Cellular Development</h2>
+<p>The study by Li et al. delves into the critical role of METTL3-dependent RNA methylation in mammary epithelial differentiation. By using CRISPR knockout screens, the researchers discovered that loss of METTL3 disrupts cellular hierarchy and promotes aberrant luminal differentiation. This work provides crucial insights into the epigenetic mechanisms governing cellular plasticity and offers potential implications for understanding early stages of neoplastic transformation.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41231948">Clark et al. - Anthropocene genetic diversity loss in the marine tropics</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41223223">Wang et al. - A unified framework for identification of cell-type-specific spatially variable genes</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41218124">Li et al. - METTL3-dependent m6A RNA methylation suppresses aberrant mammary epithelial differentiation</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Nov 19 06:36:07 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 19 Nov 2025 06:36:13 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251119063613</guid>
   </item>
 </channel>
 </rss>
