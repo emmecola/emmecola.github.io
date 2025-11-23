@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Nov 2025 06:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 06:34:32 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4733,6 +4733,27 @@ None</p>
 <p><em>Last update: Sat Nov 22 06:32:55 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 22 Nov 2025 06:33:00 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251122063300</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-23</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Life's Complexity Across Scales</h1>
+<p>The rapidly evolving landscape of genomics continues to unveil intricate molecular mechanisms that shape biological systems. From understanding microbial interactions to exploring neural variability and investigating disease-related genetic variations, recent research demonstrates the power of advanced genomic technologies in unraveling complex biological phenomena.</p>
+<h2>🧬 Prophage-Mediated Immunomodulation in Gut Health</h2>
+<p>The groundbreaking study by Gao et al. in Nature Communications reveals the critical role of prophages in the human gut microbiome. By identifying 254,273 prophage sequences across metagenomic samples, researchers discovered a fascinating mechanism where a prophage-encoded enzyme (futC) can potentially alleviate colitis. The study demonstrated that 2'-fucosyllactose, synthesized by this enzyme, promotes mucosal barrier integrity, stimulates intestinal IgA secretion, and supports immune cell development, highlighting the complex interactions between bacteriophages and host immune systems.</p>
+<h2>🧠 Neural Variability: A Computational Solution for Adaptive Behavior</h2>
+<p>Findling and colleagues' research in Nature Communications provides a novel perspective on neural variability in the medial prefrontal cortex (mPFC). Contrary to traditional views that consider neural variability as a nuisance factor, their computational modeling and functional MRI studies suggest that this variability enables near-optimal decision-making in uncertain environments. This mechanism allows the brain to produce efficient adaptive behaviors without engaging in computationally complex processes, drawing an intriguing parallel with genetic variability's role in evolutionary adaptation.</p>
+<h2>🔬 Longitudinal Insights into Horizontal Gene Transfer in the Gut Microbiome</h2>
+<p>Peng et al.'s longitudinal metagenomic analysis in Nature Communications offers unprecedented insights into horizontal gene transfer (HGT) within the human gut microbiome. By analyzing 676 fecal samples from 338 individuals over approximately four years, the researchers identified 5,644 high-confidence HGT events. Their findings suggest that gene exchange contributes to microbial community stability and that an individual's mobile gene pool remains highly personalized, influenced by lifestyle factors such as medication usage.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41275070/">Gao et al. - Human gut prophage landscape</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41274936/">Findling et al. - Neural variability in medial prefrontal cortex</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41274873/">Peng et al. - Longitudinal gut microbiota and horizontal gene transfer</a></li>
+</ol>
+<p><em>Last update: Sun Nov 23 06:34:25 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 23 Nov 2025 06:34:32 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251123063432</guid>
   </item>
 </channel>
 </rss>
