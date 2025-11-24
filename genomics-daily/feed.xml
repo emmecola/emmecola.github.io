@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 06:34:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 06:37:35 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4754,6 +4754,27 @@ None</p>
 <p><em>Last update: Sun Nov 23 06:34:25 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 23 Nov 2025 06:34:32 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251123063432</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-24</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: From Viral Insights to Cancer Therapy and Plant Stress Resilience</h1>
+<p>The rapidly evolving field of genomics continues to unveil groundbreaking insights across diverse domains, demonstrating the power of advanced molecular techniques in understanding complex biological systems. This editorial highlights three remarkable studies that showcase the breadth and depth of contemporary genomic research, ranging from viral genome modeling to innovative cancer therapies and plant stress adaptation.</p>
+<h2>🦠 Protein Set Transformer: A Revolutionary Approach to Viral Genomics</h2>
+<p>The Protein Set Transformer (PST) represents a transformative approach to viral genomics, addressing the challenge of interpreting rapidly diverging viral genomes. By developing a protein-based genome language model trained on over 100,000 viruses, researchers have created a method that outperforms traditional homology-based approaches. PST can cluster proteins based on structural and functional similarities, providing unprecedented insights into viral genome relationships and evolutionary patterns.</p>
+<h2>🧬 Multiplex Gene-Editing: A New Frontier in CAR T-Cell Therapy</h2>
+<p>Researchers have developed a sophisticated multiplex gene-editing strategy to engineer allogeneic EGFR-targeting CAR T-cells with enhanced efficacy against solid tumors. By strategically implementing six gene edits targeting allorejection, graft-versus-host disease prevention, and overcoming biochemical and immunological barriers, the team created a CAR T-cell product that demonstrates improved tumor elimination and survival in xenograft models. This approach represents a significant leap forward in personalized cancer immunotherapy.</p>
+<h2>🌱 Conserved Heat Shock Factors: Unlocking Plant Stress Memory</h2>
+<p>A groundbreaking study in barley revealed how heat shock factors HvHSFA2 and HvHSFA3 control heat stress memory through distinct mechanisms. By investigating these conserved transcription factors, researchers demonstrated their critical role in helping plants improve temperature stress tolerance. The study not only provides insights into the molecular basis of plant stress adaptation but also offers a promising route to develop more resilient crops in the face of climate change.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41276529">Protein Set Transformer (PST)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41276526">Multiplex Gene-Editing CAR T-Cells</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41276513">Barley Heat Shock Factors</a></li>
+</ol>
+<p><em>Last update: Mon Nov 24 06:37:29 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 24 Nov 2025 06:37:35 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251124063735</guid>
   </item>
 </channel>
 </rss>
