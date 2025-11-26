@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 06:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:37:45 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4796,6 +4796,27 @@ None</p>
 <p><em>Last update: Tue Nov 25 06:38:15 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 25 Nov 2025 06:38:22 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251125063822</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-26</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: From Microbes to Mammals, Unraveling Biological Complexity</h1>
+<p>In the ever-evolving landscape of genomics, researchers continue to push the boundaries of our understanding, exploring intricate biological mechanisms across diverse organisms. This month's top publications reveal fascinating insights into microbial adaptation, animal development, and the molecular foundations of disease.</p>
+<h2>🦠 Bacterial Adaptation: The Resilience of Burkholderia thailandensis</h2>
+<p>The study on <em>Burkholderia thailandensis</em> provides a comprehensive genomic characterization of an environmental bacterial strain from Kerala, India. By performing whole-genome sequencing and comparative analysis, researchers uncovered a complex genetic profile that includes 225 virulence-related genes and 8 antimicrobial resistance genes. The findings are particularly significant because <em>B. thailandensis</em> is closely related to the highly pathogenic <em>B. pseudomallei</em>, highlighting the potential for bacterial adaptation and the importance of continuous genomic surveillance in understanding emerging pathogens.</p>
+<h2>🐖 Agricultural Genomics: Structural Variation in Pig Breeding</h2>
+<p>The Pig Structural Variant Reference Panel (PSVRP) represents a groundbreaking resource for agricultural genomics. By integrating 21 long-read and 1,193 short-read whole-genome resequencing datasets, researchers identified 319,058 high-confidence structural variants across diverse pig populations. This comprehensive panel not only reveals clear divergence between Asian and European pig populations but also identifies candidate genes associated with critical traits like high-altitude adaptation and body size regulation. The research provides unprecedented insights for precision breeding and understanding genetic variation in agricultural species.</p>
+<h2>🧬 Neurodevelopmental Insights: Epigenetic Signatures in Rare Disorders</h2>
+<p>The investigation of the MEF2C-associated syndrome offers a profound look into the epigenetic landscape of neurodevelopmental disorders. By identifying a specific DNA methylation episignature, researchers demonstrated how genetic variations can lead to complex neurological conditions. The study not only provides a potential diagnostic biomarker but also sheds light on the intricate molecular mechanisms underlying neurodevelopmental disorders, emphasizing the critical role of epigenetic modifications in human health.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41291419/">Genomic characterization of Burkholderia thailandensis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41291430/">PSVRP: Pig Structural Variant Reference Panel</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41291199/">Identification of an episignature for MEF2C-associated syndrome</a></li>
+</ol>
+<p><em>Last update: Wed Nov 26 06:37:38 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 26 Nov 2025 06:37:45 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251126063745</guid>
   </item>
 </channel>
 </rss>
