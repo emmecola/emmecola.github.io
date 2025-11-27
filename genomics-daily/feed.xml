@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 06:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:38:22 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4817,6 +4817,27 @@ None</p>
 <p><em>Last update: Wed Nov 26 06:37:38 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 26 Nov 2025 06:37:45 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251126063745</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-27</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Decoding Genomic Complexity: From Cellular Dynamics to Evolutionary Insights</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to unravel the intricate mechanisms that govern life at the molecular level. This month's publications showcase groundbreaking studies that shed light on the complex interactions within biological systems, from cellular organization to species adaptation.</p>
+<h2>🧬 Transposable Elements: Architects of Cellular Regulation</h2>
+<p>The study by Du et al. reveals the profound impact of transposable elements (TEs) on the cis-regulatory landscape of immune cells. By analyzing single-cell multiomic data from human peripheral blood mononuclear cells, the researchers discovered that 63 TE families are significantly overrepresented in cell-specific regulatory elements. Notably, monocytes exhibited the highest degree of TE enrichment, with over 30% of their enhancers derived from TEs. This research highlights the crucial role of TEs in creating cell-type-specific regulatory networks and provides insights into how these genetic elements contribute to immune cell diversity and function.</p>
+<h2>🌿 Genomic Insights into Cattle Adaptation</h2>
+<p>The study by Liu et al. on Hetian cattle from Xinjiang Province offers a comprehensive exploration of genomic ancestry and adaptive signatures. Through whole-genome resequencing of 20 cattle and comparative analyses with 162 global genomes, the researchers uncovered a unique genetic composition with nearly equal taurine and indicine contributions. The investigation revealed key genomic regions under positive selection associated with immunity, high-altitude adaptation, and drought resistance. Two specific missense mutations were identified as potential contributors to the physiological resilience of Hetian cattle, providing valuable insights into the genetic basis of local adaptation and offering potential strategies for improving cattle breeding in challenging environmental conditions.</p>
+<h2>🦠 Phage Dynamics in the Human Gut Microbiome</h2>
+<p>Wirbel et al. conducted a groundbreaking study on bacteriophage dynamics in the human gut microbiome using long-read metagenomic sequencing. By tracking prophage integration in stool samples from six healthy individuals over two years, the researchers discovered that while most prophages remained stable, approximately 5% were dynamically gained or lost. Surprisingly, they found instances of the same phage integrating into bacteria from different taxonomic families, challenging previous assumptions about phage host specificity. The study also introduced a new class of 'IScream phages' that co-opt bacterial transposases for mobilization, providing unprecedented insights into the complex interactions within the human microbiome and horizontal gene transfer mechanisms.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41299220">Du et al. - Multiomic analyses on transposable elements</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41299246">Liu et al. - Genomic ancestry in Hetian cattle</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41299176">Wirbel et al. - Phage dynamics in human gut microbiome</a></li>
+</ol>
+<p><em>Last update: Thu Nov 27 06:38:16 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 27 Nov 2025 06:38:22 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251127063822</guid>
   </item>
 </channel>
 </rss>
