@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 06:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 06:37:40 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4838,6 +4838,33 @@ None</p>
 <p><em>Last update: Thu Nov 27 06:38:16 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 27 Nov 2025 06:38:22 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251127063822</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-28</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Biological Systems</h1>
+<p>The rapid advancement of genomic technologies continues to revolutionize our understanding of biological systems, from molecular mechanisms to evolutionary adaptations. This month's publications showcase groundbreaking research that explores gene regulation, disease mechanisms, and innovative computational approaches across diverse domains of life.</p>
+<h2>🧬 Decoding Cellular Identity: Planarian Stem Cell Differentiation Revealed</h2>
+<p>Researchers used multimodal single-cell analyses to map the intricate gene regulatory networks governing stem cell differentiation in planarians. By integrating transcriptomics and chromatin accessibility data, they identified two major cell type supergroups linked by their regulatory logic. The study revealed how transcription factors, target genes, and open chromatin regions collaborate to drive cellular differentiation, providing a comprehensive computational framework for understanding complex cell fate decisions.</p>
+<h2>🔬 Precision Medicine: Targeting m6A Regulators in Hepatocellular Carcinoma</h2>
+<p>A sophisticated study explored the role of N6-methyladenosine (m6A) modification in hepatocellular carcinoma (HCC), demonstrating how epigenetic regulators influence immune microenvironment characteristics. By analyzing gene expression patterns and developing a risk model based on four m6A-related genes, researchers uncovered potential diagnostic and therapeutic strategies. The research highlighted how specific m6A regulators like METTL3 and YTHDF1 correlate with PD-L1 expression, offering insights into potential immunotherapy approaches.</p>
+<h2>💻 Computational Breakthrough: Active Learning in Drug Discovery</h2>
+<p>An innovative active deep learning framework was developed to revolutionize phenotypic drug screening by leveraging transcriptomic data. The computational approach dramatically improved hit rate identification in drug discovery campaigns, achieving a 13- to 17-fold increase in efficiency across hematological research. By combining advanced machine learning with experimental validation, the method provides a powerful tool for systematically exploring chemical space and identifying potential therapeutic compounds.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41310370/">Pérez-Posada et al. - Multimodal single cell analyses reveal gene networks of planarian stem cell differentiation</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41310383/">Wang et al. - m6A regulators-based gene expression pattern associated with immune microenvironment in hepatocellular carcinoma</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41129612/">DeMeo et al. - Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Nov 28 06:37:34 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 28 Nov 2025 06:37:40 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251128063740</guid>
   </item>
 </channel>
 </rss>
