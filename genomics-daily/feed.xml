@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 06:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 06:36:05 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4886,6 +4886,33 @@ None</p>
 <p><em>Last update: Sat Nov 29 06:34:34 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 29 Nov 2025 06:34:40 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251129063440</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-11-30</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Viromes to Haplotypes</h1>
+<p>The rapid advancement of genomic technologies continues to push the boundaries of our understanding across diverse biological domains. Recent publications highlight the intricate molecular mechanisms underlying genetic regulation, haplotype diversity, and viral ecology, demonstrating the power of sophisticated computational and sequencing approaches in deciphering complex biological systems.</p>
+<h2>🧬 Haplotype Mapping: A New Global Genomic Resource</h2>
+<p>The Joint Open Genome and Omics Platform (JoGo) represents a groundbreaking initiative in human genomic research. By leveraging high-fidelity long-read sequencing across 258 globally sampled genomes, the project has constructed a comprehensive haplotype database covering 19,194 protein-coding genes. The innovative ACTG hierarchical nomenclature allows researchers to assign numeric identifiers based on global frequency, enabling unprecedented cross-assembly comparisons and facilitating more nuanced exploration of genetic variation.</p>
+<h2>🦠 Planetary-Scale Virome Exploration</h2>
+<p>The VIRE resource emerges as a transformative metagenomics database, offering unprecedented insights into global viral diversity. By systematically assembling over 1.7 million viral genomes from more than 100,000 metagenomes across diverse ecosystems, the project provides a comprehensive platform for understanding viral ecology and evolution. The database's integration with microbiome resources and detailed functional annotations makes it a crucial tool for researchers investigating viral genomics on a planetary scale.</p>
+<h2>🔬 Epigenetic Regulation: Unveiling Heterochromatin Mechanisms</h2>
+<p>The study on Elongator Protein 1 (Elp1) in Schizosaccharomyces pombe reveals fascinating insights into heterochromatin regulation. By investigating a specific RNA polymerase II variant, researchers discovered two distinct pathways that can positively or negatively modulate heterochromatin formation. Notably, the research demonstrated that Elp1 can influence chromatin biology through mechanisms independent of its canonical tRNA modification functions, expanding our understanding of epigenetic regulation.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41316730/">JoGo 1.0: Haplotype Nomenclature Database</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41316726/">VIRE: Planetary-Scale Virome Resource</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41316862/">Elongator Protein 1 and Heterochromatin Regulation</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Nov 30 06:35:57 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 30 Nov 2025 06:36:05 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251130063605</guid>
   </item>
 </channel>
 </rss>
