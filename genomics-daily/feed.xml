@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 06:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 06:39:11 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4930,6 +4930,27 @@ None</p>
 <p><em>Last update: Mon Dec  1 06:40:01 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 01 Dec 2025 06:40:09 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251201064009</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-02</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Health, Adaptation, and Disease</h1>
+<p>Recent advances in genomics continue to shed light on the intricate mechanisms underlying biological systems, from cellular processes to complex disease interactions. This month's most compelling research highlights the power of genomic technologies to explore diverse biological questions, offering insights that could transform our understanding of health, evolution, and genetic variation.</p>
+<h2>🧬 Deciphering Neurodevelopmental Disorders: The Complexity of Genetic Variations</h2>
+<p>The study on Xia-Gibbs syndrome reveals the remarkable heterogeneity within a single genetic disorder. By applying latent class analysis to 85 cases with AHDC1 gene variants, researchers identified three distinct phenotypic subtypes: an ataxia subtype, a sleep apnea and short stature subtype, and a neuropsychological subtype. This nuanced approach demonstrates that even within a rare genetic condition, patients can experience significantly different clinical presentations, underscoring the importance of personalized medical approaches.</p>
+<h2>🌿 Plant Adaptation: Genome Sequencing Unveils Evolutionary Strategies</h2>
+<p>The complete chloroplast genome sequencing of Secale strictum ssp. strictum provides unprecedented insights into plant evolutionary mechanisms. By analyzing the 137,063 bp genome, researchers identified seven highly variable regions that could serve as molecular markers for species identification and phylogenetic studies. This research not only contributes to our understanding of grass family evolution but also offers potential applications in breeding and conservation efforts for important crop species.</p>
+<h2>🦠 Microbial Survival: Genetic Mechanisms of Copper Resistance</h2>
+<p>A fascinating study on Acidithiobacillus ferrooxidans explored how DNA N6-methyladenine modifications influence bacterial response to copper stress. Researchers discovered that changes in 6mA methylation levels occur under copper stress, particularly affecting genes involved in copper resistance mechanisms. These modifications were found to be associated with iron and sulfur oxidation acceleration, amino acid synthesis, and activation of efflux systems, providing a novel perspective on how microorganisms adapt to challenging environmental conditions.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39648204">Jiang et al. - Phenotypic subtypes of Xia-Gibbs syndrome</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41326448">Skuza et al. - The complete chloroplast genome of Secale strictum ssp. strictum</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41325344">Liu et al. - DNA N6-methyladenine modifications of Acidithiobacillus ferrooxidans response to copper stress</a></li>
+</ol>
+<p><em>Last update: Tue Dec  2 06:39:05 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 02 Dec 2025 06:39:11 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251202063911</guid>
   </item>
 </channel>
 </rss>
