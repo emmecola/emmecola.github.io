@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Dec 2025 06:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 06:38:44 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4951,6 +4951,27 @@ None</p>
 <p><em>Last update: Tue Dec  2 06:39:05 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 02 Dec 2025 06:39:11 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251202063911</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-03</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity from Cells to Ecosystems</h1>
+<p>Recent genomic research continues to reveal the intricate mechanisms underlying biological systems, from molecular interactions to ecosystem dynamics. These studies demonstrate how advanced technologies and innovative approaches are expanding our understanding of genetic processes across diverse domains.</p>
+<h2>🧬 Epigenetic Regulation in Embryonic Development</h2>
+<p>The study on VGLL1 provides crucial insights into human trophoblast development, revealing how this protein integrates multiple signaling pathways during early embryonic lineage specification. By investigating pluripotent stem cell models, researchers discovered that VGLL1 plays a central role in establishing trophoblast identity through complex interactions with HIPPO, BMP, and WNT signaling networks. The research highlights how VGLL1 not only regulates gene expression but also influences epigenetic modifications, specifically by targeting KDM6B, a histone demethylase that activates bivalent promoters associated with trophectoderm markers.</p>
+<h2>🌱 Genomic Mechanisms of Plant Resistance</h2>
+<p>The investigation into banana somaclonal variants unveils critical genetic mechanisms underlying Fusarium wilt resistance in crops. By analyzing chromosomal deletions, researchers identified two autoinhibited Ca²⁺-ATPase (ACA) genes as potential susceptibility factors in banana plants. Silencing these genes enhanced salicylic acid responses and reduced disease symptoms, demonstrating how structural variations in susceptibility genes can shape disease resistance in clonally propagated crops. This research provides a genomic framework for developing resistant cultivars through targeted gene editing or strategic somatic variant selection.</p>
+<h2>🦠 Microbial Ecosystem Dynamics and Nutrient Transformation</h2>
+<p>The study on microbial necromass carbon (MNC) in paddy soils reveals fascinating insights into arsenic methylation processes. Researchers discovered that different types of microbial necromass, particularly gram-negative bacterial necromass carbon, significantly enhance arsenic methylation by stimulating specific microbial populations. The research demonstrated how MNC serves as a carbon source for arsenic-metabolizing microorganisms, potentially influencing biogeochemical cycles and environmental remediation strategies.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41284866/">VGLL1 in Trophoblast Development</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41284879/">Banana Fusarium Wilt Resistance</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41289391/">Microbial Necromass and Arsenic Methylation</a></li>
+</ol>
+<p><em>Last update: Wed Dec  3 06:38:38 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 03 Dec 2025 06:38:44 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251203063844</guid>
   </item>
 </channel>
 </rss>
