@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 06:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 06:38:25 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -4972,6 +4972,27 @@ None</p>
 <p><em>Last update: Wed Dec  3 06:38:38 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 03 Dec 2025 06:38:44 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251203063844</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-04</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>Recent advances in genomics continue to reveal the intricate mechanisms underlying biological complexity, from cellular processes to organismal development. Three groundbreaking studies showcase how cutting-edge techniques are expanding our understanding of genetic regulation, cellular dynamics, and evolutionary adaptations.</p>
+<h2>🧬 Reconstructing Developmental Landscapes: A Computational Breakthrough</h2>
+<p>Researchers have developed an innovative computational geometry framework for reconstructing Waddington's landscape directly from high-dimensional single-cell data. By modeling cellular decision-making as a dynamic landscape, the study provides unprecedented insights into how cells transition between different states during development. The method allows precise characterization of developmental processes, including fixed points and basins of attraction, and demonstrates remarkable flexibility by capturing morphogen-dependent landscape changes across different signaling conditions.</p>
+<h2>🔬 Viral Translation Mechanisms: Structural Insights into HCV IRES</h2>
+<p>A detailed cryo-EM investigation has uncovered the sophisticated mechanisms by which Hepatitis C virus (HCV) hijacks cellular translation machinery. The research revealed how the viral internal ribosomal entry site (IRES) manipulates eukaryotic initiation factor 3 (eIF3) to promote viral mRNA translation. Surprisingly, the study found that while core eIF3 subunits are displaced, non-core subunits maintain similar positions during translation, offering a nuanced understanding of how viruses can subvert host cellular processes with remarkable precision.</p>
+<h2>🧫 Mitochondrial DNA Dynamics: Transgenerational Quality Control</h2>
+<p>An innovative study exploring mitochondrial DNA (mtDNA) dynamics during oogenesis has demonstrated a remarkable mechanism of genetic quality control. By using base-editing techniques, researchers tracked the transmission of pathogenic mtDNA mutations across generations, discovering that the germline can actively reduce heteroplasmy during early folliculogenesis. The research not only provides insights into mtDNA inheritance but also offers a novel experimental approach to monitor mitochondrial genetic changes, with potential implications for understanding inherited mitochondrial disorders.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41337485/">Reconstructing Waddington's landscape from data</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41337487/">Structural insights into the role of eIF3 in translation mediated by the HCV IRES</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41336285/">Trans-generational maintenance of mitochondrial DNA integrity in oocytes</a></li>
+</ol>
+<p><em>Last update: Thu Dec  4 06:38:19 UTC 2025</em></p>]]></description>
+    <pubDate>Thu, 04 Dec 2025 06:38:25 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251204063825</guid>
   </item>
 </channel>
 </rss>
