@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 06:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 06:34:16 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5047,6 +5047,27 @@ None</p>
 <p><em>Last update: Sat Dec  6 06:34:25 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 06 Dec 2025 06:34:31 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251206063431</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-07</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity in Biological Systems</h1>
+<p>The field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into the intricate mechanisms that govern life. From single-cell technologies to complex disease modeling, researchers are developing innovative approaches to decode the genetic landscape across diverse biological contexts.</p>
+<h2>🧬 Plate-Based Single-Cell RNA Sequencing: A Breakthrough in Immunological Profiling</h2>
+<p>The publication by Deserranno et al. introduces a groundbreaking plate-based single-cell RNA-sequencing method (PB10X) that addresses critical limitations in current technologies. By enabling direct cell sorting and generating compatible cDNA with 10X sequencing library kits, this approach provides unprecedented flexibility in profiling small-scale cell populations, particularly in immunological research. The method demonstrated remarkable performance in TCR repertoire sequencing, detecting paired TCRαβ chains for over 80% of cells and offering a cost-effective solution for investigating complex cellular interactions.</p>
+<h2>🌿 Genomic Insights into Grapevine Cluster Architecture</h2>
+<p>Sharma and colleagues leveraged cutting-edge foundation models to dissect the genetic basis of grape cluster compactness and yield. By employing an innovative image-based phenotyping pipeline and quantitative trait locus mapping, the researchers identified multiple genomic regions associated with cluster architecture. Their work not only provides valuable insights into the genetic control of grape traits but also demonstrates the potential of advanced computational approaches in agricultural genomics, highlighting how machine learning can enhance our understanding of complex genetic interactions.</p>
+<h2>🦠 Exploring Microbial Diversity: A Comprehensive Vaginal Microbiome Gene Catalog</h2>
+<p>The VIRGO2 project by France et al. presents an enhanced gene catalog of the vaginal microbiome, comprising over 1.7 million well-annotated genes from body-site specific microbes and viruses. By expanding geographic representation and microbial diversity, this resource enables more precise profiling of taxonomic and functional compositions. The comprehensive catalog provides critical insights into the complex interactions between microbial communities and host tissues, offering a foundational tool for understanding vaginal health and disease mechanisms.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41353535">Plate-based 10X Genomics-compatible single-cell RNA-sequencing</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41353497">Leveraging foundation models to dissect the genetic basis of cluster compactness and yield in grapevine</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41353361">VIRGO2: an enhanced gene catalog of the vaginal microbiome</a></li>
+</ol>
+<p><em>Last update: Sun Dec  7 06:34:10 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 07 Dec 2025 06:34:16 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251207063416</guid>
   </item>
 </channel>
 </rss>
