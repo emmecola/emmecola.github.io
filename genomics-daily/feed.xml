@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 06:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 06:41:24 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5068,6 +5068,33 @@ None</p>
 <p><em>Last update: Sun Dec  7 06:34:10 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 07 Dec 2025 06:34:16 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251207063416</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-08</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity from Microbes to Malignancies</h1>
+<p>The rapidly evolving field of genomics continues to unveil intricate mechanisms underlying biological processes, from microbial adaptations to human disease. Recent groundbreaking research highlights the power of advanced sequencing technologies and computational approaches in deciphering complex genomic interactions across diverse systems.</p>
+<h2>🦠 Bacteriophage DNA Modifications: A Molecular Camouflage Strategy</h2>
+<p>The discovery of a novel DNA modification system in bacteriophages reveals a sophisticated molecular mechanism for genetic adaptation. Researchers identified a cytosine C5-carboxymethyltransferase (CmoX) that catalyzes the formation of 5-carboxymethylcytosine (5cxmC), a previously unrecognized DNA modification. This finding demonstrates how bacteriophages can repurpose RNA modification enzymes to create unique DNA alterations, potentially serving as a mechanism for immune evasion and genetic flexibility.</p>
+<h2>🧬 Genomic Language Models: Revolutionizing RNA Sequence Prediction</h2>
+<p>A comprehensive benchmarking study of genomic language models (gLMs) provides crucial insights into computational approaches for RNA sequence analysis. By systematically evaluating eleven different models across four RNA processes, researchers demonstrated that these advanced computational tools can outperform traditional methods, especially in scenarios with limited or imbalanced training data. The study highlights the importance of context-specific algorithmic approaches in advancing biomedical research and predictive capabilities.</p>
+<h2>🔬 Tissue-Resident Microbiota: A New Lens on Colorectal Cancer Progression</h2>
+<p>An extensive analysis of tissue-resident microbiota in colorectal cancer (CRC) reveals the complex interplay between microbial communities and cancer development. By examining whole-genome and transcriptome data from 937 patients, researchers identified 249 genera and 361 species present in both tumor and adjacent normal tissues. The study uncovered distinct microbial signatures associated with tumor stages, genetic mutations, and molecular subtypes, suggesting that tissue-resident microbiota could serve as a potential prognostic tool and intervention target.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p>Yang, Q., et al. (2025). Carboxymethylcytosine is a natural base modification and a handle for bacteriophage DNA hypermodification. <a href="https://pubmed.ncbi.nlm.nih.gov/41354841">Nature Communications</a></p>
+</li>
+<li>
+<p>You, N., et al. (2025). Benchmarking pre-trained genomic language models for RNA sequence-related predictive applications. <a href="https://pubmed.ncbi.nlm.nih.gov/41354659">Nature Communications</a></p>
+</li>
+<li>
+<p>Shi, Z., et al. (2025). Tissue-resident microbiota impacts colorectal cancer progression and prognosis. <a href="https://pubmed.ncbi.nlm.nih.gov/41354681">Nature Communications</a></p>
+</li>
+</ol>
+<p><em>Last update: Mon Dec  8 06:41:17 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 08 Dec 2025 06:41:24 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251208064124</guid>
   </item>
 </channel>
 </rss>
