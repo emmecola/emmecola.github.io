@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 06:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 06:39:42 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5122,6 +5122,27 @@ None</p>
 <p><em>Last update: Tue Dec  9 06:38:58 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 09 Dec 2025 06:39:04 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251209063904</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-10</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>The rapid advancement of genomic technologies continues to unveil intricate biological mechanisms across diverse domains. From understanding disease progression to exploring evolutionary adaptations and microbial interactions, these cutting-edge studies demonstrate how genomic research is transforming our comprehension of life's fundamental processes.</p>
+<h2>🧬 Decoding Cancer's Molecular Landscape: ERBB2 Signaling in Small Cell Lung Cancer</h2>
+<p>The study by Meder et al. provides groundbreaking insights into small cell lung cancer (SCLC) immune evasion mechanisms. By employing high-dimensional profiling, researchers discovered that ERBB2 signaling plays a crucial role in suppressing MHC-I expression, enabling cancer cells to escape immunosurveillance. The research revealed that genetic and pharmacological ERBB2 blockade can induce MHC-I expression through STING-dependent pathways, potentially opening new therapeutic strategies. This finding is particularly significant as it offers a promising approach to enhance immunotherapy effectiveness in a cancer type known for its aggressive nature and poor prognosis.</p>
+<h2>🌱 Evolutionary Genomics: Revealing Plant Adaptation Mechanisms</h2>
+<p>The study on Vigna radiata (mungbean) by Talakayala et al. provides a comprehensive genome-wide analysis of the Chloride Channel (CLC) gene family, shedding light on salt stress adaptation mechanisms in plants. By identifying seven putative VrCLC genes and analyzing their evolutionary characteristics, the researchers uncovered how these genes contribute to salt tolerance. Notably, the study revealed tissue-specific expression patterns and identified key genes like VrCLC-b1 and VrCLC-g that show significant upregulation under salt stress. This research is crucial for developing more resilient crop varieties in an era of changing climate conditions.</p>
+<h2>🦠 Microbial Interactions: Bacterial Defense and Toxin Evolution</h2>
+<p>The research by Goudarzi et al. on the venomous caterpillar Doratifera vulnerans offers a fascinating glimpse into the evolutionary adaptation of venom toxins. By generating a near chromosomal-level genome assembly, the researchers discovered how defensive toxins originated from immune peptides through gene duplication and positive selection. The study revealed that certain peptides, initially part of the cecropin family involved in insect immunity, evolved to become potent pain-inducing toxins. This work provides critical insights into the molecular mechanisms of venom evolution and demonstrates how genetic adaptations can transform immune peptides into specialized defensive molecules.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41361170/">ERBB2 Signaling in Small Cell Lung Cancer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41361798/">Chloride Channel Genes in Mungbean</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41325521/">Venom Toxin Evolution in Caterpillars</a></li>
+</ol>
+<p><em>Last update: Wed Dec 10 06:39:36 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 10 Dec 2025 06:39:42 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251210063942</guid>
   </item>
 </channel>
 </rss>
