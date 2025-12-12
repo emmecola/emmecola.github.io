@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 06:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:39:48 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5164,6 +5164,27 @@ None</p>
 <p><em>Last update: Thu Dec 11 06:40:33 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 11 Dec 2025 06:40:40 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251211064040</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-12</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>The field of genomics continues to push the boundaries of scientific understanding, revealing intricate mechanisms that shape biological systems from microbes to complex organisms. These groundbreaking studies demonstrate how advanced technologies and innovative approaches are transforming our comprehension of genetic interactions, adaptation, and cellular processes.</p>
+<h2>🧬 Quantile Regression: A New Window into Genetic Complexity</h2>
+<p>The study by Wang et al. introduces Regenie.QRS, a computational technique that revolutionizes whole-genome quantile regression. By addressing the context-dependent nature of genotype-phenotype associations, this method provides unprecedented insights into genetic effects across different distribution ranges. A compelling example from their research reveals how variants at the G6PC2 locus impact glucose levels more significantly at lower quantiles, suggesting a nuanced protective mechanism against low glucose levels without promoting hyperglycemia.</p>
+<h2>🦠 Bacterial Stress Response: Fluoride's Molecular Warfare</h2>
+<p>Banerjee and colleagues uncovered a fascinating mechanism of bacterial cell death triggered by fluoride. Their research on Streptococcus mutans reveals how fluoride disrupts the typical stress response by specifically inhibiting the Clp protease complex. This intervention leads to an uncontrolled competence cascade, causing prolonged activation of cell wall degradation mechanisms. The study not only explains fluoride's antimicrobial properties but also provides potential strategies for targeting bacterial stress responses.</p>
+<h2>🌱 Soybean Defense: The Delicate Balance of Metabolic Adaptation</h2>
+<p>Yang et al. illuminate the sophisticated defense mechanisms in soybean against Phytophthora sojae by exploring isoflavonoid biosynthesis. Their research identifies the cytochrome P450 gene GmIF6H1 as a critical determinant in glycitein production, revealing a complex metabolic strategy where different isoflavonoid compounds work synergistically to provide pathogen resistance. The study demonstrates how a single amino acid substitution can significantly alter a plant's defensive capabilities, offering promising avenues for developing disease-resistant crop varieties.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41380003">Wang et al. - Computationally efficient whole-genome quantile regression</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41379997">Banerjee et al. - Fluoride triggers lysis in Streptococcus mutans</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41380000">Yang et al. - Glycitein and glyceollins in soybean resistance</a></li>
+</ol>
+<p><em>Last update: Fri Dec 12 06:39:42 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 12 Dec 2025 06:39:48 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251212063948</guid>
   </item>
 </channel>
 </rss>
