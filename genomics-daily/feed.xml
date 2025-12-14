@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 06:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 06:36:29 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5212,6 +5212,27 @@ None</p>
 <p><em>Last update: Sat Dec 13 06:36:31 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 13 Dec 2025 06:36:37 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251213063637</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-14</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Complexity in Biological Systems</h1>
+<p>Recent advances in genomics continue to unveil the intricate mechanisms underlying biological diversity, disease progression, and evolutionary adaptation. From exploring symbiotic relationships to understanding genetic risk factors and developing precise gene-editing technologies, researchers are pushing the boundaries of our molecular understanding.</p>
+<h2>🌱 Symbiotic Precision: Unraveling Plant-Microbe Interactions</h2>
+<p>The study by Gao Yongkang et al. in <em>Nature Communications</em> provides a fascinating insight into the delicate molecular choreography between legumes and nitrogen-fixing bacteria. By investigating the symbiosome space in <em>Medicago truncatula</em>, the researchers discovered a critical mechanism involving cell wall-degrading enzymes that maintain effective nitrogen fixation. They identified two polygalacturonase genes, SyPG1 and SyPG2, which prevent the accumulation of un-esterified pectin within symbiosomes. Remarkably, silencing these genes leads to nodule senescence, highlighting the intricate molecular communication required for successful plant-microbe symbiosis.</p>
+<h2>🧬 Neurogenetic Landscape: Sex-Dependent Brain Regulation</h2>
+<p>Rocks Devin and colleagues explored the molecular drivers of sex-specific brain plasticity, focusing on the transcription factor Egr1 in the ventral hippocampus. Their research, published in <em>Nature Communications</em>, revealed that Egr1 plays a crucial role in modulating neuronal chromatin, gene expression, and structural plasticity in a sex-dependent manner. By demonstrating how Egr1 overexpression induces different chromatin states in males and females, the study provides important insights into the molecular mechanisms underlying brain sex differences and potentially informs future sex-based treatments for neurological disorders.</p>
+<h2>🔬 Precision Gene Editing: Advancing Therapeutic Potential</h2>
+<p>The study by Ren Jingxuan et al. presents a groundbreaking approach to designing adenine base editors (ABEs) using a protein-nucleic acid language model. Published in <em>Nature Communications</em>, their research addresses critical limitations in current gene-editing technologies. By developing PNLM-pcABE, they created a smaller, more precise base editor with reduced off-target editing events. The new editor demonstrates remarkable potential in pathogenic mutation correction and shows promising results in both in vitro and in vivo settings, including successful application in an albino mouse model.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41390839">Gao et al. - Symbiosome functionality in Medicago truncatula</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41390827">Rocks et al. - Egr1 as a sex-dependent regulator of neuronal chromatin</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41390734">Ren et al. - Protein-nucleic acid language model-assisted base editor design</a></li>
+</ol>
+<p><em>Last update: Sun Dec 14 06:36:22 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 14 Dec 2025 06:36:29 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251214063629</guid>
   </item>
 </channel>
 </rss>
