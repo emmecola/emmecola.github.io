@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 06:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 06:38:39 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5329,6 +5329,33 @@ None</p>
 <p><em>Last update: Thu Dec 18 06:39:57 UTC 2025</em></p>]]></description>
     <pubDate>Thu, 18 Dec 2025 06:40:08 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251218064008</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-19</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>The field of genomics continues to push the boundaries of scientific understanding, offering unprecedented insights into biological systems. From deciphering disease mechanisms to exploring evolutionary adaptations, recent research demonstrates the power of advanced genomic technologies in addressing complex biological questions across diverse domains.</p>
+<h2>🧬 Illuminating the Genetic Architecture of Cattle Evolution</h2>
+<p>The study by Cai et al. on ancient East Asian cattle genomes provides a remarkable window into bovine domestication and migration patterns. By analyzing 166 ancient bovine genome sequences spanning 10,000 years, researchers revealed complex genetic interactions between East Asian aurochs populations. The findings show that early domesticated cattle in the Yellow River region incorporated approximately 10% local auroch ancestry, with genetic contributions from different regional populations. Notably, indicine genetic admixture only became widespread during the Medieval period in northern China, highlighting the dynamic and nuanced nature of cattle genetic evolution.</p>
+<h2>🦠 Bacterial Communication: A Molecular Dance of Adaptation</h2>
+<p>Nguyen et al.'s investigation into Vibrio cholerae's two-component signaling system unveils a sophisticated molecular mechanism of bacterial adaptation. The research identified DbfQ, a small periplasmic protein that directly modulates bacterial response pathways by interacting with the sensory domain of a histidine kinase. This interaction shifts the pathway toward promoting biofilm dispersal, demonstrating how bacteria can fine-tune their environmental responses. The discovery not only provides insights into bacterial physiology but also suggests potential strategies for developing anti-infective therapeutics by targeting such regulatory mechanisms.</p>
+<h2>🧊 Engineered Base Editors: Precision at the Genetic Frontier</h2>
+<p>Perrotta et al. present a groundbreaking approach to genome editing by developing base editors with reduced bystander editing through directed evolution. By optimizing both guide RNAs and deaminase enzymes, the researchers created base editor variants that are two to three times more precise than previous versions while maintaining high efficiency. This advancement addresses a critical challenge in genome editing: minimizing unintended genetic modifications. The study's parallel engineering approach and use of protein language models represent a significant step toward more reliable and targeted genetic interventions.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41411435">Cai et al. - Ancient genomes illuminate the origins and dynamic history of East Asian cattle</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41413053">Nguyen et al. - A small periplasmic protein governs broad physiological adaptations in Vibrio cholerae</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41413244">Perrotta et al. - Engineered base editors with reduced bystander editing through directed evolution</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Dec 19 06:38:33 UTC 2025</em></p>]]></description>
+    <pubDate>Fri, 19 Dec 2025 06:38:39 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251219063839</guid>
   </item>
 </channel>
 </rss>
