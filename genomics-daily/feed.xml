@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Dec 2025 06:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 06:37:04 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5375,6 +5375,33 @@ None</p>
 <p><em>Last update: Sat Dec 20 06:36:39 UTC 2025</em></p>]]></description>
     <pubDate>Sat, 20 Dec 2025 06:36:45 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251220063645</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-21</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Life's Complexity Through Innovative Research</h1>
+<p>The field of genomics continues to evolve rapidly, offering unprecedented insights into biological systems across diverse domains. Recent groundbreaking studies demonstrate how advanced genomic techniques are unraveling complex biological mechanisms, from understanding disease processes to exploring evolutionary adaptations and cellular interactions.</p>
+<h2>🧬 Extrachromosomal DNA: A New Frontier in Cancer Research</h2>
+<p>The study by Chowdhury et al. introduces ec3D, a computational method for reconstructing three-dimensional structures of extrachromosomal DNAs (ecDNAs) in cancer. By analyzing whole-genome Hi-C data, researchers revealed that ecDNAs occupy unique spherical configurations that mediate complex long-range regulatory interactions. This breakthrough provides critical insights into how these circular DNA molecules bypass normal chromosomal constraints, potentially driving increased oncogene expression and contributing to tumor evolution and drug resistance.</p>
+<h2>🧫 Unraveling Thermal Stress Adaptation in Marine Organisms</h2>
+<p>Li et al. conducted a comprehensive genomic investigation into thermal stress responses in Mytilus coruscus, a marine mussel. Their research unveiled intricate molecular mechanisms of heat adaptation, highlighting the crucial roles of autophagy and heat shock protein 70 (HSP70) pathways. By examining transcriptomic changes across different tissues, they discovered organ-specific thermal stress responses and identified key genes that interact to regulate cellular survival during environmental temperature fluctuations, providing valuable insights into marine organism adaptation to climate change.</p>
+<h2>🧊 Precision Genome Editing: A Modular Approach to Base Editing</h2>
+<p>Zhong and colleagues developed a groundbreaking Plug-in Base Editor (Plug-in BE) system that dynamically programs deaminase positioning in genome editing. By integrating various epitopes and antibody-fused deaminases, this innovative approach expands base editing capabilities, improving editing efficiencies, reducing window restrictions, and enhancing safety profiles. The research demonstrates remarkable versatility in applications ranging from cancer gene therapy to zebrafish embryo editing, representing a significant advancement in precise genetic manipulation technologies.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41422275/">Reconstructing the three-dimensional architecture of extrachromosomal DNA with ec3D</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41422200/">Genome-wide transcriptomic analysis reveals autophagy and HSP70-mediated mechanisms underlying thermal stress adaptation in Mytilus coruscus</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41422102/">A Plug-in system for reprogramming the editing patterns of base editors</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Dec 21 06:36:58 UTC 2025</em></p>]]></description>
+    <pubDate>Sun, 21 Dec 2025 06:37:04 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251221063704</guid>
   </item>
 </channel>
 </rss>
