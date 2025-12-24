@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Dec 2025 06:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 06:40:31 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5444,6 +5444,33 @@ None</p>
 <p><em>Last update: Tue Dec 23 06:40:58 UTC 2025</em></p>]]></description>
     <pubDate>Tue, 23 Dec 2025 06:41:04 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251223064104</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-24</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Biological Systems</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to push the boundaries of our understanding, exploring intricate molecular mechanisms that govern life at multiple scales. From deciphering the genetic basis of complex traits to understanding evolutionary adaptations, these studies offer profound insights into biological systems' fundamental workings.</p>
+<h2>🧬 Probing the Depths of Pancreatic Cancer Stem Cells</h2>
+<p>Researchers conducted a comprehensive investigation into pancreatic cancer stem cells (CSCs), integrating single-cell transcriptomics and bulk RNA sequencing to characterize their heterogeneity. By identifying seven malignant epithelial subpopulations, they discovered a specific cluster (C2) with the highest stemness score and lowest metabolic activity. The team developed a CSC-like prognostic index (CSCLPI) that can stratify patients into distinct risk groups, correlating significantly with tumor mutation burden, immune escape, and chemoresistance.</p>
+<h2>🌱 Illuminating Plant Adaptation through Molecular Phylogenetics</h2>
+<p>A groundbreaking study explored abiotic stress responses in 13 European forest tree species, utilizing molecular phylogenetic analysis to understand their evolutionary adaptation strategies. By examining 616 genes associated with stress response, researchers revealed distinctive patterns in evolutionary dynamics. Notably, they found that drought stress exhibited the highest number of shared genes, while conifer species showed a stronger signature of adaptive evolution, suggesting unique constraints likely influenced by larger genomes and ancient lineage divergence.</p>
+<h2>🦠 Anellovirus Replication: A Molecular Mechanism Unveiled</h2>
+<p>Scientists made significant strides in understanding the replication mechanism of Anelloviridae, a family of single-stranded DNA viruses previously considered nonpathogenic. By identifying the protein encoded by ORF2/3 as crucial for initiating viral replication, the researchers demonstrated how these viruses manipulate host cell machinery. They mapped a minimal origin of replication and revealed that the viral protein interacts with key host cellular complexes, providing unprecedented insights into the molecular strategies of these ubiquitous viruses.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41436608">Characterization of pancreatic cancer stem cells and construction of a stem cell-based prognostic signature</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41433287">Investigating adaptation to environmental variability in forest trees through molecular phylogenetic analysis</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41433061">Anellovirus protein encoded by ORF2/3 functions as the viral replication initiation protein</a></p>
+</li>
+</ol>
+<p><em>Last update: Wed Dec 24 06:40:25 UTC 2025</em></p>]]></description>
+    <pubDate>Wed, 24 Dec 2025 06:40:31 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251224064031</guid>
   </item>
 </channel>
 </rss>
