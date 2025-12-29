@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Dec 2025 06:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 06:42:36 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5562,6 +5562,33 @@ None</p>
 <p><em>Last update: Sun Dec 28 06:37:57 UTC 2025</em></p>]]></description>
     <pubDate>Sun, 28 Dec 2025 06:38:03 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251228063803</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-29</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Complexity from Embryos to Ecosystems</h1>
+<p>The rapidly evolving field of genomics continues to unveil intricate biological mechanisms across diverse systems, demonstrating how advanced sequencing and computational techniques can illuminate complex biological interactions at molecular, cellular, and organismal levels.</p>
+<h2>🧬 Developmental Network Dynamics: Zebrafish Embryogenesis Controllability</h2>
+<p>Park et al.'s groundbreaking research on zebrafish gene regulatory networks (GRNs) provides unprecedented insights into developmental control mechanisms. By reconstructing networks across embryonic stages using single-cell RNA sequencing, the researchers discovered that developmental networks become progressively more controllable. Remarkably, approximately 80% of network nodes were identified as "driver nodes," with controllability significantly decreasing in later developmental phases. This work not only advances our understanding of embryonic development but also offers a sophisticated framework for analyzing complex biological network dynamics.</p>
+<h2>🌱 Phytoremediation Unveiled: Pharmaceutical Interactions in Plant Microbiomes</h2>
+<p>The study by Priyadarshani et al. represents a sophisticated exploration of pharmaceutical pollutant interactions with plant systems, specifically examining paracetamol bioaccumulation in zucchini. By investigating how the fungicide benomyl modulates paracetamol translocation and impacts endophytic microbiome diversity, the researchers demonstrated complex interplay between chemical compounds and plant physiological responses. Notably, the combination of paracetamol and benomyl enhanced pollutant translocation to aerial plant tissues while simultaneously promoting microbial diversity and plant resilience, offering promising implications for phytoremediation strategies.</p>
+<h2>🦐 Crustacean Cellular Mapping: A New Frontier in Aquaculture Genomics</h2>
+<p>Florea and colleagues' generation of a hepatopancreas cell atlas for Litopenaeus vannamei (Pacific whiteleg shrimp) represents a significant advancement in crustacean genomic research. By developing a novel nuclei isolation technique compatible with single-nucleus RNA sequencing, the team successfully characterized 4,005 cells across nine distinct clusters. This comprehensive cellular mapping not only provides unprecedented insights into hepatopancreas cellular heterogeneity but also establishes a crucial resource for understanding immune-related mechanisms in economically important aquaculture species.</p>
+<h2><strong>References</strong></h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41457100">Park et al. - Controllability of Gene Regulatory Networks</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41457081">Priyadarshani et al. - Benomyl and Paracetamol in Zucchini</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41455910">Florea et al. - Litopenaeus vannamei Hepatopancreas Cell Atlas</a></p>
+</li>
+</ol>
+<p><em>Last update: Mon Dec 29 06:42:29 UTC 2025</em></p>]]></description>
+    <pubDate>Mon, 29 Dec 2025 06:42:36 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251229064236</guid>
   </item>
 </channel>
 </rss>
