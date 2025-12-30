@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 06:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 06:40:09 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5589,6 +5589,27 @@ None</p>
 <p><em>Last update: Mon Dec 29 06:42:29 UTC 2025</em></p>]]></description>
     <pubDate>Mon, 29 Dec 2025 06:42:36 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251229064236</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2025-12-30</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Complexity Across Life Sciences</h1>
+<p>Recent genomic research continues to push the boundaries of our understanding, revealing intricate molecular mechanisms that span diverse biological systems. From evolutionary insights to disease mechanisms and innovative methodological approaches, these studies demonstrate the power of advanced genomic technologies in deciphering life's fundamental processes.</p>
+<h2>🧬 Evolutionary Insights: Sponge Genome Reveals Multicellular Origins</h2>
+<p>The first draft genome assembly of <em>Halisarca dujardinii</em>, a sponge species, provides unprecedented insights into the emergence of multicellularity. By sequencing and analyzing this genome, researchers discovered that over half of the genome is composed of evolutionarily young repeats, and identified key basement membrane components like laminin, nidogen, and collagen IV. The study revealed only 13,989 genes, significantly fewer than in other Demospongiae, and uncovered 14 aggregation factor genes responsible for cell recognition and adhesion. This research is crucial in understanding the genetic foundations of how complex multicellular organisms evolved, offering a rare glimpse into the genomic landscape of early animal life.</p>
+<h2>🔬 Medical Genomics: Decoding Breast Cancer Progression</h2>
+<p>A comprehensive genomic analysis of the MYLK2 gene in breast cancer provides critical insights into potential prognostic markers. By examining gene expression data from The Cancer Genome Atlas, researchers found that MYLK2 is significantly overexpressed in tumor tissues compared to normal adjacent tissues. Kaplan-Meier survival analysis revealed that high MYLK2 expression correlates with poorer overall survival, progression-free survival, and disease-specific survival. Multivariate Cox regression analysis identified MYLK2 as an independent prognostic factor, suggesting its potential as a promising biomarker for early diagnosis and developing targeted treatment strategies in breast cancer management.</p>
+<h2>🧪 Innovative Methodology: Multi-Omics Approach to Cell State Dynamics</h2>
+<p>The development of MoFlow, a deep neural network integrating multi-omic data, represents a significant advancement in understanding cellular state transitions. Unlike previous RNA velocity models, MoFlow can flexibly infer velocity parameters at single-cell resolution without pre-assigned latent time. By analyzing single-cell multi-omic datasets from various cell types, the method distinguished chromatin-dependent and independent transcriptional regulation, validated transcription repression models, and identified nuanced gene expression dynamics. This innovative approach enhances our ability to interpret complex cellular processes with unprecedented precision.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41461809/">Halisarca dujardinii Genome Assembly</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41461789/">MYLK2 in Breast Cancer Prognosis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41457082/">MoFlow Multi-Omic Velocity Modeling</a></li>
+</ol>
+<p><em>Last update: Tue Dec 30 06:40:03 UTC 2025</em></p>]]></description>
+    <pubDate>Tue, 30 Dec 2025 06:40:09 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251230064009</guid>
   </item>
 </channel>
 </rss>
