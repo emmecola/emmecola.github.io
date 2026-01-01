@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 06:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 06:40:24 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5631,6 +5631,33 @@ None</p>
 <p><em>Last update: Wed Dec 31 06:40:27 UTC 2025</em></p>]]></description>
     <pubDate>Wed, 31 Dec 2025 06:40:34 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20251231064034</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-01</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity in Biological Systems</h1>
+<p>Recent advances in genomics continue to reveal the intricate mechanisms underlying biological complexity, from molecular interactions to systemic adaptations. These cutting-edge studies demonstrate how sophisticated genomic techniques can unlock profound understanding across diverse research domains, highlighting the power of contemporary genetic research.</p>
+<h2>🧬 Ciliary Signaling and Polycystic Kidney Disease</h2>
+<p>The study by Hwang et al. provides groundbreaking insights into the molecular mechanisms of polycystic kidney disease (ADPKD). By investigating the role of ANKMY2, a protein involved in ciliary adenylyl cyclase signaling, researchers uncovered critical processes in cyst formation. The research revealed that ANKMY2 controls ciliary trafficking of adenylyl cyclases without disrupting cilia structure, demonstrating how specific molecular interactions can significantly impact cellular dynamics and disease progression.</p>
+<h2>🌱 Natural Genetic Variation in Maize Development</h2>
+<p>Kaur and colleagues explored how genetic variation influences trait expression in maize, focusing on a semi-dominant dwarfing allele. Their innovative F1 association mapping approach revealed complex interactions between genetic elements, particularly highlighting how natural variations modify gene expression. The study demonstrated that multiple unlinked alleles can affect trait manifestation, providing crucial insights into the sophisticated regulatory mechanisms governing plant architecture and development.</p>
+<h2>🦠 Bacterial Adaptation and Antibiotic Resistance</h2>
+<p>Silva et al. examined gene amplification mechanisms in Staphylococcus aureus, revealing how genetic factors influence evolutionary trajectories of antibiotic resistance. By screening mutants deficient in various DNA processes, they discovered that specific proteins modulate gene amplification frequency. The research identified XerC, a tyrosine recombinase, as a novel regulator of gene copy number alterations, offering potential strategies for understanding and potentially inhibiting resistance evolution.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41474822">Hwang et al. - Lack of ANKMY2 suppresses kidney cystogenesis</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41474800">Kaur et al. - A maize mutant modified by natural variation</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41474795">Silva et al. - Modulators of gene amplification in S. aureus</a></p>
+</li>
+</ol>
+<p><em>Last update: Thu Jan  1 06:40:18 UTC 2026</em></p>]]></description>
+    <pubDate>Thu, 01 Jan 2026 06:40:24 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260101064024</guid>
   </item>
 </channel>
 </rss>
