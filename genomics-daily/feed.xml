@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jan 2026 06:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 06:38:31 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5712,6 +5712,14 @@ None</p>
 <p><em>Last update: Sat Jan  3 06:37:42 UTC 2026</em></p>]]></description>
     <pubDate>Sat, 03 Jan 2026 06:37:48 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260103063748</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-04</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<p>No genomics papers today!</p>
+<p><em>Last update: Sun Jan  4 06:38:25 UTC 2026</em></p>]]></description>
+    <pubDate>Sun, 04 Jan 2026 06:38:31 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260104063831</guid>
   </item>
 </channel>
 </rss>
