@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 06:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 06:41:49 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5739,6 +5739,33 @@ None</p>
 <p><em>Last update: Mon Jan  5 06:47:00 UTC 2026</em></p>]]></description>
     <pubDate>Mon, 05 Jan 2026 06:47:06 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260105064706</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-06</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Unveiling Genomic Complexity: From Proteoforms to Cellular Dynamics</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to peel back the layers of biological complexity, revealing intricate molecular mechanisms that govern health and disease. Recent publications highlight the profound interconnections between genetic variation, protein diversity, and cellular function, demonstrating how advanced genomic technologies are transforming our understanding of biological systems.</p>
+<h2>🧬 Proteoforms: The Missing Link in Precision Medicine</h2>
+<p>The groundbreaking review by Korchak et al. illuminates the critical role of proteoforms in bridging genotype and phenotype. With an estimated one million distinct protein variants emerging from just 20,000 protein-coding genes, proteoforms represent a vast, largely unexplored dimension of biological complexity. The researchers emphasize that precision medicine will require precision proteomics, introducing cutting-edge technologies like long-read transcriptomics and direct protein sequencing to characterize these molecular variants. By presenting a network biology framework, the study provides insights into how proteoforms can disrupt molecular interactions and cellular pathways, potentially revolutionizing our understanding of disease mechanisms.</p>
+<h2>🔬 Targeting Mitochondrial Metabolism in Cancer Therapy</h2>
+<p>The research by Li et al. offers a promising approach to combating chronic myeloid leukemia (CML), particularly against drug-resistant mutations. By investigating caffeic acid phenethyl ester (CAPE), the study reveals a novel therapeutic strategy targeting mitochondrial complex I, independent of direct BCR-ABL1 inhibition. The researchers demonstrated CAPE's ability to induce apoptosis in CML cells by disrupting cellular energy metabolism, potentially overcoming therapeutic resistance associated with the challenging T315I mutation. This work underscores the importance of exploring alternative metabolic interventions in cancer treatment.</p>
+<h2>🌱 Decoding Leaf Development through Transcription Factors</h2>
+<p>Zhang and colleagues provide fascinating insights into plant morphology by examining NAC transcription factors in Rosa persica. Their comprehensive analysis revealed how specific RpNAC genes influence leaf margin development, offering a unique model for understanding plant architectural diversity. By characterizing these transcription factors and demonstrating their impact through heterologous overexpression in Arabidopsis, the researchers not only shed light on leaf morphogenesis but also opened potential avenues for breeding ornamental and stress-resilient plant varieties.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41486290">Proteoform medicine: characterizing and targeting protein forms in human disease</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41486183">Caffeic acid phenethyl ester induced apoptosis in chronic myeloid leukemia cells by inhibiting mitochondrial complex I</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41486127">RpNACs transcription factors coordinate leaf margin development in Rosa persica</a></p>
+</li>
+</ol>
+<p><em>Last update: Tue Jan  6 06:41:43 UTC 2026</em></p>]]></description>
+    <pubDate>Tue, 06 Jan 2026 06:41:49 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260106064149</guid>
   </item>
 </channel>
 </rss>
