@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jan 2026 06:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:41:31 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5814,6 +5814,27 @@ None</p>
 <p><em>Last update: Thu Jan  8 06:41:22 UTC 2026</em></p>]]></description>
     <pubDate>Thu, 08 Jan 2026 06:41:28 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260108064128</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-09</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Life's Complexity Across Domains</h1>
+<p>The rapidly evolving field of genomics continues to unveil intricate mechanisms of biological systems, from molecular interactions to population-level dynamics. These groundbreaking studies showcase how advanced technologies and interdisciplinary approaches are revolutionizing our understanding of genetic diversity, disease mechanisms, and evolutionary adaptation.</p>
+<h2>🧬 Immune System Complexity: A Multi-Omics Atlas of Population Variation</h2>
+<p>The Chinese Immune Multi-Omics Atlas (CIMA) represents a landmark study in understanding human immune system diversity. By analyzing over 10 million circulating immune cells from 428 Chinese adults, researchers established a comprehensive gene regulatory network comprising 237 robust regulons. The project identified 9,600 expression quantitative trait loci (eGenes) and 52,361 chromatin accessibility peaks at unprecedented cellular resolution, revealing how genetic variants influence immune function across different populations.</p>
+<h2>🔬 Computational Drug Discovery: Accelerating Molecular Screening</h2>
+<p>The DrugCLIP framework introduces a revolutionary approach to genome-wide virtual drug screening, achieving computational speeds up to 10 million times faster than traditional docking methods. By leveraging contrastive learning techniques, researchers successfully screened approximately 500 million compounds against 10,000 human proteins, demonstrating remarkable hit rates for challenging targets like the norepinephrine transporter. The accompanying GenomeScreenDB database represents a transformative resource for post-AlphaFold era drug discovery.</p>
+<h2>🌿 Microbial Dynamics: Bark Microbiomes and Climate-Active Gas Exchanges</h2>
+<p>A fascinating study on Australian forest ecosystems revealed the complex microbial communities inhabiting tree bark, uncovering their critical role in global atmospheric gas cycles. Through gene-centric and genome-resolved metagenomics, researchers discovered specialized microorganisms capable of metabolizing multiple climate-active gases. These microbes can aerobically consume methane, hydrogen, and carbon monoxide, highlighting the intricate and previously underappreciated interactions between tree-associated microbiota and environmental processes.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41505528/">Chinese Immune Multi-Omics Atlas</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41505557/">DrugCLIP: Genome-wide Virtual Screening</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41505541/">Bark Microbiota and Climate-Active Gases</a></li>
+</ol>
+<p><em>Last update: Fri Jan  9 06:41:24 UTC 2026</em></p>]]></description>
+    <pubDate>Fri, 09 Jan 2026 06:41:31 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260109064131</guid>
   </item>
 </channel>
 </rss>
