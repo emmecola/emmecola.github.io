@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 06:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:37:23 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5835,6 +5835,27 @@ None</p>
 <p><em>Last update: Fri Jan  9 06:41:24 UTC 2026</em></p>]]></description>
     <pubDate>Fri, 09 Jan 2026 06:41:31 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260109064131</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-10</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Life's Complexity Through Innovative Research</h1>
+<p>Recent advances in genomics are revealing intricate mechanisms of biological systems, from plant disease resistance to human genetic disorders and microbial evolution. These groundbreaking studies demonstrate how cutting-edge genomic technologies are transforming our understanding of life at molecular and cellular levels.</p>
+<h2>🌳 Plant Resilience: Engineering Disease Tolerance in European Chestnut</h2>
+<p>The study by Serrazina et al. presents a promising approach to enhancing plant disease resistance through genetic engineering. By introducing a gene homologous to Ginkgo biloba's ginkbilobin-2 into European chestnut somatic embryos, researchers successfully developed transgenic lines with significantly improved tolerance to Phytophthora cinnamomi, a root rot pathogen. This breakthrough not only offers potential strategies for protecting economically and ecologically important tree species but also showcases the power of targeted gene overexpression in developing more resilient crops.</p>
+<h2>🧬 Unraveling Genetic Mysteries: Small Nuclear RNAs and Retinitis Pigmentosa</h2>
+<p>Quinodoz and colleagues made a significant discovery in understanding the genetic basis of retinitis pigmentosa, a progressive blindness disorder. By identifying inherited and de novo variants in U4 and U6 snRNA genes, the researchers revealed that these noncoding RNA genes can contribute to Mendelian diseases. Their findings highlight the complex role of small nuclear RNAs in splicing mechanisms and demonstrate how genetic variations in seemingly minor RNA components can lead to serious clinical conditions, potentially explaining up to 1.4% of undiagnosed retinitis pigmentosa cases.</p>
+<h2>🦠 Microbial Evolution: Phage Depolymerases and Antibiotic Resistance</h2>
+<p>Li et al. explored the potential of phage depolymerases in combating carbapenem-resistant Salmonella enteritidis, a significant foodborne pathogen. By characterizing a novel phage depolymerase (Dpo52), the researchers demonstrated its ability to inhibit bacterial biofilm formation through extracellular polysaccharide degradation. This study not only provides insights into bacterial-phage interactions but also offers a promising alternative approach to addressing the growing challenge of antibiotic-resistant bacteria, highlighting the importance of exploring novel antimicrobial strategies.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41514218">Serrazina et al. - Overexpression of ginkbilobin-2 homologous domain gene</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41513982">Quinodoz et al. - De novo and inherited dominant variants in U4 and U6 snRNA genes</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41513960">Li et al. - Identify and characterize a carbapenem-resistant Salmonella enteritidis phage depolymerase</a></li>
+</ol>
+<p><em>Last update: Sat Jan 10 06:37:17 UTC 2026</em></p>]]></description>
+    <pubDate>Sat, 10 Jan 2026 06:37:23 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260110063723</guid>
   </item>
 </channel>
 </rss>
