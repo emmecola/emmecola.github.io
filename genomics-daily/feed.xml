@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2026 06:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:39:04 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5856,6 +5856,33 @@ None</p>
 <p><em>Last update: Sat Jan 10 06:37:17 UTC 2026</em></p>]]></description>
     <pubDate>Sat, 10 Jan 2026 06:37:23 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260110063723</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-11</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Complexity Across Biological Systems</h1>
+<p>The rapidly evolving field of genomics continues to unveil intricate mechanisms of biological complexity, from molecular interactions to evolutionary dynamics. Recent research highlights the power of advanced genomic techniques in understanding diverse biological processes across different organisms and contexts.</p>
+<h2>🧬 Viral Interactions and Lymphoma: Unraveling Molecular Mechanisms</h2>
+<p>The study by Henning et al. provides groundbreaking insights into hepatitis virus-associated B cell non-Hodgkin's lymphoma (BNHL). By performing RNA sequencing on peripheral B cells from patients with various viral infection states, researchers discovered critical molecular changes underlying lymphomagenesis. The research revealed dysregulated epigenetic and miRNA-mediated gene expression as a potential common pathway in viral and non-viral lymphomas. Notably, the widespread upregulation of small nucleolar RNAs (snoRNAs) in virally infected patients suggests these non-coding RNAs play a significant role in viral infection and potential lymphoma development, opening new avenues for therapeutic strategies.</p>
+<h2>🌿 Plant Molecular Regulation: Decoding Anthocyanin Biosynthesis</h2>
+<p>Xue and colleagues' research on Malus spectabilis provides fascinating insights into the genetic regulation of leaf coloration. By investigating two Arabidopsis ERF4 homologs, MsERF4-like1 and MsERF4-like2, the study revealed how these transcription factors directly control anthocyanin biosynthesis. The researchers demonstrated that these genes bind to the promoter of the anthocyanin structural gene MsCHI, activating its transcription and promoting pigment accumulation. This work not only advances our understanding of plant pigmentation mechanisms but also offers potential genetic targets for improving ornamental plant foliage color.</p>
+<h2>🧫 Transposable Elements: Evolutionary Dynamics in Worm Genomes</h2>
+<p>The comprehensive study by Addy et al. on Mutator-like elements (MULEs) in worm genomes provides a remarkable exploration of genomic plasticity. Contrary to previous assumptions that MULEs were plant-specific, the research revealed their widespread presence across diverse worm taxa, including flatworms, roundworms, and other worm groups. The study identified 113 MULE transposon types across 46 worm genomes, with some elements showing recent transpositional capabilities. Particularly intriguing was the discovery of a MULE transposon (Acali) from an earthworm that demonstrated significant transposition activity in human cells, highlighting the potential broader implications of these genetic elements.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41513705">Henning et al. - Hepatitis virus-associated B cell non-Hodgkin's lymphoma</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41177415">Xue et al. - MsERF4-like transcription factors and anthocyanin biosynthesis</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41173222">Addy et al. - Evolution of Mutator transposons in worm genomes</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Jan 11 06:38:57 UTC 2026</em></p>]]></description>
+    <pubDate>Sun, 11 Jan 2026 06:39:04 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260111063904</guid>
   </item>
 </channel>
 </rss>
