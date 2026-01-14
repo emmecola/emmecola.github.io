@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jan 2026 06:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:41:30 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5931,6 +5931,27 @@ None</p>
 <p><em>Last update: Tue Jan 13 06:41:33 UTC 2026</em></p>]]></description>
     <pubDate>Tue, 13 Jan 2026 06:41:39 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260113064139</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-14</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unraveling Adaptation, Disease, and Evolutionary Dynamics</h1>
+<p>In the rapidly evolving landscape of genomics research, scientists continue to push the boundaries of our understanding of genetic mechanisms across diverse biological systems. This editorial highlights three groundbreaking studies that illuminate the intricate ways genes shape adaptation, disease progression, and evolutionary strategies.</p>
+<h2>🧬 Circadian Rhythms and Genetic Adaptation in an Endangered Fish</h2>
+<p>The study on Percocypris pingi reveals fascinating insights into the genetic mechanisms of circadian entrainment in an endangered fish species. Researchers discovered that several candidate genes, including cry1a, cry2, and per2a, demonstrate circadian oscillation within a 24-hour cycle. This research not only provides crucial genetic data for conservation efforts but also highlights the importance of circadian rhythms as an adaptive evolutionary mechanism in species facing environmental challenges.</p>
+<h2>🦠 Microbiota's Role in Tibetan Antelope Metabolism</h2>
+<p>A compelling investigation into the Tibetan antelope's gut microbiota demonstrates how Blastocystis infection enhances the biosynthesis of vitamins B and K2. This research offers a remarkable window into the complex interactions between host organisms and their microbiome, showcasing how microbial communities can potentially modify metabolic processes and contribute to host survival in challenging environments.</p>
+<h2>🧠 Genetic Insights into Neurological Disease Mechanisms</h2>
+<p>The study on neuronal intranuclear inclusion disease (NIID) represents a significant breakthrough in genetic medicine. By developing a precise CRISPR/Cas9 gene-editing strategy to excise expanded GGC repeats in the NOTCH2NLC gene, researchers demonstrated the potential to alleviate neuropathological abnormalities. This approach not only offers hope for NIID treatment but also provides a promising framework for addressing other repeat expansion disorders.</p>
+<h2>References</h2>
+<ol>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41530678">Population structure and circadian entrainment in Percocypris pingi</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41530663">Blastocystis infection and vitamin biosynthesis in Tibetan antelope</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41526374">Precise gene editing for neuronal intranuclear inclusion disease</a></li>
+</ol>
+<p><em>Last update: Wed Jan 14 06:41:24 UTC 2026</em></p>]]></description>
+    <pubDate>Wed, 14 Jan 2026 06:41:30 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260114064130</guid>
   </item>
 </channel>
 </rss>
