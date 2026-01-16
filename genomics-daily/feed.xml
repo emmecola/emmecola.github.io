@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 06:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:41:21 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -5973,6 +5973,25 @@ None</p>
 <p><em>Last update: Thu Jan 15 06:41:04 UTC 2026</em></p>]]></description>
     <pubDate>Thu, 15 Jan 2026 06:41:10 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260115064110</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-16</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Decoding Cellular Complexity and Adaptation</h1>
+<p>Recent advances in genomics are revealing unprecedented insights into cellular mechanisms, disease processes, and adaptive strategies across diverse biological systems. From understanding inflammatory responses to tracking gene expression and exploring pangenomic variations, researchers are pushing the boundaries of our molecular understanding.</p>
+<h2>🧬 Nucleotide Metabolism and Inflammatory Activation in Obesity</h2>
+<p>The study by Liu et al. provides a groundbreaking mechanism linking obesity-induced metabolic disruption to inflammatory responses. By demonstrating how SAMHD1 deletion leads to nucleotide metabolic rewiring, the researchers uncovered a critical pathway where aberrant dNTP accumulation triggers mitochondrial DNA neosynthesis and subsequent NLRP3 inflammasome hyperactivation. This research not only elucidates the molecular basis of obesity-associated inflammation but also suggests potential therapeutic strategies targeting nucleotide transport and metabolic regulation.</p>
+<h2>🕰️ Transcriptome Time Capsules: Recording Cellular Memory</h2>
+<p>Chao and colleagues introduced TimeVault, a revolutionary genetically encoded system for capturing and storing transcriptomes within living mammalian cells. By leveraging engineered vault particles that capture mRNA, this technology enables researchers to link past molecular states with future cellular outcomes. The ability to record transcriptome changes over seven days with minimal cellular perturbation represents a significant methodological breakthrough, particularly in understanding stress responses, cellular fate decisions, and potential drug resistance mechanisms.</p>
+<h2>🔬 Pangenomic Insights into Parasitic Adaptation</h2>
+<p>The pangenomic analysis of soybean cyst nematode (SCN) populations by Santos et al. revealed the remarkable genetic diversity underlying parasitic adaptation. By constructing genome assemblies from nine different populations, the researchers identified over 19,000 orthologous gene families and discovered substantial genetic variation not captured by single-reference analyses. The study highlighted extensive gene duplication, loss, and structural variations, providing crucial insights into the evolutionary mechanisms driving nematode virulence and host adaptation.</p>
+<p><strong>References:</strong>
+1. <a href="https://pubmed.ncbi.nlm.nih.gov/41538457">Liu et al. - Nucleotide metabolic rewiring in obesity</a>
+2. <a href="https://pubmed.ncbi.nlm.nih.gov/41538410">Chao et al. - TimeVault transcriptome recording</a>
+3. <a href="https://pubmed.ncbi.nlm.nih.gov/41535767">Santos et al. - Soybean cyst nematode pangenome</a></p>
+<p><em>Last update: Fri Jan 16 06:41:16 UTC 2026</em></p>]]></description>
+    <pubDate>Fri, 16 Jan 2026 06:41:21 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260116064121</guid>
   </item>
 </channel>
 </rss>
