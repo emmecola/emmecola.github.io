@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 06:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 06:47:07 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -6033,6 +6033,27 @@ None</p>
 <p><em>Last update: Sun Jan 18 06:38:09 UTC 2026</em></p>]]></description>
     <pubDate>Sun, 18 Jan 2026 06:38:14 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260118063814</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-19</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Frontiers: Unveiling Cellular Mysteries from Cancer to Embryogenesis</h1>
+<p>The rapid advancement of genomic research continues to shed light on complex biological processes, from disease mechanisms to developmental dynamics. Recent publications showcase the power of interdisciplinary approaches in deciphering fundamental cellular functions and potential therapeutic strategies across diverse domains.</p>
+<h2>🧬 PAPSS2: A Molecular Sentinel in Colon Cancer Progression</h2>
+<p>Jin Andong and colleagues provide crucial insights into the role of 3'-phosphoadenosine 5'-phosphosulfate synthetase 2 (PAPSS2) in colon adenocarcinoma. Their comprehensive study reveals that PAPSS2 expression is significantly lower in tumor tissues and correlates with poor clinical outcomes. By integrating bioinformatics analyses and cellular experiments, they demonstrated that PAPSS2 knockdown enhances cancer cell proliferation, migration, and invasion. The research not only identifies PAPSS2 as a potential diagnostic and prognostic biomarker but also elucidates its involvement in critical cellular pathways, including p53 signaling and immune cell interactions.</p>
+<h2>🧩 Chromosome Territory Dynamics during Embryonic Development</h2>
+<p>Shankar Ganesh Akshada's groundbreaking research provides unprecedented insights into chromosome territory organization during zygotic genome activation. Utilizing high-resolution Oligopaints imaging, the study reveals remarkable variations in chromosome packaging and homolog pairing at the single-nucleus level. The research demonstrates how chromosome conformations dynamically change during early developmental stages, with significant implications for understanding genome regulation and potential chromosome-related diseases. By exploring transcriptional changes and chromosome compaction, this work offers a nuanced perspective on the complex interplay between genetic material and cellular function.</p>
+<h2>🌱 Precision Engineering: Tailoring Medical Solutions to Population-Specific Anatomy</h2>
+<p>Sayabut Duangkamon's innovative approach to intramedullary nail design exemplifies the potential of genomics and computational modeling in personalized medical interventions. By analyzing 60 CT scan images of Thai femurs, the researchers developed a multi-femur shape optimization approach that significantly reduces stress on bone structures. This method, which utilizes genetic algorithms and finite element analysis, highlights the importance of population-specific anatomical considerations in medical device design, showcasing how genomic understanding can translate into practical, patient-centered solutions.</p>
+<h2>References</h2>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41549136">PAPSS2 in Colon Cancer</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41549090">Chromosome Territory Dynamics</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41549114">Intramedullary Nail Design</a></li>
+</ul>
+<p><em>Last update: Mon Jan 19 06:47:01 UTC 2026</em></p>]]></description>
+    <pubDate>Mon, 19 Jan 2026 06:47:07 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260119064707</guid>
   </item>
 </channel>
 </rss>
