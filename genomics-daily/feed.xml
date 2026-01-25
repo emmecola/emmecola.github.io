@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 06:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 06:39:22 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -6177,6 +6177,33 @@ None</p>
 <p><em>Last update: Sat Jan 24 06:38:45 UTC 2026</em></p>]]></description>
     <pubDate>Sat, 24 Jan 2026 06:38:51 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260124063851</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-25</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling Complexity from Molecular Mechanisms to Disease Pathways</h1>
+<p>The rapidly evolving field of genomics continues to provide unprecedented insights into biological systems, revealing intricate molecular mechanisms that underpin health and disease. Recent research highlights the power of advanced genomic techniques to decode complex biological processes across diverse domains, from cellular differentiation to disease progression.</p>
+<h2>🧬 Histone Variants: Molecular Switches in Breast Cancer Progression</h2>
+<p>The study by Dhahri et al. reveals how single amino-acid differences in H2B histone variants can dramatically alter chromatin accessibility and trigger epithelial-to-mesenchymal transition (EMT) in breast cancer. By demonstrating that the H2B1O variant can compact nucleosome structure and activate pro-inflammatory pathways, the research provides crucial insights into cancer molecular mechanisms. Particularly noteworthy is the finding that H2B1O overexpression is more common in specific demographic groups and associated with worse prognosis, suggesting potential targeted therapeutic approaches.</p>
+<h2>🧠 Decoding Schizophrenia: Genetic Variants and Neuronal Development</h2>
+<p>Liu et al. uncovered critical functional variants at the 1p36.23 locus that contribute to schizophrenia risk by modulating the RERE gene. By identifying how specific variants increase RERE expression, the researchers illuminated molecular mechanisms underlying neuronal development disruptions. The study demonstrated that RERE overexpression impairs neurogenesis, alters dendritic spine density, and interferes with glutamatergic synaptic transmission, providing a sophisticated understanding of genetic contributions to complex neuropsychiatric disorders.</p>
+<h2>🔬 Microbiome Dynamics in Diabetes Treatment Response</h2>
+<p>The research by Klemets et al. explored the intricate relationship between gut microbiome composition and treatment response in type 2 diabetes patients using semaglutide and empagliflozin. By analyzing fecal microbiome samples across multiple timepoints, the study revealed that baseline microbiome characteristics can predict treatment efficacy. This groundbreaking work highlights the potential of microbiome profiling as a predictive tool in personalized medicine, demonstrating how microbial communities interact with and potentially influence metabolic drug responses.</p>
+<p><strong>References:</strong></p>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41580505/">Dhahri et al. - Single amino-acid differences define H2B variants</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41580391/">Liu et al. - Functional variants at 1p36.23 confer schizophrenia risk</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41580554/">Klemets et al. - Fecal microbiome predicts treatment response</a></p>
+</li>
+</ol>
+<p><em>Last update: Sun Jan 25 06:39:17 UTC 2026</em></p>]]></description>
+    <pubDate>Sun, 25 Jan 2026 06:39:22 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260125063922</guid>
   </item>
 </channel>
 </rss>
