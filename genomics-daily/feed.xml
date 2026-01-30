@@ -5,7 +5,7 @@
     <link>https://emmecola.github.io/genomics-daily/</link>
     <description>AI-generated daily summary of genomics papers</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:57:32 +0000</lastBuildDate>
     <atom:link href="https://emmecola.github.io/genomics-daily/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Genomics Daily - 2025-04-07</title>
@@ -6296,6 +6296,33 @@ None</p>
 <p><em>Last update: Thu Jan 29 06:56:01 UTC 2026</em></p>]]></description>
     <pubDate>Thu, 29 Jan 2026 06:56:07 +0000</pubDate>
     <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260129065607</guid>
+  </item>
+  <item>
+    <title>Genomics Daily - 2026-01-30</title>
+    <link>https://emmecola.github.io/genomics-daily/</link>
+    <description><![CDATA[<h1>Genomic Insights: Unraveling the Complexity of Life from Stem Cells to Cancer</h1>
+<p>The rapid advancement of genomic technologies continues to illuminate the intricate mechanisms underlying biological processes, from cellular aging to disease development. These cutting-edge studies showcase how sophisticated molecular analyses are transforming our understanding of life's fundamental processes across different biological systems.</p>
+<h2>🧬 Cellular Survivorship: The Hidden Trade-off in Muscle Stem Cell Aging</h2>
+<p>The study by Kang et al. reveals a fascinating mechanism of muscle stem cell aging, demonstrating how cellular survival strategies can compromise regenerative capacity. By uncovering the role of the NDRG1 gene in suppressing the mTOR pathway, researchers discovered that muscle stem cells prioritize long-term survival over immediate regenerative potential. This trade-off explains the declining muscle repair efficiency observed with aging, offering crucial insights into age-related muscle degeneration and potential therapeutic interventions.</p>
+<h2>🧠 Evolutionary Blueprints: Decoding Cerebellum Development Across Mammals</h2>
+<p>Sarropoulos and colleagues provided a groundbreaking comparative analysis of gene regulatory networks in cerebellum development across six mammalian species. By integrating single-nucleus gene expression and chromatin accessibility data, they mapped the evolutionary trajectory of regulatory mechanisms. The research identified core regulators of cell identity and reconstructed the historical changes in cis-regulatory elements, particularly highlighting recent evolutionary adaptations like the gain of THRB expression in cerebellar progenitor cells. This work offers unprecedented insights into the molecular foundations of brain development and species-specific neural characteristics.</p>
+<h2>🔬 Unmasking Cancer Origins: The Metabolic Zonation of Hepatocellular Carcinoma</h2>
+<p>Guo et al. made a groundbreaking discovery about hepatocellular carcinoma (HCC) development by demonstrating how metabolic zonation within the liver determines cancer initiation. By introducing specific genetic mutations in different liver zones, they found that HCC is much more likely to arise in zone 3, with genes like Gstm2 and Gstm3 playing critical roles in cancer initiation. This research not only explains the spatial complexity of cancer development but also reveals metabolic vulnerabilities that could inform future therapeutic strategies.</p>
+<h2>References</h2>
+<ol>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41610257">Kang et al. - Cellular survivorship bias as a mechanistic driver of muscle stem cell aging</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41610256">Sarropoulos et al. - The evolution of gene regulation in mammalian cerebellum development</a></p>
+</li>
+<li>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/41196951">Guo et al. - The origin of hepatocellular carcinoma depends on metabolic zonation</a></p>
+</li>
+</ol>
+<p><em>Last update: Fri Jan 30 06:57:25 UTC 2026</em></p>]]></description>
+    <pubDate>Fri, 30 Jan 2026 06:57:32 +0000</pubDate>
+    <guid isPermaLink="false">https://emmecola.github.io/genomics-daily/#20260130065732</guid>
   </item>
 </channel>
 </rss>
