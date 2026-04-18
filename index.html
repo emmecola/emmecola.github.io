@@ -1,51 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8" />
 <title>Moreno Colaiacovo</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="https://chr15m.github.io/minimal-stylesheet/minimal.css" >
-<link rel="stylesheet" type="text/css" href="https://chr15m.github.io/minimal-stylesheet/minimal-inputs.css" >
+<meta name="description" content="Moreno Colaiacovo — Bioinformatics systems specialist at the Joint Research Centre in Ispra, Italy.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<p>Hi, I am Moreno Colaiacovo.</p>
+<!-- Dark hero: name + summary -->
+<header class="hero">
+  <div class="seq-bg" id="seqBg" aria-hidden="true"></div>
+  <div class="hero-inner">
 
-<p>I am a bioinformatician with expertise in NGS data analysis and web development. I currently work as a bioinformatics and IT consultant for the <a href="https://joint-research-centre.ec.europa.eu/index_en">Joint Research Centre</a> in Ispra, Italy. Here, I provide bioinformatics support to the activities of the European Union Reference Laboratory for Genetically Modified Food and Feed (<a href="https://gmo-crl.jrc.ec.europa.eu/">EURL GMFF</a>). I am interested in science, technology and science communication.</p>
+    <div class="hero-identity">
+      <h1 class="name">
+        <span class="name-first">Moreno</span>
+        <span class="name-last">Colaiacovo</span>
+      </h1>
+      <div class="meta">
+        <span class="meta-item">Bioinformatics systems specialist</span>
+      </div>
+      <nav class="hero-links" aria-label="Social links">
+        <a href="https://codeberg.org/emmecola">Codeberg</a>
+        <a href="https://orcid.org/0000-0003-1320-0506">ORCID</a>
+        <a href="https://www.linkedin.com/in/colaiacovo/">LinkedIn</a>
+        <a href="https://mastodon.uno/@emmecola" rel="me">Mastodon</a>
+      </nav>
+    </div>
 
-<p>In my projects I have used the following programming languages and tools:</p>
+    <div class="hero-summary">
+      <div id="summary-content" class="prose"></div>
+    </div>
 
-<p><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=flat" alt="Bash" />
-<img src="https://img.shields.io/badge/Perl-0073A1?logo=perl&amp;logoColor=fff&amp;style=flat" alt="Perl" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff&amp;style=flat" alt="Python" />
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&amp;logoColor=fff&amp;style=flat" alt="R" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&amp;logoColor=fff&amp;style=flat" alt="Ruby" />
-<img src="https://img.shields.io/badge/CSS-639?logo=css&amp;logoColor=fff&amp;style=flat" alt="CSS" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=fff&amp;style=flat" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=000&amp;style=flat" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&amp;logoColor=fff&amp;style=flat" alt="PHP" /></p>
+  </div>
+</header>
 
-<p><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=fff&amp;style=flat" alt="Docker" />
-<img src="https://img.shields.io/badge/Drupal-0678BE?logo=drupal&amp;logoColor=fff&amp;style=flat" alt="Drupal" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff&amp;style=flat" alt="Git" />
-<img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&amp;logoColor=fff&amp;style=flat" alt="Nginx" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=fff&amp;style=flat" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&amp;logoColor=fff&amp;style=flat" alt="Ruby on Rails" />
-<img src="https://img.shields.io/badge/Symfony-000?logo=symfony&amp;logoColor=fff&amp;style=flat" alt="Symfony" /></p>
+<!-- Light cards area -->
+<div class="cards-wrap">
+  <div class="cards-grid">
 
-<p>You can find me here:</p>
+    <!-- Card 1: Skills (loaded from content/skills.md) -->
+    <section class="card">
+      <div class="card-header">
+        <h2 class="card-title">Skills</h2>
+      </div>
+      <div class="card-body">
+        <div id="skills-content" class="prose"></div>
+      </div>
+    </section>
 
-<p>
-<a href="https://codeberg.org/emmecola"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat" alt="Codeberg" /></a>
-<a href="https://github.com/emmecola"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub" /></a>
-<a href="https://orcid.org/0000-0003-1320-0506"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat" alt="ORCID" /></a>
-<a href="https://www.linkedin.com/in/colaiacovo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=fff&amp;style=flat" alt="Linkedin" /></a>
-<a href="https://bsky.app/profile/emmecola.github.io"><img src="https://img.shields.io/badge/Bluesky-1185FE?logo=bluesky&amp;logoColor=fff&amp;style=flat" alt="BlueSky" /></a>
-<a href="https://mastodon.uno/@emmecola"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&amp;logoColor=fff&amp;style=flat" alt="Mastodon" /></a>
-<a href="https://mygenomix.wordpress.com"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&amp;logoColor=fff&amp;style=flat" alt="WordPress" /></a>
-<a href="https://mygenomix.medium.com/"><img src="https://img.shields.io/badge/Medium-000?logo=medium&amp;logoColor=fff&amp;style=flat" alt="Medium" /></a>
-</p>
+    <!-- Card 2: Recent Projects (loaded from content/projects.md) -->
+    <section class="card">
+      <div class="card-header">
+        <h2 class="card-title">Recent Projects</h2>
+      </div>
+      <div class="card-body">
+        <div id="projects-content" class="prose"></div>
+      </div>
+    </section>
 
+    <!-- Card 3: Recent Publications (loaded from content/publications.md) -->
+    <section class="card">
+      <div class="card-header">
+        <h2 class="card-title">Recent Publications</h2>
+      </div>
+      <div class="card-body">
+        <div id="publications-content" class="prose"></div>
+      </div>
+    </section>
+
+  </div>
+</div>
+
+<footer>emmecola.codeberg.page</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+<script src="js/main.js"></script>
 </body>
-
 </html>
