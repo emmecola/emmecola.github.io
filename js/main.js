@@ -28,6 +28,11 @@
     el.style.animationDuration = dur + 's';
     el.style.animationDelay    = (-Math.random() * dur) + 's';
     el.style.opacity           = (0.08 + Math.random() * 0.10).toFixed(3);
+    
+    // Randomly assign animation direction (50% chance for each direction)
+    if (Math.random() > 0.5) {
+      el.style.animationName = 'seq-drift-reverse';
+    }
 
     bg.appendChild(el);
   }
