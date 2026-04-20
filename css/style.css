@@ -113,7 +113,10 @@ body {
 }
 
 /* ── IDENTITY (left column) ─────────────────────────────────────────── */
-.hero-identity { padding-top: 7px; }
+.hero-identity { 
+  padding-top: 7px;
+  min-width: 300px;
+}
 .name {
   font-family: var(--f-disp);
   font-size: clamp(40px, 6.5vw, 72px);
@@ -139,7 +142,7 @@ body {
 
 /* ── HERO LINKS ─────────────────────────────────────────────────────── */
 .hero-links {
-  margin-top: 20px;
+  margin-top: 14px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -147,9 +150,9 @@ body {
 }
 .hero-links a {
   font-family: var(--f-body);
-  font-size: 12px;
+  font-size: 11.5px;
   font-weight: 400;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   color: var(--dark-sub);
   text-decoration: none;
   white-space: nowrap;
@@ -159,7 +162,7 @@ body {
 .hero-links a:hover { color: var(--accent); }
 .hero-links a + a::before {
   content: '\00b7';
-  margin: 0 7px;
+  margin: 0 8px;
   color: var(--dark-sub);
   opacity: 0.35;
   pointer-events: none;
@@ -295,6 +298,17 @@ footer {
   font-weight: 300;
   letter-spacing: 0.3em;
   color: var(--dark-sub);
+}
+footer .footer-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(42, 92, 155, 0.28);
+  transition: color 0.15s, border-color 0.15s;
+  padding-bottom: 1px;
+}
+footer .footer-link:hover {
+  color: #EDF1FF;
+  border-bottom-color: var(--accent);
 }
 
 /* ── ANIMATIONS ─────────────────────────────────────────────────────── */

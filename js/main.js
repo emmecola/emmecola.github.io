@@ -70,3 +70,31 @@
   loadMarkdown('content/projects.md',    'projects-content');
   loadMarkdown('content/publications.md','publications-content');
 }());
+
+/* ── ROT13 string encoder & email decoder ────────────────────────────── */
+(function () {
+  'use strict';
+
+  function rot13(str) {
+    return str.replace(/[a-zA-Z]/g, function(c) {
+      return String.fromCharCode(
+        (c <= 'Z' ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26
+      );
+    });
+  }
+
+  /* Decode email links on page load */
+  var emailLinks = document.querySelectorAll('.email-link[data-email]');
+  for (var i = 0; i < emailLinks.length; i++) {
+    var link = emailLinks[i];
+    var encoded = link.getAttribute('data-email');
+    if (encoded) {
+      var decoded = rot13(encoded);
+      link.href = 'mailto:' + decoded;
+      link.setAttribute('aria-label', 'Email: ' + decoded);
+    }
+  }
+
+  /* Expose rot13 globally if needed */
+  window.rot13 = rot13;
+}());
